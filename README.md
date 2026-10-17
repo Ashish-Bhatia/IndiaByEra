@@ -15,11 +15,11 @@ GitHub Pages serves the repository root from `main`. No custom GitHub Actions wo
 3. Run `python3 scripts/check.py` and `node --check assets/app.js`.
 4. Commit the content and generated HTML together to `main`.
 
-`index.html` includes all history and sources. JavaScript adds chapter navigation, topic filters, search and story controls. Content remains readable without JavaScript.
+`index.html` includes all history and sources. JavaScript adds chapter navigation, topic filters, search and story controls. Content remains readable without JavaScript. Curated “Read alongside” links connect related events across chapters without implying direct causation.
 
 ## Editorial scope
 
-The current edition contains 66 selected milestones, with 69 source references, from August 1947 through July 2025. The review date is not a claim of complete coverage through 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
+The current edition contains 78 selected milestones, with 83 source references, from August 1947 through July 2025. The review date is not a claim of complete coverage through 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
 
 Programme announcements, legal enactment, commencement and measured results are different milestones. Context paragraphs contain editorial interpretation and should be reviewed alongside the linked records. Institutional records establish many dates and decisions but do not independently settle every assessment of outcomes.
 

@@ -29,6 +29,11 @@ for era in d['eras']:
   assert all(ref in d['sources'] for ref in e[7]),f'Unknown source: {e[2]}'
   n+=1
 assert p.details==n
+all_event_ids={event[2] for era in d['eras'] for event in era['events']}
+for origin,targets in d.get('related',{}).items():
+ assert origin in all_event_ids, f'Unknown related-event origin: {origin}'
+ assert len(targets)==len(set(targets)) and origin not in targets, f'Invalid related links: {origin}'
+ assert all(target in all_event_ids for target in targets), f'Broken related link: {origin}' 
 for label,url in d['sources'].values():
  assert urlparse(url).scheme=='https' and urlparse(url).netloc,label
 print(f'PASS: {n} events, {len(d["eras"])} eras, {len(d["sources"])} sources; dates, IDs, anchors and assets valid.')

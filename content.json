@@ -278,6 +278,62 @@
     "farmhistory": [
       "PIB · Parliamentary account of the farm-law repeal",
       "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1784165&lang=2&reg=48"
+    ],
+    "sbi-origin": [
+      "RBI · Chronology of the 1950s",
+      "https://systemhealth.rbi.org.in/Scripts/chro_1950.aspx.html"
+    ],
+    "fci-origin": [
+      "Department of Food and Public Distribution · Institutional history",
+      "https://dfpd.gov.in/history/en"
+    ],
+    "fci-role": [
+      "FCI · Food policy objectives",
+      "https://fci.gov.in/headquarter/"
+    ],
+    "nabard-origin": [
+      "Department of Financial Services · NABARD",
+      "https://financialservices.gov.in/node/4297"
+    ],
+    "sebi-origin": [
+      "SEBI · Establishment and statutory mandate",
+      "https://www.sebi.gov.in/about-sebi.html"
+    ],
+    "ntp1994": [
+      "TRAI archive · National Telecom Policy 1994",
+      "https://trai.gov.in/sites/default/files/2024-10/National%20Telecom%20Policy%201994.pdf"
+    ],
+    "ntp1999": [
+      "TRAI archive · New Telecom Policy 1999",
+      "https://trai.gov.in/sites/default/files/2024-10/New_Telecom_Policy%201999.pdf"
+    ],
+    "wto-india": [
+      "WTO · India membership record",
+      "https://www.wto.org/english/thewto_e/countries_e/india_e.htm"
+    ],
+    "pmgsy-origin": [
+      "NRIDA · PMGSY introduction and launch",
+      "https://pmgsy.nic.in/chapter-i-introduction"
+    ],
+    "nrhm-origin": [
+      "National Health Mission · Rural health mission history",
+      "https://www.nhm.gov.in/index1.php?lang=1&level=1&lid=49&sublinkid=969"
+    ],
+    "dbt-origin": [
+      "DBT Mission · Report on Direct Benefit Transfer",
+      "https://dbtbharat.gov.in/data/documents/REPORT-ON-DBT.pdf"
+    ],
+    "jandhan-origin": [
+      "PIB · Jan Dhan launch, 28 August 2014",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=109147"
+    ],
+    "ibc-origin": [
+      "India Code · Insolvency and Bankruptcy Code, 2016",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2154?view_type=browse"
+    ],
+    "pmjay-origin": [
+      "National Health Authority · PM-JAY programme account",
+      "https://nha.gov.in/img/resources/wall-painting-RFE-Updated-2.pdf"
     ]
   },
   "eras": [
@@ -379,6 +435,18 @@
           ]
         ],
         [
+          "1955",
+          "1955-07-01",
+          "state-bank-india",
+          "The State Bank of India is created",
+          "Economy",
+          "On 1 July 1955, the Imperial Bank of India became the State Bank of India, a state-owned institution.",
+          "Public ownership in Indian banking did not begin with the nationalisation of 14 banks in 1969. SBI was an earlier institutional step. Ownership, branch reach and actual access to useful financial services remain different questions.",
+          [
+            "sbi-origin"
+          ]
+        ],
+        [
           "1956",
           "1956-11-01",
           "states",
@@ -426,6 +494,19 @@
       "intro": "Leadership changed after Nehru's death in 1964. War, drought and food shortages put immediate pressure on the state. Agricultural technology, public procurement and bank nationalisation changed how government sought to deliver security and development.",
       "tension": "Higher output did not mean equal gains. Access to irrigation, credit and markets shaped who benefited from agricultural change.",
       "events": [
+        [
+          "1965",
+          "1965-01-01",
+          "food-corporation",
+          "A public institution for grain procurement and distribution",
+          "Economy",
+          "The Food Corporation of India was established in 1965 under the Food Corporations Act, 1964, against a background of grain shortages. Its functions included price-support operations, grain movement and stocks for food security.",
+          "Food security depended on more than higher-yielding seeds. Procurement, storage, transport and distribution connected farm output with public policy. FCI’s creation should be distinguished from the later 2013 statutory framework for household entitlements.",
+          [
+            "fci-origin",
+            "fci-role"
+          ]
+        ],
         [
           "1965",
           "1965-09-01",
@@ -597,6 +678,18 @@
           ]
         ],
         [
+          "1982",
+          "1982-07-12",
+          "nabard",
+          "NABARD takes on rural development finance",
+          "Economy",
+          "NABARD came into existence on 12 July 1982, taking over agricultural credit functions from the RBI and refinance functions from the Agricultural Refinance and Development Corporation.",
+          "The institution formed part of a longer effort to finance agriculture and rural development. It should not be confused with a retail bank opening an account for every farmer or with a direct cash-transfer scheme.",
+          [
+            "nabard-origin"
+          ]
+        ],
+        [
           "1983",
           "1983-06-25",
           "world-cup",
@@ -667,6 +760,18 @@
           [
             "assamaccord",
             "assamclauses"
+          ]
+        ],
+        [
+          "1988–1992",
+          "1988-04-12",
+          "sebi",
+          "Securities regulation gains an institutional base",
+          "Economy",
+          "SEBI was constituted as a non-statutory body on 12 April 1988. It became a statutory body in 1992, with its Act taking effect from 30 January that year.",
+          "The regulator’s stated remit covers investor protection and securities-market development and regulation. Its administrative creation, statutory powers and subsequent enforcement record are separate parts of the history. The transition crosses the boundary between two eras.",
+          [
+            "sebi-origin"
           ]
         ],
         [
@@ -759,6 +864,31 @@
           ]
         ],
         [
+          "1994–1999",
+          "1994-01-01",
+          "telecom-policy",
+          "Telecom policy opens space for private investment",
+          "Economy",
+          "The National Telecom Policy of 1994 sought private investment alongside the Department of Telecommunications. The 1999 policy revisited the framework after slower-than-expected private entry and financial difficulties for operators.",
+          "Later mobile and internet growth followed policy changes across several governments. The 1999 document itself acknowledged that some earlier targets remained unmet. A policy target is not evidence of a completed rollout.",
+          [
+            "ntp1994",
+            "ntp1999"
+          ]
+        ],
+        [
+          "1995",
+          "1995-01-01",
+          "wto-membership",
+          "India joins the World Trade Organization",
+          "Economy",
+          "India became a WTO member on 1 January 1995. Its participation in the earlier GATT system dated to 8 July 1948.",
+          "The milestone placed India within the new multilateral trade organisation. It was not India’s first engagement with international trade rules. Membership, domestic economic reform and the distribution of trade’s benefits are related but distinct subjects.",
+          [
+            "wto-india"
+          ]
+        ],
+        [
           "1995",
           "1995-08-15",
           "public-internet",
@@ -821,6 +951,18 @@
           ]
         ],
         [
+          "2000",
+          "2000-12-25",
+          "rural-roads",
+          "Rural roads become a national programme",
+          "Economy",
+          "Pradhan Mantri Gram Sadak Yojana launched on 25 December 2000 to improve rural road connectivity, including all-weather access for eligible unconnected habitations.",
+          "This was a different infrastructure task from widening highways between major cities. A completed road, its maintenance and its effect on access to schools, health care and markets each require separate assessment.",
+          [
+            "pmgsy-origin"
+          ]
+        ],
+        [
           "2002–2003",
           "2002-02-27",
           "gujarat-violence",
@@ -845,6 +987,18 @@
       "intro": "The UPA governments led by Manmohan Singh combined economic expansion with legislation on information, employment and welfare. Space missions and nuclear diplomacy expanded international engagement. Terror attacks, the global financial crisis and corruption controversies tested institutions.",
       "tension": "Passing a law and delivering its promise are different things. Implementation, public accountability and access shaped the reach of new entitlements.",
       "events": [
+        [
+          "2005",
+          "2005-04-12",
+          "rural-health-mission",
+          "A mission to strengthen rural public health",
+          "Society",
+          "The National Rural Health Mission launched on 12 April 2005 to improve accessible, affordable health care in rural areas. In 2013 it became one of the two sub-missions within the National Health Mission, alongside the urban mission.",
+          "Strengthening local health services is a different policy task from financing hospital treatment. Both matter to access. Announced coverage and institutional design do not, by themselves, establish service quality in every district.",
+          [
+            "nrhm-origin"
+          ]
+        ],
         [
           "2005",
           "2005-06-15",
@@ -949,6 +1103,18 @@
         ],
         [
           "2013",
+          "2013-01-01",
+          "direct-benefit-transfer",
+          "Direct Benefit Transfer begins",
+          "Economy",
+          "The government launched Direct Benefit Transfer on 1 January 2013 to reform delivery processes using information and communication technology. Rollout and scheme coverage expanded over time.",
+          "DBT preceded Jan Dhan’s 2014 launch and UPI’s 2016 pilot. They perform different functions: delivery of benefits, access to banking and interoperable payments. Their later combination should not erase their separate origins or the need to assess failed and delayed payments.",
+          [
+            "dbt-origin"
+          ]
+        ],
+        [
+          "2013",
           "2013-09-10",
           "national-food-security",
           "Food security gains a statutory framework",
@@ -986,6 +1152,18 @@
       "events": [
         [
           "2014",
+          "2014-08-28",
+          "jan-dhan",
+          "Jan Dhan makes financial inclusion a national mission",
+          "Economy",
+          "Pradhan Mantri Jan Dhan Yojana launched on 28 August 2014 with a drive to extend banking access to unbanked households.",
+          "The programme followed earlier banking and inclusion initiatives. Opening an account is a measurable step, but regular use, access to withdrawals and successful receipt of benefits are different outcomes. The number of accounts should not automatically be treated as the number of newly banked people.",
+          [
+            "jandhan-origin"
+          ]
+        ],
+        [
+          "2014",
           "2014-09-25",
           "make-in-india",
           "Make in India begins",
@@ -1007,6 +1185,18 @@
           [
             "upi",
             "npci"
+          ]
+        ],
+        [
+          "2016",
+          "2016-05-28",
+          "insolvency-code",
+          "A new framework for insolvency resolution",
+          "Economy",
+          "The Insolvency and Bankruptcy Code was enacted on 28 May 2016. It created a consolidated legal framework for insolvency resolution and related processes, with provisions brought into force through notifications.",
+          "Enactment did not make every part of the framework operational on the same day. Assessing its results requires distinguishing resolutions from liquidations and examining recovery, delay and the value of the assets involved. This entry describes the 2016 milestone, rather than every later amendment.",
+          [
+            "ibc-origin"
           ]
         ],
         [
@@ -1044,6 +1234,18 @@
           "The decision gave constitutional weight to questions about personal information, dignity and state power. It should be distinguished from the separate Aadhaar judgment in 2018 and from later legislation on data protection.",
           [
             "privacy"
+          ]
+        ],
+        [
+          "2018",
+          "2018-09-23",
+          "pm-jay",
+          "PM-JAY adds publicly financed hospital cover",
+          "Society",
+          "Ayushman Bharat–Pradhan Mantri Jan Arogya Yojana launched on 23 September 2018 in Ranchi. Its design provided health cover for eligible families for specified secondary and tertiary hospital care.",
+          "Hospital treatment cover is not the same as universal access to every kind of health care. Primary care, outpatient costs, provider availability and treatment quality require separate attention. This entry describes the launch; later eligibility expansions are separate milestones.",
+          [
+            "pmjay-origin"
           ]
         ],
         [
@@ -1171,5 +1373,109 @@
         ]
       ]
     }
-  ]
+  ],
+  "related": {
+    "first-plan": [
+      "food-corporation"
+    ],
+    "food-corporation": [
+      "first-plan",
+      "green-revolution",
+      "national-food-security"
+    ],
+    "green-revolution": [
+      "food-corporation"
+    ],
+    "national-food-security": [
+      "food-corporation"
+    ],
+    "state-bank-india": [
+      "bank-nationalisation",
+      "jan-dhan"
+    ],
+    "bank-nationalisation": [
+      "state-bank-india",
+      "nabard"
+    ],
+    "nabard": [
+      "bank-nationalisation"
+    ],
+    "jan-dhan": [
+      "state-bank-india",
+      "direct-benefit-transfer"
+    ],
+    "direct-benefit-transfer": [
+      "jan-dhan",
+      "aadhaar",
+      "upi"
+    ],
+    "aadhaar": [
+      "direct-benefit-transfer",
+      "privacy-judgment"
+    ],
+    "upi": [
+      "direct-benefit-transfer",
+      "public-internet"
+    ],
+    "cdot": [
+      "telecom-policy"
+    ],
+    "telecom-policy": [
+      "cdot",
+      "public-internet"
+    ],
+    "public-internet": [
+      "telecom-policy",
+      "upi"
+    ],
+    "liberalisation": [
+      "wto-membership",
+      "sebi",
+      "insolvency-code"
+    ],
+    "wto-membership": [
+      "liberalisation"
+    ],
+    "sebi": [
+      "liberalisation"
+    ],
+    "insolvency-code": [
+      "liberalisation"
+    ],
+    "highways": [
+      "rural-roads"
+    ],
+    "rural-roads": [
+      "highways"
+    ],
+    "rural-health-mission": [
+      "pm-jay"
+    ],
+    "pm-jay": [
+      "rural-health-mission"
+    ],
+    "untouchability-law": [
+      "atrocities-act"
+    ],
+    "atrocities-act": [
+      "untouchability-law"
+    ],
+    "republic": [
+      "privacy-judgment"
+    ],
+    "privacy-judgment": [
+      "republic",
+      "aadhaar"
+    ],
+    "chandrayaan-one": [
+      "chandrayaan-three"
+    ],
+    "chandrayaan-three": [
+      "chandrayaan-one",
+      "isro-founded"
+    ],
+    "isro-founded": [
+      "chandrayaan-three"
+    ]
+  }
 }

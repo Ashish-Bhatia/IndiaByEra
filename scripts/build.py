@@ -10,13 +10,19 @@ def link(k):
  return f'<a href="{h(url,quote=True)}" target="_blank" rel="noopener noreferrer">{h(label)} <span aria-hidden="true">↗</span></a>'
 def nav(cls=''):
  return ''.join(f'<a class="era-link {cls}" href="#{e["id"]}" data-era="{e["id"]}"><span class="nav-number">{e["number"]}</span><span>{h(e["short"])}<small>{h(e["range"])}</small></span><span aria-hidden="true">↗</span></a>' for e in d['eras'])
+events_by_id={event[2]:event for era in d['eras'] for event in era['events']}
+def related_links(slug):
+ related=d.get('related',{}).get(slug,[])
+ if not related:return ''
+ links=''.join(f'<li><a href="#{h(key)}">{h(events_by_id[key][0])} · {h(events_by_id[key][3])} <span aria-hidden="true">→</span></a></li>' for key in related)
+ return f'<div class="event-evidence"><span class="eyebrow">Read alongside</span><ul>{links}</ul></div>'
 def chapter(e):
  items=[]
  for j,(year,date,slug,title,topic,body,context,refs) in enumerate(e['events']):
   search=' '.join([year,title,topic,body,context]).lower()
   items.append(f'''<details class="event" id="{slug}" data-topic="{topic}" data-search="{h(search,quote=True)}" {'open' if j==0 else ''}>
   <summary><span class="event-date">{h(year)}</span><span class="event-heading"><span class="topic">{topic}</span><span class="event-title">{h(title)}</span></span><span class="event-plus" aria-hidden="true"></span></summary>
-  <div class="event-body"><p>{h(body)}</p><h4>Context & significance</h4><p>{h(context)}</p><div class="event-evidence"><span class="eyebrow">Read the record</span><ul>{''.join('<li>'+link(r)+'</li>' for r in refs)}</ul><a class="permalink" href="#{slug}">Link to this event <span aria-hidden="true">↗</span></a></div></div>
+  <div class="event-body"><p>{h(body)}</p><h4>Context & significance</h4><p>{h(context)}</p><div class="event-evidence"><span class="eyebrow">Read the record</span><ul>{''.join('<li>'+link(r)+'</li>' for r in refs)}</ul><a class="permalink" href="#{slug}">Link to this event <span aria-hidden="true">↗</span></a></div>{related_links(slug)}</div>
   </details>''')
  return f'''<section class="era" id="{e['id']}" aria-labelledby="heading-{e['id']}"><div class="chapter-meta"><span>Chapter {e['number']}</span><span>{h(e['range'])}</span></div><h2 id="heading-{e['id']}">{h(e['title'])}</h2><p class="chapter-question">{h(e['question'])}</p><p class="chapter-intro">{h(e['intro'])}</p><aside class="context-note"><span>Keep in view</span><p>{h(e['tension'])}</p></aside><div class="events">{''.join(items)}</div></section>'''
 wheel=''.join(f'<line x1="160" y1="160" x2="160" y2="32" transform="rotate({i*15} 160 160)"/>' for i in range(24))
