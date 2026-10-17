@@ -198,6 +198,86 @@
     "hydrogen": [
       "MNRE · National Green Hydrogen Mission",
       "https://mnre.gov.in/en/notice/the-national-green-hydrogen-mission-13-1-2023-648-kb-pdf/"
+    ],
+    "gandhi": [
+      "Gandhi Smriti · Chronology of Mahatma Gandhi",
+      "https://gandhismriti.gov.in/more/chronology-mahatma-gandhi"
+    ],
+    "civilrights": [
+      "Ministry of Social Justice · Origins of the civil-rights legislation",
+      "https://socialjustice.gov.in/common/19536"
+    ],
+    "civilrightslaw": [
+      "India Code · Protection of Civil Rights Act, 1955",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1544?view_type=browse"
+    ],
+    "goa": [
+      "Government of Goa · History and liberation",
+      "https://nri.goa.gov.in/brief-history-of-goa/"
+    ],
+    "isro-origin": [
+      "ISRO · Institutional origins",
+      "https://www.isro.gov.in/ISRO_EN/profile.html"
+    ],
+    "simla": [
+      "MEA · Simla Agreement, 2 July 1972",
+      "https://www.mea.gov.in/Portal/LegalTreatiesDoc/PA72B1578.pdf"
+    ],
+    "bhopal": [
+      "UK Health and Safety Executive · Bhopal accident case study",
+      "https://www.hse.gov.uk/comah/sragtech/caseuncarbide84.htm"
+    ],
+    "assamaccord": [
+      "Government of Assam · History of the Assam Accord",
+      "https://assamaccord.assam.gov.in/about-us/history"
+    ],
+    "assamclauses": [
+      "Government of Assam · Text and clauses of the Accord",
+      "https://assamaccord.assam.gov.in/portlets/assam-accord-and-its-clauses"
+    ],
+    "atrocities": [
+      "India Code · SC/ST Prevention of Atrocities Act, 1989",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1920?col=123456789%2F1362&view_type=search"
+    ],
+    "internet": [
+      "TRAI · A Twenty-Year Odyssey, 1997–2017",
+      "https://www.trai.gov.in/sites/default/files/2024-09/A_TwentyYear_Odyssey_1997_2017.pdf"
+    ],
+    "gujarat": [
+      "NHRC · Further proceedings on the situation in Gujarat, 2002",
+      "https://nhrc.nic.in/media/press-release/further-proceedings-the-commission-on-situation-in-gujarat"
+    ],
+    "bestbakery": [
+      "NHRC · Supreme Court intervention in the Best Bakery case",
+      "https://nhrc.nic.in/media/press-release/nhrc-moves-the-supreme-court-in-best-bakery-case"
+    ],
+    "rte": [
+      "Ministry of Education · Right to Education",
+      "https://www.education.gov.in/rte"
+    ],
+    "rtedate": [
+      "PIB · RTE commencement on 1 April 2010",
+      "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=68827"
+    ],
+    "foodsecurity": [
+      "NFSA portal · Statutory coverage and entitlements",
+      "https://www.nfsa.gov.in/portal/Salient_Features_NFSA_AA"
+    ],
+    "foodlaw": [
+      "India Code · National Food Security Act, 2013",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2113?view_type=browse"
+    ],
+    "privacy": [
+      "PIB · Government statement on the 2017 privacy judgment",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=170206"
+    ],
+    "farmrepeal": [
+      "India Code · Farm Laws Repeal Act, 2021",
+      "https://www.indiacode.nic.in/bitstream/123456789/16976/1/A2021-40.pdf"
+    ],
+    "farmhistory": [
+      "PIB · Parliamentary account of the farm-law repeal",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1784165&lang=2&reg=48"
     ]
   },
   "eras": [
@@ -233,6 +313,18 @@
           "The process was not uniform. Junagadh, Hyderabad and Jammu and Kashmir followed different, contested paths. Territorial integration also continued beyond 1950.",
           [
             "nation"
+          ]
+        ],
+        [
+          "1948",
+          "1948-01-30",
+          "gandhi-assassination",
+          "Gandhi is assassinated",
+          "Conflict",
+          "Nathuram Vinayak Godse assassinated Mahatma Gandhi at Birla House in Delhi on 30 January 1948, less than six months after independence.",
+          "The killing belongs within the history of the early republic, alongside constitution-making and state integration. Independence had not ended political violence or the struggle over communal coexistence.",
+          [
+            "gandhi"
           ]
         ],
         [
@@ -274,6 +366,19 @@
           ]
         ],
         [
+          "1955",
+          "1955-05-08",
+          "untouchability-law",
+          "A law against the practice of untouchability",
+          "Society",
+          "Parliament enacted the Untouchability (Offences) Act in 1955 to punish practices prohibited by Article 17 of the Constitution. It was strengthened and renamed the Protection of Civil Rights Act in 1976.",
+          "The constitutional ban came before this enforcement law. Neither should be confused with evidence that caste discrimination had ended. Later legislation addressed atrocities against Scheduled Castes and Scheduled Tribes.",
+          [
+            "civilrights",
+            "civilrightslaw"
+          ]
+        ],
+        [
           "1956",
           "1956-11-01",
           "states",
@@ -283,6 +388,18 @@
           "Reorganisation accommodated regional identities within the Union. It did not settle every boundary dispute, and further states were created in later decades.",
           [
             "nation"
+          ]
+        ],
+        [
+          "1961",
+          "1961-12-19",
+          "goa-liberation",
+          "Portuguese rule ends in Goa",
+          "Democracy",
+          "Indian military action ended Portuguese rule in Goa, Daman and Diu in December 1961. Goa commemorates its liberation on 19 December.",
+          "The end of British rule in 1947 had not ended every colonial presence in the subcontinent. Goa was initially administered within a Union Territory and attained statehood in 1987.",
+          [
+            "goa"
           ]
         ],
         [
@@ -358,6 +475,18 @@
           ]
         ],
         [
+          "1969",
+          "1969-08-15",
+          "isro-founded",
+          "ISRO takes shape",
+          "Science",
+          "The Indian Space Research Organisation was formed on 15 August 1969, succeeding INCOSPAR, which had been established in 1962.",
+          "Later lunar and planetary missions grew from institutions built over decades. Early ambitions included applying space technology to development, rather than concentrating only on exploration.",
+          [
+            "isro-origin"
+          ]
+        ],
+        [
           "1970",
           "1970-01-01",
           "operation-flood",
@@ -379,6 +508,18 @@
           "Bangladesh emerged as an independent country. Its liberation involved Bangladeshi resistance and Indian military intervention, rather than a war fought by India alone.",
           [
             "foreign"
+          ]
+        ],
+        [
+          "1972",
+          "1972-07-02",
+          "simla-agreement",
+          "The Simla Agreement follows the war",
+          "Conflict",
+          "India and Pakistan signed the Simla Agreement on 2 July 1972. They committed to peaceful settlement through bilateral negotiations or other mutually agreed means and to respecting the Line of Control in Jammu and Kashmir.",
+          "The agreement followed the 1971 war. It established a diplomatic framework but did not settle the Kashmir dispute or convert the Line of Control into an agreed international border.",
+          [
+            "simla"
           ]
         ],
         [
@@ -416,7 +557,7 @@
       "title": "Political Turmoil & the Coalition Turn",
       "question": "How resilient are democratic institutions?",
       "intro": "The Emergency placed extraordinary power in the executive. Its end brought an electoral transfer of power, but the following years also saw political violence, regional conflict and new demands for representation. Telecom research advanced as national politics became more fragmented.",
-      "tension": "This chapter extends the original 1975–1989 period through the 1990 transition, so the story reaches the 1991 reforms without a missing interval.",
+      "tension": "National politics was changing alongside regional demands and struggles over caste representation. Electoral competition did not remove the need to protect civil liberties, minority rights and access to justice.",
       "events": [
         [
           "1975–1977",
@@ -504,6 +645,43 @@
           ]
         ],
         [
+          "December 1984",
+          "1984-12-03",
+          "bhopal-disaster",
+          "Bhopal exposes the human cost of industrial failure",
+          "Society",
+          "A release of methyl isocyanate from the Union Carbide India pesticide plant during the night of 2–3 December caused mass deaths and injuries in Bhopal.",
+          "The disaster raises questions about industrial safety, emergency preparedness and corporate accountability. Death estimates differ by source and time period. A single number should not be presented without explaining what it counts.",
+          [
+            "bhopal"
+          ]
+        ],
+        [
+          "1985",
+          "1985-08-15",
+          "assam-accord",
+          "The Assam Accord addresses a regional movement",
+          "Democracy",
+          "The Union and Assam governments signed the Assam Accord on 15 August with the All Assam Students’ Union and All Assam Gana Sangram Parishad after years of agitation.",
+          "The agreement addressed migration, safeguards for Assamese identity and economic development. Its text differentiated arrivals before 1966, during 1966–1971 and on or after 25 March 1971. Signing the Accord and implementing its provisions were separate processes.",
+          [
+            "assamaccord",
+            "assamclauses"
+          ]
+        ],
+        [
+          "1989–1990",
+          "1989-09-11",
+          "atrocities-act",
+          "A specific law against caste atrocities",
+          "Society",
+          "The Scheduled Castes and the Scheduled Tribes (Prevention of Atrocities) Act was enacted in 1989 and came into force on 30 January 1990. It provided for specified offences, special courts and relief and rehabilitation.",
+          "This framework extended beyond the 1955 law against untouchability. Its existence recognised the need for specific protections. Assessing enforcement requires evidence on reporting, investigation, trials and support for victims.",
+          [
+            "atrocities"
+          ]
+        ],
+        [
           "1989",
           "1989-12-02",
           "national-front",
@@ -581,6 +759,18 @@
           ]
         ],
         [
+          "1995",
+          "1995-08-15",
+          "public-internet",
+          "Public internet services begin",
+          "Science",
+          "Public internet services launched in India on 15 August 1995. The launch preceded the later spread of private internet providers, broadband and mobile data.",
+          "This was a public-service milestone, not the first use of computer networks in India. Access at launch should not be confused with widespread household connectivity. The transition to mass use took many more years.",
+          [
+            "internet"
+          ]
+        ],
+        [
           "1998",
           "1998-05-11",
           "pokhran-two",
@@ -628,6 +818,19 @@
           [
             "reforms",
             "telecom"
+          ]
+        ],
+        [
+          "2002–2003",
+          "2002-02-27",
+          "gujarat-violence",
+          "Gujarat violence and the demand for justice",
+          "Conflict",
+          "The burning of a train at Godhra on 27 February 2002 was followed by large-scale communal violence in Gujarat. The National Human Rights Commission examined protection, relief, investigation and accountability.",
+          "The NHRC later sought Supreme Court intervention in the Best Bakery case, including an independent investigation and a retrial outside Gujarat. Its concerns illustrate why witness protection and credible trials form part of the history, alongside the violence itself.",
+          [
+            "gujarat",
+            "bestbakery"
           ]
         ]
       ]
@@ -707,6 +910,19 @@
         ],
         [
           "2009–2010",
+          "2009-08-26",
+          "right-to-education",
+          "Elementary education becomes an enforceable right",
+          "Society",
+          "The Right of Children to Free and Compulsory Education Act was enacted in 2009 and came into force on 1 April 2010. It provided a legal framework for free and compulsory elementary education for children aged 6–14.",
+          "The law followed the 86th Constitutional Amendment of 2002, which inserted Article 21A. Legal entitlement, school attendance and learning outcomes are different measures of progress.",
+          [
+            "rte",
+            "rtedate"
+          ]
+        ],
+        [
+          "2009–2010",
           "2010-09-29",
           "aadhaar",
           "Aadhaar moves from institution to enrolment",
@@ -729,6 +945,19 @@
           [
             "lokpal",
             "hazare"
+          ]
+        ],
+        [
+          "2013",
+          "2013-09-10",
+          "national-food-security",
+          "Food security gains a statutory framework",
+          "Society",
+          "The National Food Security Act, 2013 established food and nutritional entitlements, including foodgrain coverage for up to 75% of the rural population and 50% of the urban population under the targeted public distribution system.",
+          "These are statutory coverage proportions, not poverty rates. Grain production, household access and nutritional outcomes measure different things. The 2013 framework built on an older public distribution system rather than creating food distribution from nothing.",
+          [
+            "foodsecurity",
+            "foodlaw"
           ]
         ],
         [
@@ -806,6 +1035,18 @@
           ]
         ],
         [
+          "2017",
+          "2017-08-24",
+          "privacy-judgment",
+          "Privacy is recognised as a fundamental right",
+          "Democracy",
+          "On 24 August 2017, a nine-judge Supreme Court bench recognised the constitutional protection of privacy in the Puttaswamy case.",
+          "The decision gave constitutional weight to questions about personal information, dignity and state power. It should be distinguished from the separate Aadhaar judgment in 2018 and from later legislation on data protection.",
+          [
+            "privacy"
+          ]
+        ],
+        [
           "2019",
           "2019-08-05",
           "article-370",
@@ -840,6 +1081,19 @@
           "Incentive commitments are not the same as realised investment, employment or domestic value addition. Those outcomes need sector-specific assessment. Energy transition also remains an ongoing policy area.",
           [
             "pli"
+          ]
+        ],
+        [
+          "2020–2021",
+          "2020-09-27",
+          "farm-laws-repeal",
+          "Farm laws, protests and repeal",
+          "Democracy",
+          "Parliament passed three farm laws in September 2020. Following sustained farmer protests, Parliament passed repeal legislation in November 2021. The Farm Laws Repeal Act received assent on 30 November.",
+          "The repeal reversed those legislative changes. It did not, by itself, resolve wider disputes over agricultural markets, procurement or minimum support prices. Policy design and the process of building public consent are both part of this history.",
+          [
+            "farmrepeal",
+            "farmhistory"
           ]
         ],
         [
