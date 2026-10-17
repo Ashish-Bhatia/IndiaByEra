@@ -1,0 +1,921 @@
+{
+  "title": "India By Era",
+  "reviewed": "18 October 2026",
+  "coverage": "Selected milestones from 1947 to July 2025. This is a curated history, not a complete record of events through 2026.",
+  "sources": {
+    "nation": [
+      "NCERT · Challenges of Nation Building",
+      "https://ncert.nic.in/textbook/pdf/leps201.pdf"
+    ],
+    "democracy": [
+      "NCERT · Era of One-Party Dominance",
+      "https://ncert.nic.in/textbook/pdf/leps202.pdf"
+    ],
+    "planning": [
+      "NCERT · Politics of Planned Development",
+      "https://ncert.nic.in/textbook/pdf/leps203.pdf"
+    ],
+    "foreign": [
+      "NCERT · India's External Relations",
+      "https://ncert.nic.in/textbook/pdf/leps204.pdf"
+    ],
+    "congress": [
+      "NCERT · Challenges to and Restoration of the Congress System",
+      "https://ncert.nic.in/textbook/pdf/leps205.pdf"
+    ],
+    "emergency": [
+      "NCERT · The Crisis of Democratic Order",
+      "https://ncert.nic.in/textbook/pdf/leps206.pdf"
+    ],
+    "regional": [
+      "NCERT · Regional Aspirations",
+      "https://ncert.nic.in/textbook/pdf/leps207.pdf"
+    ],
+    "coalition": [
+      "NCERT · Recent Developments in Indian Politics",
+      "https://ncert.nic.in/textbook/pdf/leps208.pdf"
+    ],
+    "constitution": [
+      "Lok Sabha · Constitution and Parliament",
+      "https://sansad.in/ls/about/introduction"
+    ],
+    "elections": [
+      "Election Commission · Statistical reports",
+      "https://www.eci.gov.in/statistical-reports"
+    ],
+    "dairy": [
+      "NDDB · Operation Flood",
+      "https://www.nddb.org/about/genesis/flood"
+    ],
+    "banks": [
+      "RBI · Review of ownership and corporate structure of private sector banks",
+      "https://www.rbi.org.in/Scripts/PublicationReportDetails.aspx?ID=1160"
+    ],
+    "reforms": [
+      "RBI · Evolution of India's monetary policy",
+      "https://www.rbi.org.in/commonperson/English/Scripts/speeches.aspx?Id=3161"
+    ],
+    "budget": [
+      "Union Budget · Historical budget archive",
+      "https://indiabudget.gov.in/previous_union_budget1947-1995.php"
+    ],
+    "cricket": [
+      "ICC · India's 1983 World Cup victory",
+      "https://www.icc-cricket.com/tournaments/cricketworldcup/news/on-this-day-india-win-the-1983-world-cup"
+    ],
+    "telecom": [
+      "C-DOT · Corporate profile",
+      "https://www.cdot.in/cdotweb/web/corporate_profile.php?lang=en"
+    ],
+    "panchayat": [
+      "Ministry of Panchayati Raj · 73rd Amendment",
+      "https://panchayat.gov.in/en/document/73rd-constitutional-amendment-act-1992/"
+    ],
+    "localdate": [
+      "PIB · Panchayati Raj and commencement in 1993",
+      "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=41384"
+    ],
+    "rti": [
+      "India Code · Right to Information Act, 2005",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/17520?col=123456789%2F2510&view_type=search"
+    ],
+    "work": [
+      "India Code · MGNREGA, 2005",
+      "https://www.indiacode.nic.in/bitstream/123456789/2014/5/a2005-42.pdf"
+    ],
+    "moon1": [
+      "ISRO · Chandrayaan-1",
+      "https://www.isro.gov.in/ISRO_EN/Chandrayaan_1.html"
+    ],
+    "water": [
+      "NASA · Water detected on the Moon, September 2009",
+      "https://www.nasa.gov/image-article/water-detected-high-latitudes-moon/"
+    ],
+    "nuclear": [
+      "US State Department archive · Civil nuclear agreement signing, 2008",
+      "https://2001-2009.state.gov/secretary/rm/2008/10/110916.htm"
+    ],
+    "diplomacy": [
+      "MEA · India's foreign policy and nuclear cooperation",
+      "https://www.mea.gov.in/indian-foreign-policy.htm"
+    ],
+    "aadhaar": [
+      "UIDAI · Annual Report 2024–25",
+      "https://uidai.gov.in/images/E_UIDAI_Annual_Report_24-25.pdf"
+    ],
+    "aadhaarorigin": [
+      "PIB · UIDAI's 2009 establishment and first Aadhaar",
+      "https://www.pib.gov.in/newsite/printrelease.aspx?lang=2&reg=48&relid=102540"
+    ],
+    "mars": [
+      "ISRO · Mars Orbiter Mission FAQ",
+      "https://www.isro.gov.in/FAQ_MarsOrbiterMission.html"
+    ],
+    "upi": [
+      "Digital India · UPI launch and operation",
+      "https://www.digitalindia.gov.in/initiative/unified-payment-interface-upi/"
+    ],
+    "npci": [
+      "NPCI · Unified Payments Interface",
+      "https://www.npci.org.in/product/upi"
+    ],
+    "gst": [
+      "GST Council · About the Council",
+      "https://gstcouncil.gov.in/about-us"
+    ],
+    "gstdate": [
+      "PIB · GST rollout on 1 July 2017",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=159136"
+    ],
+    "jk": [
+      "MHA · Annual Report 2019–20",
+      "https://www.mha.gov.in/sites/default/files/AnnualReport_19_20.pdf"
+    ],
+    "vaccine": [
+      "Ministry of Health · Annual Report 2021–22",
+      "https://www.mohfw.gov.in/sites/default/files/FinalforNetEnglishMoHFW040222_1.pdf"
+    ],
+    "moon3": [
+      "ISRO · Chandrayaan-3 science archive",
+      "https://pradan.issdc.gov.in/ch3/"
+    ],
+    "g20": [
+      "MEA · G20 New Delhi Leaders' Declaration",
+      "https://www.mea.gov.in/Images/CPV/G20-New-Delhi-Leaders-Declaration.pdf"
+    ],
+    "manufacturing": [
+      "PIB · Make in India launch and policy measures",
+      "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1784179&lang=2&reg=48"
+    ],
+    "pli": [
+      "PIB · Production-linked incentives across 14 sectors",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1781854&lang=2&reg=48"
+    ],
+    "election24": [
+      "Inter-Parliamentary Union · India's 2024 election results",
+      "https://data.ipu.org/parliament/IN/IN-LC01/election/IN-LC01-E20240419"
+    ],
+    "dock": [
+      "ISRO · SpaDeX docking, 16 January 2025",
+      "https://www.isro.gov.in/spadex_docking.html"
+    ],
+    "nisar": [
+      "ISRO · Launch mission record",
+      "https://www.isro.gov.in/ISRO_EN/LaunchMissions.html"
+    ],
+    "nia": [
+      "PIB · NIA established after the Mumbai attacks",
+      "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2083245&lang=2&reg=48"
+    ],
+    "lokpal": [
+      "India Code · Lokpal and Lokayuktas Act, 2013",
+      "https://www.indiacode.nic.in/handle/123456789/2122?col=123456789%2F1362"
+    ],
+    "hazare": [
+      "PIB · Joint Lokpal drafting committee, April 2011",
+      "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=71560"
+    ],
+    "demon": [
+      "RBI · Withdrawal of legal-tender status, November 2016",
+      "https://www.rbi.org.in/commonman/english/Scripts/Notification.aspx?Id=1938"
+    ],
+    "maitri": [
+      "MEA · Vaccine Maitri",
+      "https://www.mea.gov.in/vaccine-maitri.htm"
+    ],
+    "highways": [
+      "Indian Economic Service · National Highways Development Programme",
+      "https://ies.gov.in/arthapedia/concept/national-highways-development-programme"
+    ],
+    "npt": [
+      "United Nations · Definition of nuclear-weapon State",
+      "https://unterm.un.org/unterm2/en/view/4f72642a-e635-40b2-b9eb-dd198aed0c81"
+    ],
+    "urban": [
+      "Election Commission for UTs · 74th Amendment",
+      "https://secforuts.mha.gov.in/74th-amendment-and-municipalities-in-india/"
+    ],
+    "hydrogen": [
+      "MNRE · National Green Hydrogen Mission",
+      "https://mnre.gov.in/en/notice/the-national-green-hydrogen-mission-13-1-2023-648-kb-pdf/"
+    ]
+  },
+  "eras": [
+    {
+      "id": "foundations",
+      "number": "01",
+      "range": "1947–1964",
+      "short": "Foundations",
+      "title": "The Foundation & Nation-Building Era",
+      "question": "How do you turn independence into a republic?",
+      "intro": "Freedom brought both possibility and catastrophe. India had to accommodate displaced families, integrate princely states and create institutions for a vast democracy. Under Jawaharlal Nehru, public investment and planning became central to economic policy.",
+      "tension": "Political equality arrived before economic equality. A common citizenship had to coexist with deep differences of language, caste, religion and income.",
+      "events": [
+        [
+          "1947",
+          "1947-08-15",
+          "independence",
+          "Independence, and the trauma of Partition",
+          "Democracy",
+          "British rule ended on 15 August. Partition created India and Pakistan and triggered mass displacement and communal violence.",
+          "Freedom and forced migration belonged to the same moment. Rehabilitation and the protection of minorities became urgent tasks for the new state.",
+          [
+            "nation"
+          ]
+        ],
+        [
+          "1947–1950",
+          "1947-08-16",
+          "integration",
+          "Bringing the princely states into the Union",
+          "Democracy",
+          "Sardar Vallabhbhai Patel and V. P. Menon helped bring more than 500 princely states into India through accession and integration.",
+          "The process was not uniform. Junagadh, Hyderabad and Jammu and Kashmir followed different, contested paths. Territorial integration also continued beyond 1950.",
+          [
+            "nation"
+          ]
+        ],
+        [
+          "1949–1950",
+          "1950-01-26",
+          "republic",
+          "A Constitution, then a republic",
+          "Democracy",
+          "The Constituent Assembly adopted the Constitution on 26 November 1949. Most provisions came into force on 26 January 1950, when India became a republic.",
+          "The Constitution established parliamentary government, fundamental rights and a federal structure. Its original Preamble described a Sovereign Democratic Republic. The words Socialist and Secular were added in 1976.",
+          [
+            "constitution",
+            "emergency"
+          ]
+        ],
+        [
+          "1951",
+          "1951-04-01",
+          "first-plan",
+          "Planning begins with farms and irrigation",
+          "Economy",
+          "The First Five-Year Plan prioritised agriculture, irrigation and recovery after Partition. Planning aimed to direct scarce capital towards development.",
+          "The Second Plan, beginning in 1956, put greater emphasis on heavy industry and the public sector. Agriculture and industry were successive priorities, not a single policy launched in 1951.",
+          [
+            "planning"
+          ]
+        ],
+        [
+          "1951–1952",
+          "1951-10-25",
+          "first-election",
+          "The first general election",
+          "Democracy",
+          "India held its first general election under universal adult franchise in 1951–1952. Congress won, and Nehru continued as prime minister.",
+          "A competitive election made constitutional democracy a working practice. The initial voting age was 21. It was lowered to 18 through the 61st Amendment in 1988.",
+          [
+            "democracy",
+            "elections"
+          ]
+        ],
+        [
+          "1956",
+          "1956-11-01",
+          "states",
+          "Language reshapes the map",
+          "Democracy",
+          "The States Reorganisation Act reorganised state boundaries substantially along linguistic lines. Demands for language-based states had already produced Andhra State in 1953.",
+          "Reorganisation accommodated regional identities within the Union. It did not settle every boundary dispute, and further states were created in later decades.",
+          [
+            "nation"
+          ]
+        ],
+        [
+          "1962",
+          "1962-10-20",
+          "china-war",
+          "War with China tests the early vision",
+          "Conflict",
+          "The Sino-Indian War exposed serious weaknesses in India's defence preparedness and strained the assumptions behind relations with China.",
+          "The conflict pushed defence and border security higher on the national agenda. Non-alignment did not remove the need for military capability.",
+          [
+            "foreign"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "food-and-war",
+      "number": "02",
+      "range": "1964–1975",
+      "short": "Food & conflict",
+      "title": "Wars, Food Security & Social Transition",
+      "question": "What does security mean when food is scarce?",
+      "intro": "Leadership changed after Nehru's death in 1964. War, drought and food shortages put immediate pressure on the state. Agricultural technology, public procurement and bank nationalisation changed how government sought to deliver security and development.",
+      "tension": "Higher output did not mean equal gains. Access to irrigation, credit and markets shaped who benefited from agricultural change.",
+      "events": [
+        [
+          "1965",
+          "1965-09-01",
+          "pakistan-war",
+          "War and the call for food security",
+          "Conflict",
+          "India and Pakistan fought their second war in 1965. Prime Minister Lal Bahadur Shastri's Jai Jawan, Jai Kisan linked the soldier and the farmer.",
+          "Military security and food supply became closely connected national priorities. The Tashkent agreement followed in January 1966.",
+          [
+            "foreign"
+          ]
+        ],
+        [
+          "Mid-1960s onward",
+          "1966-01-01",
+          "green-revolution",
+          "The Green Revolution changes farming",
+          "Society",
+          "High-yielding seeds, irrigation, fertiliser and procurement support raised grain output, especially wheat. M. S. Swaminathan was a key scientific leader among many contributors.",
+          "Gains were uneven across crops, regions and farm sizes. Food security improved over time, rather than arriving immediately with the introduction of new seeds.",
+          [
+            "planning"
+          ]
+        ],
+        [
+          "1967",
+          "1967-02-01",
+          "state-opposition",
+          "Congress loses ground in the states",
+          "Democracy",
+          "The 1967 elections weakened Congress dominance and brought non-Congress governments to several states.",
+          "Opposition coordination and regional politics grew in importance well before the coalition governments of the 1990s.",
+          [
+            "congress"
+          ]
+        ],
+        [
+          "1969",
+          "1969-07-19",
+          "bank-nationalisation",
+          "Fourteen banks are nationalised",
+          "Economy",
+          "Indira Gandhi's government nationalised 14 major commercial banks. Six more were nationalised in 1980.",
+          "The state used banking to pursue wider access to credit and rural branches. Nationalisation was an institutional change, not proof that every lending objective was achieved.",
+          [
+            "banks"
+          ]
+        ],
+        [
+          "1970",
+          "1970-01-01",
+          "operation-flood",
+          "Operation Flood begins",
+          "Society",
+          "NDDB launched Operation Flood in 1970. Under Verghese Kurien's leadership, dairy cooperatives connected producers with urban markets.",
+          "The programme ran in phases through 1996. The White Revolution was a distinct dairy transformation, not part of the Green Revolution's grain technology package.",
+          [
+            "dairy"
+          ]
+        ],
+        [
+          "1971",
+          "1971-12-16",
+          "bangladesh",
+          "War and the creation of Bangladesh",
+          "Conflict",
+          "The liberation struggle in East Pakistan, repression and a major refugee influx preceded the December India–Pakistan war. Pakistan's forces in the east surrendered on 16 December.",
+          "Bangladesh emerged as an independent country. Its liberation involved Bangladeshi resistance and Indian military intervention, rather than a war fought by India alone.",
+          [
+            "foreign"
+          ]
+        ],
+        [
+          "1973",
+          "1973-04-24",
+          "basic-structure",
+          "Limits on the power to amend",
+          "Democracy",
+          "In Kesavananda Bharati, the Supreme Court held that Parliament's power to amend the Constitution did not extend to destroying its basic structure.",
+          "The decision became a central reference point in disputes over the relationship between Parliament, government and the courts.",
+          [
+            "emergency"
+          ]
+        ],
+        [
+          "1974",
+          "1974-05-18",
+          "pokhran-one",
+          "The first nuclear test at Pokhran",
+          "Science",
+          "India conducted its first underground nuclear test on 18 May 1974, commonly called Smiling Buddha. The government described it as a peaceful nuclear explosion.",
+          "It demonstrated nuclear explosive capability. The 1998 tests were a later milestone in India's declared nuclear posture.",
+          [
+            "foreign",
+            "diplomacy"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "democracy-tested",
+      "number": "03",
+      "range": "1975–1991",
+      "short": "Democracy tested",
+      "title": "Political Turmoil & the Coalition Turn",
+      "question": "How resilient are democratic institutions?",
+      "intro": "The Emergency placed extraordinary power in the executive. Its end brought an electoral transfer of power, but the following years also saw political violence, regional conflict and new demands for representation. Telecom research advanced as national politics became more fragmented.",
+      "tension": "This chapter extends the original 1975–1989 period through the 1990 transition, so the story reaches the 1991 reforms without a missing interval.",
+      "events": [
+        [
+          "1975–1977",
+          "1975-06-25",
+          "emergency",
+          "The Emergency curtails civil liberties",
+          "Democracy",
+          "A national Emergency was proclaimed on 25 June 1975 under Indira Gandhi. Opposition leaders were detained and the press faced censorship.",
+          "Coercive sterilisation and demolitions became enduring symbols of abuse. This internal Emergency must be distinguished from earlier emergencies declared over external threats.",
+          [
+            "emergency"
+          ]
+        ],
+        [
+          "1977",
+          "1977-03-01",
+          "janata",
+          "Voters remove the Congress government",
+          "Democracy",
+          "The Janata Party won the general election, and Morarji Desai led the first non-Congress government at the Union level.",
+          "The result demonstrated the force of electoral accountability. Internal divisions later weakened Janata, and Congress returned to power in 1980.",
+          [
+            "emergency",
+            "elections"
+          ]
+        ],
+        [
+          "1978",
+          "1978-12-01",
+          "forty-fourth",
+          "Constitutional safeguards after the Emergency",
+          "Democracy",
+          "The 44th Amendment introduced safeguards against another internal Emergency, including replacing internal disturbance with armed rebellion as a constitutional ground.",
+          "It also protected enforcement of the rights under Articles 20 and 21 from suspension through Article 359. Legal safeguards were one response to the experience of 1975–1977.",
+          [
+            "emergency"
+          ]
+        ],
+        [
+          "1983",
+          "1983-06-25",
+          "world-cup",
+          "India wins its first cricket World Cup",
+          "Culture",
+          "Kapil Dev's team defeated the West Indies at Lord's on 25 June 1983 to win India's first men's Cricket World Cup.",
+          "The victory became a lasting sporting landmark. It should not be treated as the sole cause of cricket's later commercial and broadcasting expansion.",
+          [
+            "cricket"
+          ]
+        ],
+        [
+          "June 1984",
+          "1984-06-01",
+          "blue-star",
+          "Operation Blue Star",
+          "Conflict",
+          "The Army entered the Golden Temple complex in Amritsar during Operation Blue Star, targeting armed militants.",
+          "The operation caused casualties and damage to the Akal Takht and deepened a traumatic conflict. Religious significance and civilian experiences are essential to understanding its impact.",
+          [
+            "regional"
+          ]
+        ],
+        [
+          "August 1984",
+          "1984-08-01",
+          "cdot",
+          "C-DOT builds indigenous telecom research",
+          "Science",
+          "The Centre for Development of Telematics was established in August 1984 to develop Indian telecom technology.",
+          "Its work on digital switching and rural exchanges formed part of a longer technology story. Telecom expansion preceded smartphones, UPI and the Digital India programme.",
+          [
+            "telecom"
+          ]
+        ],
+        [
+          "October–November 1984",
+          "1984-10-31",
+          "anti-sikh-violence",
+          "Assassination and anti-Sikh mass violence",
+          "Conflict",
+          "Indira Gandhi was assassinated on 31 October by two Sikh bodyguards. Anti-Sikh killings followed in Delhi and other places.",
+          "Describing these events only as riots obscures targeted violence against Sikhs. Accountability and justice remained major public issues long afterwards.",
+          [
+            "regional"
+          ]
+        ],
+        [
+          "1989",
+          "1989-12-02",
+          "national-front",
+          "The coalition turn",
+          "Democracy",
+          "After the 1989 election, V. P. Singh formed a National Front government supported from outside by the BJP and Left parties.",
+          "Regional parties and negotiated parliamentary support became central to national government. Coalition politics had earlier precedents, including Janata.",
+          [
+            "coalition",
+            "elections"
+          ]
+        ],
+        [
+          "1990",
+          "1990-08-07",
+          "mandal",
+          "Mandal brings representation to the centre",
+          "Society",
+          "The V. P. Singh government announced implementation of the Mandal Commission's recommendation for OBC reservation in central government employment.",
+          "Support and opposition reshaped national politics around caste, representation and social justice. The policy's legal development continued through later court decisions.",
+          [
+            "coalition"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "opening-up",
+      "number": "04",
+      "range": "1991–2004",
+      "short": "Opening up",
+      "title": "Economic Liberalisation & Globalisation",
+      "question": "What changes when an economy opens up?",
+      "intro": "A balance-of-payments crisis forced urgent decisions in 1991. Reforms reduced industrial licensing and opened more space for trade, private investment and competition. Coalition governments continued the broad shift while security crises and communal conflict challenged the country.",
+      "tension": "Reform was a process across several governments. The expression LPG is useful shorthand, but it hides differences between liberalisation, privatisation and global integration.",
+      "events": [
+        [
+          "1991",
+          "1991-07-24",
+          "liberalisation",
+          "A crisis accelerates economic reform",
+          "Economy",
+          "Prime Minister P. V. Narasimha Rao and Finance Minister Manmohan Singh led reforms during a severe foreign-exchange crisis. Industrial delicensing, trade changes and financial-sector reforms followed.",
+          "The shift had roots in earlier policy changes. It did not abolish all licences, remove the public sector or produce equal outcomes across regions and workers.",
+          [
+            "reforms",
+            "budget",
+            "coalition"
+          ]
+        ],
+        [
+          "1992",
+          "1992-12-06",
+          "ayodhya",
+          "The demolition at Ayodhya",
+          "Conflict",
+          "The Babri Masjid was demolished on 6 December 1992. Communal violence followed.",
+          "The event had lasting effects on politics, law and religious relations. Later legal decisions and the construction of the Ram temple belong to the continuing history, not to the 1992 event itself.",
+          [
+            "coalition"
+          ]
+        ],
+        [
+          "1992–1993",
+          "1992-12-22",
+          "local-government",
+          "Local government gets constitutional status",
+          "Democracy",
+          "The 73rd and 74th Amendments were passed in 1992 and came into force in 1993, strengthening the constitutional framework for panchayats and municipalities.",
+          "They did not invent local government. They gave it a stronger constitutional basis, with elections and reservation provisions. Actual devolution still depended on state action.",
+          [
+            "panchayat",
+            "localdate",
+            "urban"
+          ]
+        ],
+        [
+          "1998",
+          "1998-05-11",
+          "pokhran-two",
+          "Pokhran-II changes India's nuclear posture",
+          "Science",
+          "India conducted nuclear tests on 11 and 13 May under Prime Minister Atal Bihari Vajpayee. Pakistan conducted its own tests later that month.",
+          "India openly asserted nuclear weapons capability. This did not make India a recognised nuclear-weapon State under the Nuclear Non-Proliferation Treaty, which uses a different legal definition.",
+          [
+            "diplomacy",
+            "npt"
+          ]
+        ],
+        [
+          "1998–2000s",
+          "1998-12-01",
+          "highways",
+          "A national highway network takes shape",
+          "Economy",
+          "The National Highways Development Project and Golden Quadrilateral became major infrastructure priorities under the Vajpayee government.",
+          "The four-city highway network was built in stages across subsequent years. Announcement, construction and completion were separate milestones.",
+          [
+            "highways"
+          ]
+        ],
+        [
+          "1999",
+          "1999-05-01",
+          "kargil",
+          "The Kargil conflict",
+          "Conflict",
+          "Indian forces fought to recover positions occupied by infiltrating Pakistani forces on the Indian side of the Line of Control in the Kargil sector.",
+          "The conflict followed the 1998 nuclear tests and the 1999 Lahore diplomatic initiative. Nuclear capability did not prevent limited conventional conflict.",
+          [
+            "foreign"
+          ]
+        ],
+        [
+          "1990s–2000s",
+          "2000-01-01",
+          "it-services",
+          "IT services reach global markets",
+          "Science",
+          "Software exports and IT-enabled services expanded as Indian firms served overseas clients. Skills, telecom links and policy changes helped the sector grow.",
+          "The industry offered a new route into global markets. Its growth was concentrated in particular cities and occupations, rather than representing every part of the economy.",
+          [
+            "reforms",
+            "telecom"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "growth-and-rights",
+      "number": "05",
+      "range": "2004–2014",
+      "short": "Growth & rights",
+      "title": "Economic Expansion & Rights-Based Governance",
+      "question": "How does growth become an entitlement?",
+      "intro": "The UPA governments led by Manmohan Singh combined economic expansion with legislation on information, employment and welfare. Space missions and nuclear diplomacy expanded international engagement. Terror attacks, the global financial crisis and corruption controversies tested institutions.",
+      "tension": "Passing a law and delivering its promise are different things. Implementation, public accountability and access shaped the reach of new entitlements.",
+      "events": [
+        [
+          "2005",
+          "2005-06-15",
+          "rti",
+          "The right to ask the state for information",
+          "Democracy",
+          "The Right to Information Act created a national framework for access to information held by public authorities, subject to specified exemptions.",
+          "It gave citizens a route to seek records and challenge refusals. Transparency depended on functioning information commissions, record keeping and enforcement.",
+          [
+            "rti"
+          ]
+        ],
+        [
+          "2005–2006",
+          "2005-09-05",
+          "employment",
+          "Rural employment becomes a legal guarantee",
+          "Society",
+          "The employment guarantee law was enacted in 2005 and began rolling out in 2006. It guarantees at least 100 days of unskilled manual work per financial year to a rural household whose adult members volunteer for it.",
+          "The entitlement is per household, not per individual. The original NREGA name was changed to MGNREGA in 2009.",
+          [
+            "work"
+          ]
+        ],
+        [
+          "2008",
+          "2008-10-10",
+          "civil-nuclear",
+          "The civil nuclear agreement",
+          "Economy",
+          "India and the United States signed their civil nuclear cooperation agreement on 10 October 2008, following years of negotiation and an NSG waiver.",
+          "It widened the scope for international civilian nuclear cooperation. It did not confer NPT nuclear-weapon State status or resolve every commercial and liability issue.",
+          [
+            "nuclear",
+            "diplomacy",
+            "npt"
+          ]
+        ],
+        [
+          "2008–2009",
+          "2008-10-22",
+          "chandrayaan-one",
+          "Chandrayaan-1, then the water findings",
+          "Science",
+          "Chandrayaan-1 launched on 22 October 2008. Findings announced in 2009 included evidence of water and hydroxyl on the lunar surface from NASA's Moon Mineralogy Mapper aboard the mission.",
+          "The discovery combined an Indian mission with international instruments. The launch year and the scientific announcement year should be kept separate.",
+          [
+            "moon1",
+            "water"
+          ]
+        ],
+        [
+          "2008",
+          "2008-11-26",
+          "mumbai",
+          "The 26/11 Mumbai attacks",
+          "Conflict",
+          "Coordinated terrorist attacks in Mumbai began on 26 November and continued for several days, striking hotels, a railway station and other locations.",
+          "The attacks prompted security changes, including the establishment of the National Investigation Agency and attention to coastal security. These changes require separate evaluation of their implementation.",
+          [
+            "nia"
+          ]
+        ],
+        [
+          "2009–2010",
+          "2010-09-29",
+          "aadhaar",
+          "Aadhaar moves from institution to enrolment",
+          "Science",
+          "UIDAI was established in 2009. The first Aadhaar number was issued on 29 September 2010.",
+          "Aadhaar later became part of welfare and digital service delivery. Identity infrastructure also raised questions about privacy, authentication failures and exclusion. It is not proof of citizenship.",
+          [
+            "aadhaar",
+            "aadhaarorigin"
+          ]
+        ],
+        [
+          "2011",
+          "2011-04-01",
+          "anti-corruption",
+          "Anti-corruption protests gather momentum",
+          "Democracy",
+          "Civil society campaigns, including Anna Hazare's movement, pressed for stronger anti-corruption institutions and a Lokpal law.",
+          "The protests became a major political force. Parliament passed the Lokpal and Lokayuktas legislation in 2013. It received presidential assent in January 2014, with implementation unfolding later.",
+          [
+            "lokpal",
+            "hazare"
+          ]
+        ],
+        [
+          "2013–2014",
+          "2013-11-05",
+          "mangalyaan",
+          "Mangalyaan travels from launch to Mars",
+          "Science",
+          "The Mars Orbiter Mission launched on 5 November 2013 and entered Mars orbit on 24 September 2014.",
+          "These milestones span a change of government. The mission is best understood as an institutional achievement across years of scientific work.",
+          [
+            "mars"
+          ]
+        ]
+      ]
+    },
+    {
+      "id": "digital-india",
+      "number": "06",
+      "range": "2014–present",
+      "short": "Digital & global",
+      "title": "Digital Transformation & Modern Geopolitics",
+      "question": "What does transformation look like in daily life?",
+      "intro": "Digital payments, tax reform and infrastructure have changed how citizens and businesses interact with the state and the economy. These years also brought the pandemic, constitutional changes in Jammu and Kashmir, and prominent space and diplomatic milestones.",
+      "tension": "The present is unfinished history. A programme's launch is evidence of policy intent. Its effect on jobs, public welfare or the environment needs separate evidence over time. Selected coverage here ends in July 2025.",
+      "events": [
+        [
+          "2014",
+          "2014-09-25",
+          "make-in-india",
+          "Make in India begins",
+          "Economy",
+          "Make in India launched on 25 September 2014 to encourage investment and manufacturing.",
+          "It belongs at the start of this period, rather than being described as a new 2024 initiative. Programme goals and measured manufacturing outcomes are different claims.",
+          [
+            "manufacturing"
+          ]
+        ],
+        [
+          "April 2016",
+          "2016-04-11",
+          "upi",
+          "UPI connects bank accounts in real time",
+          "Science",
+          "NPCI's Unified Payments Interface had its pilot launch on 11 April 2016, before demonetisation. It enabled instant payments across participating banks.",
+          "UPI built on an existing banking and payments system. Its later adoption should not be reduced to a single policy or a single political term.",
+          [
+            "upi",
+            "npci"
+          ]
+        ],
+        [
+          "November 2016",
+          "2016-11-08",
+          "demonetisation",
+          "High-value banknotes lose legal-tender status",
+          "Economy",
+          "On 8 November, the government announced withdrawal of the legal-tender status of existing ₹500 and ₹1,000 notes, subject to specified exceptions and exchange arrangements.",
+          "The policy caused a major cash disruption. Claims about lasting effects on black money, counterfeiting, formalisation or digital adoption require evidence beyond the announcement itself.",
+          [
+            "demon"
+          ]
+        ],
+        [
+          "2017",
+          "2017-07-01",
+          "gst",
+          "GST changes indirect taxation",
+          "Economy",
+          "Goods and Services Tax rolled out on 1 July 2017 following a constitutional amendment and negotiation between the Union and states.",
+          "GST subsumed many indirect taxes through a dual Union–state framework. It did not replace every indirect tax or create a single tax rate for all goods and services.",
+          [
+            "gst",
+            "gstdate"
+          ]
+        ],
+        [
+          "2019",
+          "2019-08-05",
+          "article-370",
+          "Jammu and Kashmir's status changes",
+          "Democracy",
+          "August constitutional measures rendered Article 370's special-status provisions inoperative. Reorganisation took effect on 31 October, creating the Union Territories of Jammu and Kashmir, and Ladakh.",
+          "The August constitutional change and October administrative reorganisation were distinct steps. Their effects on rights, representation and security require attention beyond the legal announcements.",
+          [
+            "jk"
+          ]
+        ],
+        [
+          "2020–2022",
+          "2020-03-25",
+          "pandemic",
+          "The pandemic, lockdowns and vaccination",
+          "Society",
+          "COVID-19 brought lockdowns, migration distress and severe pressure on health services. India began its national vaccination programme on 16 January 2021.",
+          "Covaxin was developed in India. Covishield was manufactured in India from the Oxford–AstraZeneca vaccine. Vaccine Maitri involved overseas supplies and was distinct from the domestic vaccination campaign.",
+          [
+            "vaccine",
+            "maitri"
+          ]
+        ],
+        [
+          "2020–2021 onward",
+          "2020-04-01",
+          "pli",
+          "Production-linked incentives target manufacturing",
+          "Economy",
+          "PLI programmes expanded across 14 manufacturing sectors, with a ₹1.97 lakh crore outlay announced in the 2021–22 Union Budget.",
+          "Incentive commitments are not the same as realised investment, employment or domestic value addition. Those outcomes need sector-specific assessment. Energy transition also remains an ongoing policy area.",
+          [
+            "pli"
+          ]
+        ],
+        [
+          "January 2023",
+          "2023-01-04",
+          "green-hydrogen",
+          "A mission for green hydrogen",
+          "Economy",
+          "The National Green Hydrogen Mission set out a framework for developing production, demand and infrastructure for green hydrogen.",
+          "It is one part of a wider energy transition. Announced targets describe intended outcomes, rather than hydrogen already produced or emissions already avoided.",
+          [
+            "hydrogen"
+          ]
+        ],
+        [
+          "August 2023",
+          "2023-08-23",
+          "chandrayaan-three",
+          "A soft landing in the Moon's southern high latitudes",
+          "Science",
+          "Chandrayaan-3 successfully soft-landed on 23 August 2023. India became the fourth country to achieve a lunar soft landing.",
+          "The landing site was around 69° south latitude. It was in the southern high-latitude region, not at the geographic south pole itself.",
+          [
+            "moon3"
+          ]
+        ],
+        [
+          "September 2023",
+          "2023-09-09",
+          "g20",
+          "India hosts the G20 summit",
+          "Democracy",
+          "The New Delhi summit on 9–10 September adopted a leaders' declaration. The African Union joined the G20 as a permanent member.",
+          "The declaration recorded negotiated commitments on development and international cooperation. Summit agreements and their later implementation should be assessed separately.",
+          [
+            "g20"
+          ]
+        ],
+        [
+          "2024",
+          "2024-06-04",
+          "election-2024",
+          "Coalition partners matter again",
+          "Democracy",
+          "The BJP won 240 Lok Sabha seats and Congress 99. The BJP fell short of a majority on its own, and an NDA coalition returned to government under Narendra Modi.",
+          "The result differed from the BJP's single-party majorities in 2014 and 2019. It renewed the importance of allies within the governing coalition.",
+          [
+            "election24",
+            "elections"
+          ]
+        ],
+        [
+          "January 2025",
+          "2025-01-16",
+          "spadex",
+          "SpaDeX demonstrates docking in orbit",
+          "Science",
+          "ISRO successfully docked the two SpaDeX satellites on 16 January 2025.",
+          "The experiment demonstrated a capability relevant to future missions requiring spacecraft to meet and connect in orbit. It did not itself constitute an operational Indian space station.",
+          [
+            "dock"
+          ]
+        ],
+        [
+          "July 2025",
+          "2025-07-30",
+          "nisar",
+          "NISAR adds a joint Earth-observation mission",
+          "Science",
+          "The joint NASA–ISRO NISAR mission launched on 30 July 2025 aboard GSLV-F16.",
+          "The mission extends the space story beyond lunar exploration to observing the Earth. This is the latest dated milestone in this edition.",
+          [
+            "nisar"
+          ]
+        ]
+      ]
+    }
+  ]
+}
