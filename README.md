@@ -19,7 +19,7 @@ GitHub Pages serves the repository root from `main`. No custom GitHub Actions wo
 
 ## Editorial scope
 
-The current edition contains 179 selected milestones, with 212 source references, from August 1947 through January 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
+The current edition contains 185 selected milestones, with 218 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
 
 Programme announcements, legal enactment, commencement and measured results are different milestones. Context paragraphs contain editorial interpretation and should be reviewed alongside the linked records. Institutional records establish many dates and decisions but do not independently settle every assessment of outcomes.
 
@@ -29,4 +29,4 @@ Single dark editorial theme. Responsive chapter index, keyboard-operable disclos
 
 ## Focused editorial passes
 
-All six chapters have received a focused editorial pass. Eras 1–6 contain 28, 29, 29, 26, 30 and 37 milestones respectively. The latest pass covers Era 6, adding fifteen milestones and a chapter overview. Other era content was preserved. Selected coverage still reaches January 2026. Further work should distinguish targeted gap-filling, source verification and any separately researched extension of that cutoff.
+All six chapters have received a focused editorial pass. Eras 1–6 contain 28, 29, 29, 26, 30 and 43 milestones respectively. The latest pass extends Era 6 with six milestones from January–April 2026. It distinguishes trade-negotiation conclusions from treaty entry into force, houselisting from population totals, and an unsuccessful constitutional bill from an enacted amendment. Other era content was preserved. Selected coverage now reaches April 2026; the edition does not claim complete coverage through the October review date.

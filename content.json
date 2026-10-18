@@ -1,7 +1,7 @@
 {
   "title": "India By Era",
   "reviewed": "18 October 2026",
-  "coverage": "Selected milestones from 1947 to January 2026. This is a curated history, not a complete record of events through October 2026.",
+  "coverage": "Selected milestones from 1947 to April 2026. This is a curated history, not a complete record of events through October 2026.",
   "sources": {
     "nation": [
       "NCERT · Challenges of Nation Building",
@@ -850,6 +850,30 @@
     "may2025-halt": [
       "PIB · Record of the May 2025 military exchanges and halt agreement",
       "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128747&lang=2&reg=3"
+    ],
+    "eu-trade2026": [
+      "European Commission · Conclusion of India–EU trade negotiations, 27 January 2026",
+      "https://ec.europa.eu/commission/presscorner/api/files/document/print/en/ip_26_184/IP_26_184_EN.pdf"
+    ],
+    "ai-summit2026": [
+      "MeitY · AI Impact Summit and New Delhi Declaration, February 2026",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2231208&lang=2&reg=48"
+    ],
+    "gdp-series2026": [
+      "MoSPI · New GDP series and revised base year, 27 February 2026",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233518&lang=1&reg=6"
+    ],
+    "census-phase2026": [
+      "MHA · Houselisting phase and self-enumeration rollout, 1 April 2026",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2248021&lang=1&reg=3"
+    ],
+    "income-tax-transition2026": [
+      "Income Tax Department · New Act scope, commencement and transition FAQs",
+      "https://www.incometax.gov.in/iec/foportal/help/all-topics/e-filing-services/objective-and-scope-new-act-faq"
+    ],
+    "parliament-session2026": [
+      "Ministry of Parliamentary Affairs · April 2026 session and bill outcomes",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253254&reg=48&lang=2"
     ]
   },
   "eras": [
@@ -2718,7 +2742,7 @@
       "title": "Digital Transformation & Modern Geopolitics",
       "question": "What does transformation look like in daily life?",
       "intro": "The 2014 election brought a single-party majority within the NDA government. Banking access, sanitation, digital services and tax reform became major priorities. Constitutional disputes, border crises and the pandemic tested institutions. Space missions and diplomacy brought prominent milestones, while the 2024 result increased the importance of coalition partners.",
-      "tension": "These years remain unfinished history. A launch, a law, an election result and a measured public outcome describe different things. The chapter tracks selected milestones through January 2026, with dates and source records kept separate from claims about lasting success.",
+      "tension": "These years remain unfinished history. A launch, a law, an election result and a measured public outcome describe different things. The chapter tracks selected milestones through April 2026, with dates and source records kept separate from claims about lasting success.",
       "events": [
         [
           "May 2014",
@@ -3177,12 +3201,84 @@
           [
             "polio2026"
           ]
+        ],
+        [
+          "January 2026",
+          "2026-01-27",
+          "india-eu-negotiations2026",
+          "India and the EU conclude free-trade negotiations",
+          "Economy",
+          "India and the European Union announced the conclusion of free-trade agreement negotiations on 27 January 2026. Talks had first opened in 2007, paused in 2013 and resumed in 2022.",
+          "Concluding negotiations was a diplomatic and commercial milestone. Legal revision, signature, approval and entry into force were further stages. The announcement did not itself activate every proposed tariff reduction or establish the agreement’s eventual effect on jobs and trade.",
+          [
+            "eu-trade2026"
+          ]
+        ],
+        [
+          "February 2026",
+          "2026-02-19",
+          "ai-impact-summit2026",
+          "New Delhi hosts the AI Impact Summit",
+          "Science",
+          "India hosted the AI Impact Summit in February 2026. The New Delhi Declaration on AI Impact set out shared aims for international cooperation, wider access to AI resources and trusted systems.",
+          "The summit’s declaration and collaborative initiatives were voluntary frameworks. Announced investment, available computing capacity and services people could actually use were separate measures. The event extended the digital-policy story into international AI governance.",
+          [
+            "ai-summit2026"
+          ]
+        ],
+        [
+          "February 2026",
+          "2026-02-27",
+          "gdp-rebasing2026",
+          "A new GDP series changes the statistical benchmark",
+          "Economy",
+          "On 27 February 2026, MoSPI released a new series of annual and quarterly national accounts with 2022–2023 as its base year, replacing the 2011–2012 series. The revision incorporated updated data and methods.",
+          "A revised estimate changes how economic activity is measured. It is not additional production created on release day. Comparisons across decades need consistent series, price bases and revision dates, particularly when assessing claims about growth under different governments.",
+          [
+            "gdp-series2026"
+          ]
+        ],
+        [
+          "April 2026",
+          "2026-04-01",
+          "census-phase-one2026",
+          "Census 2027 begins its housing and houselisting phase",
+          "Society",
+          "Phase I of Census 2027 began on 1 April 2026 with digital self-enumeration in the first set of participating areas. Enumerator visits in those areas were scheduled from 16 April, within a phased national window extending from April to September.",
+          "This phase collected information about housing, amenities and household assets. It was distinct from the later population-enumeration phase. The start of houselisting did not provide a new completed national population total to replace the 2011 Census.",
+          [
+            "census-phase2026"
+          ]
+        ],
+        [
+          "April 2026",
+          "2026-04-01",
+          "income-tax-transition2026",
+          "The new income-tax statute comes into force",
+          "Economy",
+          "The Income-tax Act, 2025 came into force on 1 April 2026. It replaced the 1961 statute for the new framework and used the term tax year for income earned from the 2026–2027 financial year onwards.",
+          "Earlier tax years and related proceedings remained subject to transitional provisions. A new statute, an annual change in tax rates and the rules governing a particular year’s return were different matters. The transition required the administration to handle both legal frameworks.",
+          [
+            "income-tax-transition2026"
+          ]
+        ],
+        [
+          "April 2026",
+          "2026-04-17",
+          "reservation-delimitation-bill2026",
+          "A constitutional proposal fails to secure the required majority",
+          "Democracy",
+          "After discussion on 16 and 17 April 2026, the Constitution (One Hundred and Thirty-First Amendment) Bill did not secure the special majority required for its motion for consideration. The dependent delimitation and Union Territories bills were not taken further in that session.",
+          "The proposals concerned legislative representation for women and delimitation. The bill remained a proposal rather than becoming a constitutional amendment. Its outcome belongs alongside the separate 106th Amendment enacted in 2023 and the conditions attached to that earlier framework.",
+          [
+            "parliament-session2026"
+          ]
         ]
       ],
       "overview": [
         "Begin with the 2014 political change and the programmes that followed. Jan Dhan, Swachh Bharat and Digital India addressed banking, sanitation and services. UPI and GST changed transactions through different institutions. Housing regulation and insolvency reform added legal frameworks whose effects depended on implementation.",
         "The middle years brought disputes over privacy, citizenship and Jammu and Kashmir’s status. Pulwama, Balakot and Galwan exposed security pressures on different borders. The pandemic then disrupted work, migration and health care. Vaccination and economic support unfolded alongside severe losses and uneven access.",
-        "The later milestones connect climate commitments, data protection and women’s representation with new criminal laws and electoral accountability. The 2024 election and Jammu and Kashmir’s assembly polls changed the political picture. Pahalgam and the May 2025 India–Pakistan conflict brought another security crisis. Space and public-health achievements continued across this period."
+        "The later milestones connect climate commitments, data protection and women’s representation with new criminal laws and electoral accountability. The 2024 election and Jammu and Kashmir’s assembly polls changed the political picture. Pahalgam and the May 2025 India–Pakistan conflict brought another security crisis. Space and public-health achievements continued across this period. Early 2026 added trade negotiations, AI diplomacy, a new statistical benchmark and the start of census houselisting. Tax-law implementation and an unsuccessful constitutional proposal show why commencement and parliamentary outcomes need to be tracked separately from announcements."
       ]
     }
   ],
@@ -3706,6 +3802,30 @@
     "pahalgam-sindoor2025": [
       "pulwama-balakot",
       "kargil"
+    ],
+    "india-eu-negotiations2026": [
+      "wto-membership",
+      "liberalisation"
+    ],
+    "ai-impact-summit2026": [
+      "digital-india-launch",
+      "data-protection-law"
+    ],
+    "gdp-rebasing2026": [
+      "liberalisation",
+      "global-financial-crisis"
+    ],
+    "census-phase-one2026": [
+      "census2011",
+      "women-reservation2023"
+    ],
+    "income-tax-transition2026": [
+      "gst",
+      "frbm-law"
+    ],
+    "reservation-delimitation-bill2026": [
+      "women-reservation2023",
+      "local-government"
     ]
   }
 }
