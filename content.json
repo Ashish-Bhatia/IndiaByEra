@@ -1194,6 +1194,42 @@
     "hockey-worldcup1975": [
       "FIH · 1975 men’s World Cup results",
       "https://www.fih.hockey/events/world-cup/men/1975-mens-world-cup-18/schedule-fixtures-results"
+    ],
+    "icds-origin1975": [
+      "Delhi Women and Child Development Department · ICDS origins and objectives",
+      "https://wcd.delhi.gov.in/wcd/objectives-integrated-child-development-services"
+    ],
+    "icds-audit-history": [
+      "CAG · Performance audit of ICDS, origins of the scheme",
+      "https://cag.gov.in/en/audit-report/details/1804"
+    ],
+    "air-pollution-law1981": [
+      "India Code · Air (Prevention and Control of Pollution) Act, 1981",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1389?col=123456789%2F1362&view_type=search"
+    ],
+    "asian-games1982": [
+      "Olympic Council of Asia · New Delhi 1982",
+      "https://oca.asia/games/99-new-delhi-1982.html"
+    ],
+    "rakesh-sharma1984": [
+      "Human Space Flight Centre · Astronaut history",
+      "https://www.hsfc.gov.in/AstronautCorner"
+    ],
+    "northeast-statehood1987": [
+      "Home Affairs memorandum, reproduced by DDA · Statehood effective 20 February 1987",
+      "https://dda.gov.in/sites/default/files/planning%20files/1983.pdf"
+    ],
+    "bofors-parliament1987": [
+      "Lok Sabha · Statement on purchase of guns from Bofors, 20 April 1987",
+      "https://eparlib.sansad.in/bitstream/123456789/815974/1/08_VIII_20-04-1987_p7_p9_PII.pdf"
+    ],
+    "bofors-judicial-background": [
+      "Supreme Court · Union of India v. W. N. Chadha, historical background reproduced by Indian Kanoon",
+      "https://indiankanoon.org/doc/1787029/"
+    ],
+    "literacy-mission1988": [
+      "Education Ministry via PIB · National Literacy Mission origins",
+      "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=42161"
     ]
   },
   "eras": [
@@ -2381,6 +2417,19 @@
           ]
         ],
         [
+          "2 October 1975",
+          "1975-10-02",
+          "icds-child-development",
+          "Child development services begin through local projects",
+          "Society",
+          "The Integrated Child Development Services scheme launched on 2 October 1975, initially through 33 projects across India. It addressed the nutrition, health and development needs of young children and support for mothers.",
+          "The scheme linked several services rather than offering only a food transfer. Its initial projects should be distinguished from later expansion through Anganwadi services. Programme coverage, staffing, service quality and children’s nutritional outcomes require separate evidence.",
+          [
+            "icds-origin1975",
+            "icds-audit-history"
+          ]
+        ],
+        [
           "25 October 1975 / 1976 Act",
           "1975-10-25",
           "bonded-labour-abolition",
@@ -2507,6 +2556,18 @@
           ]
         ],
         [
+          "16 May 1981",
+          "1981-05-16",
+          "air-pollution-law",
+          "Air-pollution control gains a dedicated statute",
+          "Environment",
+          "The Air (Prevention and Control of Pollution) Act, 1981 came into force on 16 May 1981. It provided a legal framework for preventing, controlling and reducing air pollution, with responsibilities assigned to pollution-control boards.",
+          "The Act extended the regulatory story beyond the Water Act of 1974. A statutory framework did not establish cleaner air everywhere. Monitoring, industrial controls and enforcement remained practical tests alongside the growth of cities and industry.",
+          [
+            "air-pollution-law1981"
+          ]
+        ],
+        [
           "1982",
           "1982-07-12",
           "nabard",
@@ -2516,6 +2577,18 @@
           "The institution formed part of a longer effort to finance agriculture and rural development. It should not be confused with a retail bank opening an account for every farmer or with a direct cash-transfer scheme.",
           [
             "nabard-origin"
+          ]
+        ],
+        [
+          "19 November–4 December 1982",
+          "1982-11-19",
+          "delhi-asian-games1982",
+          "New Delhi hosts the ninth Asian Games",
+          "Culture",
+          "The ninth Asian Games took place in New Delhi from 19 November to 4 December 1982. India hosted athletes from across Asia in a multi-sport event.",
+          "Hosting belongs in the period’s sporting history alongside the 1983 cricket World Cup victory, but it was a different kind of achievement. Event organisation, infrastructure and athlete performance need distinct assessment. The Games also placed Delhi at the centre of a major international gathering.",
+          [
+            "asian-games1982"
           ]
         ],
         [
@@ -2540,6 +2613,18 @@
           "The mission adds a service dimension to the story of launch vehicles and research institutions. Launch, successful deployment and routine operation were separate achievements. Space infrastructure became part of communications and observation systems used on the ground.",
           [
             "insat1b"
+          ]
+        ],
+        [
+          "3 April 1984",
+          "1984-04-03",
+          "rakesh-sharma-spaceflight",
+          "Rakesh Sharma flies to space aboard Soyuz T-11",
+          "Science",
+          "Indian Air Force pilot Rakesh Sharma launched aboard Soyuz T-11 on 3 April 1984 as part of the Soviet Interkosmos programme, becoming the first Indian citizen in space.",
+          "The flight was an achievement through international cooperation. It was distinct from launching a person aboard an Indian-built spacecraft or launch vehicle. Crewed flight, satellite services and domestic launch capability developed through different programmes and milestones.",
+          [
+            "rakesh-sharma1984"
           ]
         ],
         [
@@ -2678,6 +2763,31 @@
           ]
         ],
         [
+          "20 February 1987",
+          "1987-02-20",
+          "mizoram-arunachal-statehood",
+          "Mizoram and Arunachal Pradesh become states",
+          "Democracy",
+          "The Union Territories of Mizoram and Arunachal Pradesh became states on 20 February 1987. The date marked a change in their constitutional status within the Union.",
+          "Mizoram’s statehood followed the 1986 accord, while Arunachal Pradesh had a different political and administrative history. Sharing a statehood date does not make their routes identical. These changes also differed from the Union Territory arrangements introduced in 1972.",
+          [
+            "northeast-statehood1987"
+          ]
+        ],
+        [
+          "April 1987",
+          "1987-04-16",
+          "bofors-allegations1987",
+          "Bofors allegations bring defence procurement under scrutiny",
+          "Democracy",
+          "A Swedish Radio broadcast on 16 April 1987 alleged payoffs linked to India’s Bofors gun contract. The controversy reached the Lok Sabha, where a statement on the purchase was made on 20 April. The Supreme Court later recounted the allegations’ emergence in Union of India v. W. N. Chadha.",
+          "This milestone records the allegations and the public accountability dispute, not a finding of individual guilt. Procurement decisions, reported payments, investigations and later judicial outcomes are distinct parts of the case. The controversy formed part of the political pressures of the late 1980s.",
+          [
+            "bofors-parliament1987",
+            "bofors-judicial-background"
+          ]
+        ],
+        [
           "30 May 1987",
           "1987-05-30",
           "goa-statehood",
@@ -2712,6 +2822,18 @@
           "The regulator’s stated remit covers investor protection and securities-market development and regulation. Its administrative creation, statutory powers and subsequent enforcement record are separate parts of the history. The transition crosses the boundary between two eras.",
           [
             "sebi-origin"
+          ]
+        ],
+        [
+          "5 May 1988",
+          "1988-05-05",
+          "national-literacy-mission",
+          "Adult literacy becomes a national mission",
+          "Society",
+          "The National Literacy Mission launched on 5 May 1988 to impart functional literacy to people aged 15–35 who were not literate. It added a focused adult-literacy effort to the education policy landscape.",
+          "Adult learning addressed people who had already missed formal schooling, rather than replacing expansion of school education. Campaign participation, reading and numeracy skills, and opportunities to retain those skills were different tests of progress.",
+          [
+            "literacy-mission1988"
           ]
         ],
         [
@@ -2818,8 +2940,8 @@
       ],
       "overview": [
         "Begin with the Emergency and the response to it. Restrictions on political freedom coexisted with legislation on bonded labour and equal remuneration. These laws need examination on their own terms, without treating them as a measure of democratic freedom. The 1977 election, the inquiry into abuses and constitutional safeguards were followed by Janata’s collapse and Congress’s return.",
-        "The 1980s combined new public services with major failures of protection. Satellite communications, telecom research, forest regulation and consumer remedies expanded institutional responsibilities. Punjab, the anti-Sikh killings and Bhopal exposed different forms of violence and vulnerability. Assam and Mizoram pursued distinct settlements, Goa attained statehood, and SAARC created a regional forum alongside India’s security commitments in Sri Lanka.",
-        "The closing years connect the 1989 election, Mandal, the Ayodhya mobilisation and the displacement of Kashmiri Pandits. These were distinct developments with overlapping political consequences. The chapter ends with Rajiv Gandhi’s assassination during the 1991 election campaign. The next chapter takes up the economic crisis and reforms."
+        "The 1980s combined expanded public responsibilities with major failures of protection. Child-development services, adult literacy, air and forest regulation, and consumer remedies addressed different needs. Satellite services and Rakesh Sharma’s flight marked distinct space achievements; Delhi hosted the Asian Games before the cricket World Cup victory. Punjab, the anti-Sikh killings and Bhopal exposed different forms of violence and vulnerability. Assam and Mizoram pursued distinct settlements, and statehood changed the federal map.",
+        "The closing years connect the Bofors allegations and accountability dispute with the 1989 election, followed by Mandal, the Ayodhya mobilisation and the displacement of Kashmiri Pandits. These were distinct developments with overlapping political consequences. SAARC and intervention in Sri Lanka also show contrasting regional commitments. The chapter ends with Rajiv Gandhi’s assassination during the 1991 election campaign. The next chapter takes up the economic crisis and reforms."
       ]
     },
     {
