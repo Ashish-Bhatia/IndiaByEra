@@ -1230,6 +1230,46 @@
     "literacy-mission1988": [
       "Education Ministry via PIB · National Literacy Mission origins",
       "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=42161"
+    ],
+    "aids-programme1992": [
+      "National AIDS Control Organisation · Programme origins",
+      "https://naco.mohfw.gov.in/"
+    ],
+    "pslv-d2-success": [
+      "ISRO · PSLV-D2 mission",
+      "https://www.isro.gov.in/mission_PSLV_D2.html"
+    ],
+    "pulse-polio1995": [
+      "Health Ministry · Pulse Polio programme in India",
+      "https://www.mohfw.gov.in/sites/default/files/Pulse%20polio%20Programme%20in%20India.pdf"
+    ],
+    "vishaka-judgment1997": [
+      "Supreme Court · Vishaka v. State of Rajasthan, reproduced by Indian Kanoon",
+      "https://indiankanoon.org/doc/1031794/"
+    ],
+    "bhuj-earthquake2001": [
+      "IIT Kanpur, NICEE · Bhuj earthquake of 26 January 2001",
+      "https://www.nicee.org/Bhuj.php"
+    ],
+    "kutch-recovery-study": [
+      "National Institute of Disaster Management · Kutch earthquake recovery study",
+      "https://nidm.gov.in/PDF/pubs/KUTCH%202001.pdf"
+    ],
+    "delhi-metro-first-service": [
+      "DMRC · First corridor and passenger-service date",
+      "https://delhimetrorail.com/pages/about-us/introduction"
+    ],
+    "delhi-metro-commissioning": [
+      "Urban Development Ministry · Delhi MRTS commissioning record",
+      "https://www.mohua.gov.in/upload/uploadfiles/files/Delhi_MRTS.pdf"
+    ],
+    "rtgs-launch2004": [
+      "RBI · RTGS went live on 26 March 2004",
+      "https://www.rbi.org.in/commonman/English/scripts/PressReleases.aspx?Id=109"
+    ],
+    "rtgs-design": [
+      "RBI · Real Time Gross Settlement explained",
+      "https://www.rbi.org.in/scripts/FS_FAQs.aspx?Id=65"
     ]
   },
   "eras": [
@@ -2982,6 +3022,18 @@
         ],
         [
           "1992",
+          "1992-01-01",
+          "national-aids-programme",
+          "A national programme organises the response to HIV/AIDS",
+          "Society",
+          "The first National AIDS Control Programme launched in 1992, and the National AIDS Control Organisation was constituted to implement it. The first programme phase ran from 1992 to 1999.",
+          "Institutional coordination added a public-health dimension to the reform years. The programme’s creation should be distinguished from later changes in prevention, detection, treatment and access. Its launch did not by itself establish control of the epidemic.",
+          [
+            "aids-programme1992"
+          ]
+        ],
+        [
+          "1992",
           "1992-04-01",
           "securities-scandal1992",
           "The securities scandal exposes weaknesses in market oversight",
@@ -3082,6 +3134,18 @@
           ]
         ],
         [
+          "15 October 1994",
+          "1994-10-15",
+          "pslv-first-success",
+          "PSLV successfully places IRS-P2 in orbit",
+          "Science",
+          "PSLV-D2 successfully launched the IRS-P2 remote-sensing satellite on 15 October 1994. ISRO records this second developmental flight as a successful milestone in the launch vehicle programme.",
+          "Domestic launch capability developed through testing and successive missions. This success was distinct from the programme’s earlier developmental attempt and from later commercial or exploration missions. It adds space engineering to the era’s account of technological change.",
+          [
+            "pslv-d2-success"
+          ]
+        ],
+        [
           "3 November 1994",
           "1994-11-03",
           "nse-equity-trading",
@@ -3103,6 +3167,18 @@
           "The milestone placed India within the new multilateral trade organisation. It was not India’s first engagement with international trade rules. Membership, domestic economic reform and the distribution of trade’s benefits are related but distinct subjects.",
           [
             "wto-india"
+          ]
+        ],
+        [
+          "1995",
+          "1995-01-01",
+          "pulse-polio-campaign",
+          "Pulse Polio begins nationwide immunisation rounds",
+          "Society",
+          "The nationwide Pulse Polio immunisation programme launched in 1995. National Immunisation Days became part of the campaign against polio.",
+          "Repeated vaccination rounds, surveillance and reaching missed children were different parts of the effort. The campaign’s start should not be confused with the later interruption of wild-poliovirus transmission or the WHO regional certification recorded in the next chapter.",
+          [
+            "pulse-polio1995"
           ]
         ],
         [
@@ -3178,6 +3254,18 @@
           "A separate tribunal, TDSAT, took over adjudicatory and dispute functions following the 2000 amendment. Market entry, regulation and dispute resolution became distinct parts of the telecom framework.",
           [
             "trai-history"
+          ]
+        ],
+        [
+          "13 August 1997",
+          "1997-08-13",
+          "vishaka-workplace-guidelines",
+          "The Supreme Court sets workplace sexual-harassment safeguards",
+          "Society",
+          "In Vishaka v. State of Rajasthan, decided on 13 August 1997, the Supreme Court laid down guidelines to prevent sexual harassment at workplaces and provide complaints procedures. The Court directed observance of the safeguards pending legislation.",
+          "The guidelines formed an important stage before the dedicated workplace-harassment statute of 2013. Judicial directions, employer procedures and effective remedies were separate steps. The judgment placed workplace safety within the constitutional guarantees of equality and dignity.",
+          [
+            "vishaka-judgment1997"
           ]
         ],
         [
@@ -3295,6 +3383,19 @@
           ]
         ],
         [
+          "26 January 2001",
+          "2001-01-26",
+          "gujarat-earthquake2001",
+          "A major earthquake devastates Kutch and other parts of Gujarat",
+          "Environment",
+          "A powerful earthquake struck the Kutch region of Gujarat on 26 January 2001. Bhuj and other towns and settlements suffered extensive destruction, prompting rescue, relief and a long reconstruction effort.",
+          "The disaster exposed the importance of building safety, local capacity and recovery planning. Immediate rescue and rebuilding livelihoods were different tasks. Its place in disaster-management history precedes the 2004 tsunami and the national legislation of 2005.",
+          [
+            "bhuj-earthquake2001",
+            "kutch-recovery-study"
+          ]
+        ],
+        [
           "December 2001",
           "2001-12-13",
           "parliament-attack2001",
@@ -3333,6 +3434,19 @@
           ]
         ],
         [
+          "24–25 December 2002",
+          "2002-12-24",
+          "delhi-metro-opens",
+          "Delhi Metro begins with the Shahdara–Tis Hazari corridor",
+          "Economy",
+          "Delhi Metro’s first corridor, between Shahdara and Tis Hazari, was commissioned on 24 December 2002. DMRC records the opening for passenger service on 25 December.",
+          "The initial corridor was one stage of a much larger network developed later. Its opening adds urban public transport to the highway and rural-road story. Network expansion, ridership, affordability and connections with other transport require separate assessment.",
+          [
+            "delhi-metro-first-service",
+            "delhi-metro-commissioning"
+          ]
+        ],
+        [
           "26 May / 10 June 2003",
           "2003-05-26",
           "electricity-reform2003",
@@ -3367,12 +3481,25 @@
           [
             "nps-origin2004"
           ]
+        ],
+        [
+          "26 March 2004",
+          "2004-03-26",
+          "rtgs-payment-system",
+          "RTGS introduces real-time gross settlement",
+          "Economy",
+          "The Reserve Bank of India’s Real Time Gross Settlement system went live on 26 March 2004. It enabled funds transfers to settle individually in real time, rather than through netting of multiple transactions.",
+          "RTGS was a change in banking and payment infrastructure distinct from the later retail-payment systems. The launch date preceded wider participation and later changes to operating hours and access. It shows how financial modernisation also depended on settlement systems behind customer transactions.",
+          [
+            "rtgs-launch2004",
+            "rtgs-design"
+          ]
         ]
       ],
       "overview": [
-        "Start with the sequence of the 1991 crisis. The rupee adjustment came before the July Budget and industrial policy changes. Exchange-rate reform continued through 1992–1994. The securities scandal exposed weaknesses in oversight, while electronic equity trading changed the infrastructure through which expanding markets operated.",
-        "Follow the institutions alongside changes of government. Coalition bargaining gave regional parties a larger national role. Local-government amendments, PESA and the Bommai judgment addressed different parts of federalism. Human-rights oversight and disability legislation expanded the legal and institutional routes through which people sought protection and participation.",
-        "Public internet access, telecom regulation and software exports changed the prospects of several industries. School nutrition, elementary education, rural roads and electricity reform addressed other needs. A contributory pension system began for new central-government entrants in 2004. These developments shared a period with Lahore diplomacy, Kargil and the Parliament attack. The next era follows the expansion of rights-based welfare after 2004."
+        "Start with the 1991 crisis and the institutions that followed. Rupee adjustment preceded the July Budget and industrial-policy changes. Exchange-rate reform continued through 1992–1994. The securities scandal exposed weaknesses in oversight; electronic equity trading and, later, RTGS changed market and payment infrastructure. PSLV’s successful 1994 flight adds another path of technological development.",
+        "Follow public protection alongside changes of government. Coalition bargaining gave regional parties a larger national role. Local-government amendments, PESA and the Bommai judgment addressed different parts of federalism. Human-rights oversight, disability law and the Vishaka guidelines widened routes to protection and participation. National AIDS control and Pulse Polio addressed different public-health challenges.",
+        "Internet access, telecom regulation and software exports changed several industries. School nutrition, education, rural roads, Delhi Metro and electricity reform addressed other needs. The Gujarat earthquake exposed the demands of rescue and reconstruction. These developments shared a period with Lahore diplomacy, Kargil and the Parliament attack. Contributory pensions and RTGS began before the 2004 change of government; the next chapter follows the expansion of rights-based welfare."
       ]
     },
     {

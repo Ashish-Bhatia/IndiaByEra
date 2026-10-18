@@ -19,7 +19,7 @@ GitHub Pages serves the repository root from `main`. No custom GitHub Actions wo
 
 ## Editorial scope
 
-The current edition contains 254 selected milestones, with 307 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
+The current edition contains 261 selected milestones, with 317 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
 
 Programme announcements, legal enactment, commencement and measured results are different milestones. Context paragraphs contain editorial interpretation and should be reviewed alongside the linked records. Institutional records establish many dates and decisions but do not independently settle every assessment of outcomes.
 
@@ -29,4 +29,4 @@ Single dark editorial theme. Responsive chapter index, keyboard-operable disclos
 
 ## Focused editorial passes
 
-All six chapters have received focused editorial passes. Eras 1–6 contain 48, 43, 43, 33, 37 and 50 milestones respectively. The latest pass deepens Era 3, 1975–1991, with seven milestones covering child development, air-pollution regulation, the Asian Games, Rakesh Sharma’s flight, northeastern statehood, the Bofors controversy and adult literacy. The chapter overview now places these services and public debates alongside its political sequence. Other era content and the April 2026 coverage cutoff were preserved. Continue the next focused pass with Era 4, 1991–2004.
+All six chapters have received focused editorial passes. Eras 1–6 contain 48, 43, 43, 40, 37 and 50 milestones respectively. The latest pass deepens Era 4, 1991–2004, with seven milestones covering AIDS control, PSLV, Pulse Polio, the Vishaka guidelines, the Gujarat earthquake, Delhi Metro and RTGS. The chapter overview now links public health, rights, transport and payment infrastructure to the existing reform sequence. Other era content and the April 2026 coverage cutoff were preserved. Continue the next focused pass with Era 5, 2004–2014.
