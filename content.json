@@ -1082,6 +1082,46 @@
     "csr-commencement2014": [
       "Corporate Affairs Ministry via PIB · CSR commencement",
       "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=116728"
+    ],
+    "enam-launch2016": [
+      "Agriculture Ministry via PIB · e-NAM launch and market integration",
+      "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1561146&lang=2&reg=48"
+    ],
+    "ujjwala-origin2016": [
+      "PMUY · Programme origin",
+      "https://www.pmuy.gov.in/about.html"
+    ],
+    "ujjwala-connection-design": [
+      "Petroleum Ministry via PIB · Deposit-free LPG connections",
+      "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=2035039&lang=2&reg=48"
+    ],
+    "paris-india-ratification": [
+      "UNFCCC · India’s treaty ratification record",
+      "https://unfccc.int/node/61082"
+    ],
+    "onorc-pilot2019": [
+      "Food Ministry via PIB · Interstate ration portability pilot",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=192566"
+    ],
+    "jal-jeevan-origin2019": [
+      "Jal Jeevan Mission · Launch and service objectives",
+      "https://jaljeevanmission.gov.in/media/mygov-organizes-sabka-vikas-mahaquiz-jjm"
+    ],
+    "jal-jeevan-service-standard": [
+      "NIC · Jal Jeevan Mission service design",
+      "https://www.uxdt.nic.in/documents/logos/jal-jeevan-mission-jjm/"
+    ],
+    "transgender-law-commencement": [
+      "Gazette of India · Commencement notification, 10 January 2020",
+      "https://egazette.gov.in/WriteReadData/2020/215301.pdf"
+    ],
+    "transgender-law-original-scope": [
+      "Social Justice Ministry · Transgender rights framework",
+      "https://socialjustice.gov.in/common/47564"
+    ],
+    "quantum-mission2023": [
+      "Department of Science and Technology · National Quantum Mission",
+      "https://dst.gov.in/national-quantum-mission-nqm"
     ]
   },
   "eras": [
@@ -3547,6 +3587,31 @@
           ]
         ],
         [
+          "14 April 2016",
+          "2016-04-14",
+          "enam-agriculture-market",
+          "An electronic platform links agricultural markets",
+          "Economy",
+          "The National Agriculture Market, e-NAM, launched on 14 April 2016 in 21 mandis across eight states, initially with pilot trading in 24 commodities. It sought to connect existing regulated markets through a common electronic trading platform.",
+          "Digitising market transactions was distinct from the later farm laws and their repeal. Platform access, quality assessment, settlement and physical movement of produce remained separate requirements. Registration alone does not establish better prices for every farmer.",
+          [
+            "enam-launch2016"
+          ]
+        ],
+        [
+          "1 May 2016",
+          "2016-05-01",
+          "ujjwala-cooking-fuel",
+          "Ujjwala supports access to LPG cooking connections",
+          "Society",
+          "Pradhan Mantri Ujjwala Yojana launched at Ballia, Uttar Pradesh, on 1 May 2016. It provided deposit-free LPG connections in the names of adult women from eligible poor households, seeking to widen access to cleaner cooking fuel.",
+          "Obtaining a connection and using LPG regularly are different measures. Refill affordability, local supply and continued use of other fuels matter when assessing household benefits. The programme’s launch should therefore be distinguished from later expansion and sustained fuel use.",
+          [
+            "ujjwala-origin2016",
+            "ujjwala-connection-design"
+          ]
+        ],
+        [
           "2016",
           "2016-05-28",
           "insolvency-code",
@@ -3556,6 +3621,18 @@
           "Enactment did not make every part of the framework operational on the same day. Assessing its results requires distinguishing resolutions from liquidations and examining recovery, delay and the value of the assets involved. This entry describes the 2016 milestone, rather than every later amendment.",
           [
             "ibc-origin"
+          ]
+        ],
+        [
+          "2 October 2016",
+          "2016-10-02",
+          "paris-ratification2016",
+          "India ratifies the Paris Agreement",
+          "Environment",
+          "India signed the Paris Agreement on 22 April 2016 and ratified it on 2 October 2016, according to the UNFCCC treaty record.",
+          "Ratification placed India within the agreement’s international framework. It was distinct from the later 2070 net-zero announcement and from domestic implementation of climate policy. Treaty participation, national commitments and measured emissions outcomes are different milestones.",
+          [
+            "paris-india-ratification"
           ]
         ],
         [
@@ -3657,6 +3734,31 @@
           ]
         ],
         [
+          "9 August 2019",
+          "2019-08-09",
+          "ration-portability-pilot",
+          "Ration portability begins across two interstate clusters",
+          "Society",
+          "Interstate ration-card portability was inaugurated on 9 August 2019 between Andhra Pradesh and Telangana, and between Gujarat and Maharashtra. The pilot formed an early stage of One Nation One Ration Card, using electronic point-of-sale systems and authentication to deliver existing food entitlements away from a beneficiary’s home location.",
+          "Portability changed where eligible people accessed their ration, rather than creating a new food entitlement. The four-state pilot was not nationwide coverage. Authentication, shop access and awareness remained practical issues, particularly for migrant households.",
+          [
+            "onorc-pilot2019"
+          ]
+        ],
+        [
+          "15 August 2019",
+          "2019-08-15",
+          "jal-jeevan-mission",
+          "Rural tap-water provision becomes a national mission",
+          "Society",
+          "Jal Jeevan Mission was announced on 15 August 2019 and implemented with states and Union Territories. Its design sought household tap-water service in rural areas, with adequate quantity, prescribed quality and regular long-term supply.",
+          "A tap connection is one part of a functioning water service. Source sustainability, water quality, maintenance and regular delivery are separate tests. The mission’s original target dates should not be treated as evidence that every household received the intended service.",
+          [
+            "jal-jeevan-origin2019",
+            "jal-jeevan-service-standard"
+          ]
+        ],
+        [
           "2019–2024",
           "2019-12-12",
           "citizenship-amendment",
@@ -3668,6 +3770,19 @@
             "jk",
             "caa-parliament",
             "caa-rules2024"
+          ]
+        ],
+        [
+          "10 January 2020",
+          "2020-01-10",
+          "transgender-rights-law",
+          "A dedicated transgender-rights law comes into force",
+          "Society",
+          "The Transgender Persons (Protection of Rights) Act, 2019 came into force on 10 January 2020 under its Gazette commencement notification. The original framework addressed recognition of identity, non-discrimination in education and employment, healthcare and welfare measures.",
+          "This entry records the law’s commencement and original scope. Legal recognition, administrative procedures and people’s experience of access and discrimination require separate examination. A statutory protection does not by itself establish equal treatment in everyday life.",
+          [
+            "transgender-law-commencement",
+            "transgender-law-original-scope"
           ]
         ],
         [
@@ -3755,6 +3870,18 @@
           "It is one part of a wider energy transition. Announced targets describe intended outcomes, rather than hydrogen already produced or emissions already avoided.",
           [
             "hydrogen"
+          ]
+        ],
+        [
+          "19 April 2023",
+          "2023-04-19",
+          "national-quantum-mission",
+          "A research mission backs quantum technologies",
+          "Science",
+          "The Union Cabinet approved the National Quantum Mission on 19 April 2023, with an outlay of ₹6,003.65 crore for 2023–24 to 2030–31. Its research programme covered quantum computing, communication, sensing and materials or devices.",
+          "The approval funded a research agenda with future deliverables. It was not a claim that the planned computing or communication capabilities had already been achieved. Funding, research institutions, working demonstrations and deployable systems mark different stages.",
+          [
+            "quantum-mission2023"
           ]
         ],
         [
@@ -3992,9 +4119,9 @@
         ]
       ],
       "overview": [
-        "Begin with the 2014 political change and the programmes that followed. Jan Dhan, Swachh Bharat and Digital India addressed banking, sanitation and services. UPI and GST changed transactions through different institutions. Housing regulation and insolvency reform added legal frameworks whose effects depended on implementation.",
-        "The middle years brought disputes over privacy, citizenship and Jammu and Kashmir’s status. Pulwama, Balakot and Galwan exposed security pressures on different borders. The pandemic then disrupted work, migration and health care. Vaccination and economic support unfolded alongside severe losses and uneven access.",
-        "The later milestones connect climate commitments, data protection and women’s representation with new criminal laws and electoral accountability. The 2024 election and Jammu and Kashmir’s assembly polls changed the political picture. Pahalgam and the May 2025 India–Pakistan conflict brought another security crisis. Space and public-health achievements continued across this period. Early 2026 added trade negotiations, AI diplomacy, a new statistical benchmark and the start of census houselisting. Tax-law implementation and an unsuccessful constitutional proposal show why commencement and parliamentary outcomes need to be tracked separately from announcements."
+        "Begin with the 2014 political change and the programmes that followed. Banking, sanitation, LPG access and rural tap water addressed different household needs. Digital India, UPI, e-NAM and ration portability used technology in different services and markets. GST, housing regulation and insolvency reform changed legal and administrative frameworks. Connections, enrolment and working services need separate assessment.",
+        "The middle years brought disputes over privacy, citizenship and Jammu and Kashmir’s status, alongside legal changes concerning disability and transgender rights. Paris ratification preceded later climate commitments. Pulwama, Balakot and Galwan exposed security pressures on different borders. The pandemic disrupted work, migration and health care; vaccination and support programmes unfolded alongside severe losses and uneven access.",
+        "The later milestones connect climate and quantum-research missions, data protection and women’s representation with criminal-law changes and electoral accountability. The 2024 elections changed the political picture, while Pahalgam and the May 2025 India–Pakistan conflict brought another security crisis. Space and public-health work continued. The selected early-2026 milestones cover trade negotiations, AI diplomacy, statistical rebasing, census houselisting, tax-law commencement and an unsuccessful constitutional proposal. These entries distinguish announcements, implementation and parliamentary outcomes."
       ]
     }
   ],

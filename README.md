@@ -19,7 +19,7 @@ GitHub Pages serves the repository root from `main`. No custom GitHub Actions wo
 
 ## Editorial scope
 
-The current edition contains 226 selected milestones, with 270 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
+The current edition contains 233 selected milestones, with 280 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
 
 Programme announcements, legal enactment, commencement and measured results are different milestones. Context paragraphs contain editorial interpretation and should be reviewed alongside the linked records. Institutional records establish many dates and decisions but do not independently settle every assessment of outcomes.
 
@@ -29,4 +29,4 @@ Single dark editorial theme. Responsive chapter index, keyboard-operable disclos
 
 ## Focused editorial passes
 
-All six chapters have received a focused editorial pass. Eras 1–6 contain 41, 36, 36, 33, 37 and 43 milestones respectively. The latest pass deepens Era 5, 2004–2014, with seven milestones covering health insurance, secondary education, rural livelihoods, child protection, sanitation work, Lokpal legislation and corporate responsibility. The chapter overview now distinguishes these policy designs and their implementation duties. Other era content and the April 2026 coverage cutoff were preserved. Continue the next focused pass with Era 6, 2014–present.
+All six chapters have received a focused editorial pass. Eras 1–6 contain 41, 36, 36, 33, 37 and 50 milestones respectively. The latest pass deepens Era 6, 2014–present, with seven milestones covering agricultural markets, cooking fuel, Paris ratification, ration portability, rural water services, transgender-rights legislation and quantum research. The chapter overview now distinguishes programme coverage, service delivery and research milestones. Other era content and the April 2026 coverage cutoff were preserved. This completes the current sequence of focused passes across all six eras.
