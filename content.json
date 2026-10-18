@@ -874,6 +874,62 @@
     "parliament-session2026": [
       "Ministry of Parliamentary Affairs · April 2026 session and bill outcomes",
       "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2253254&reg=48&lang=2"
+    ],
+    "ugc-genesis": [
+      "UGC · Inauguration in 1953 and statutory status in 1956",
+      "https://www.ugc.gov.in/Aboutus/Genesis"
+    ],
+    "special-marriage-law": [
+      "India Code · Special Marriage Act, enactment and commencement",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1387?col=123456789%2F1362&view_type=search"
+    ],
+    "hindu-marriage-law": [
+      "India Code · Hindu Marriage Act, 1955",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1560?sam_handle=123456789%2F1362&view_type=search"
+    ],
+    "citizenship-law1955": [
+      "India Code · Citizenship Act, 1955",
+      "https://www.indiacode.nic.in/handle/123456789/9179"
+    ],
+    "lic-history": [
+      "LIC · Institutional history and September 1956 establishment",
+      "https://web.licindia.in/en/web/guest/history"
+    ],
+    "steel-first-production": [
+      "SAIL · First hot-metal production at Rourkela and Bhilai in February 1959",
+      "https://sail.co.in/en/sail-news/steel-minister-inaugurates-celebrations-sails-golden-jubilee-production"
+    ],
+    "panchayati-raj-origin": [
+      "Ministry of Panchayati Raj · Nagaur inauguration, 2 October 1959",
+      "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=56419"
+    ],
+    "bombay-reorganisation-law": [
+      "India Code · Bombay Reorganisation Act, 1960",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1535?view_type=browse"
+    ],
+    "maharashtra-gujarat-date": [
+      "Maharashtra government · Formation of Maharashtra and Gujarat on 1 May 1960",
+      "https://maharashtrasadan.maharashtra.gov.in/en/about-department/introduction/"
+    ],
+    "indus-treaty-history": [
+      "World Bank archives · Mediation and the September 1960 treaty",
+      "https://www.worldbank.org/en/archive/history/exhibits/The-World-Banks-Role-as-Mediator-in-the-1950s"
+    ],
+    "dowry-law1961": [
+      "India Code · Dowry Prohibition Act, 1961, and commencement",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1679?view_type=browse"
+    ],
+    "official-languages-law": [
+      "Department of Official Language · Official Languages Act, 1963, as amended",
+      "https://rajbhasha.gov.in/en/official-languages-act-1963"
+    ],
+    "bhakra-project-history": [
+      "BBMB · Bhakra project history and October 1963 dedication",
+      "https://bbmb.gov.in/bhakra-project.htm"
+    ],
+    "nagaland-state-history": [
+      "Lok Bhavan Nagaland · State formation on 1 December 1963",
+      "https://lokbhavan.nagaland.gov.in/2074-2/"
     ]
   },
   "eras": [
@@ -1073,6 +1129,18 @@
           ]
         ],
         [
+          "1953–1956",
+          "1953-12-28",
+          "ugc-foundations",
+          "University funding and standards gain a national institution",
+          "Society",
+          "The University Grants Commission was inaugurated on 28 December 1953. It became a statutory body in November 1956, with responsibilities for coordinating and maintaining standards in university education.",
+          "The institution’s beginnings and its statutory status were separate steps. Grants, standards, institutional autonomy and access to higher education raised different questions. The UGC’s creation complemented specialist institutions such as the IITs rather than marking the start of university education in India.",
+          [
+            "ugc-genesis"
+          ]
+        ],
+        [
           "1954",
           "1954-04-29",
           "panchsheel",
@@ -1082,6 +1150,18 @@
           "The principles included respect for sovereignty, non-aggression, non-interference, equality and peaceful coexistence. They expressed an approach to international relations. The 1962 war later exposed the distance between a diplomatic declaration and the security relationship it was intended to guide.",
           [
             "panchsheel-record"
+          ]
+        ],
+        [
+          "1954–1955",
+          "1954-10-09",
+          "special-marriage1954",
+          "A civil route to marriage outside religious ceremony",
+          "Society",
+          "The Special Marriage Act was enacted on 9 October 1954 and came into force on 1 January 1955. It provided a civil form of marriage, registration provisions and a framework for divorce.",
+          "The route allowed people of different religions to marry without one partner converting to the other’s religion, subject to statutory conditions and procedures. It stood alongside personal-law systems. Having a legal route and being able to use it safely were different parts of individual freedom.",
+          [
+            "special-marriage-law"
           ]
         ],
         [
@@ -1110,6 +1190,18 @@
           ]
         ],
         [
+          "May 1955",
+          "1955-05-18",
+          "hindu-marriage1955",
+          "Marriage and divorce law is codified for covered communities",
+          "Society",
+          "The Hindu Marriage Act was enacted on 18 May 1955. It codified conditions for marriage and provided for judicial separation and divorce for the people within its scope.",
+          "This was part of a series of reforms, followed by separate legislation on succession, adoption and maintenance. It was not a uniform marriage code for every Indian. The original provisions and changes made by later amendments need to be read separately.",
+          [
+            "hindu-marriage-law"
+          ]
+        ],
+        [
           "1955",
           "1955-07-01",
           "state-bank-india",
@@ -1119,6 +1211,18 @@
           "Public ownership in Indian banking did not begin with the nationalisation of 14 banks in 1969. SBI was an earlier institutional step. Ownership, branch reach and actual access to useful financial services remain different questions.",
           [
             "sbi-origin"
+          ]
+        ],
+        [
+          "December 1955",
+          "1955-12-30",
+          "citizenship-law1955",
+          "Citizenship gets a continuing statutory framework",
+          "Democracy",
+          "The Citizenship Act was enacted on 30 December 1955. It provided for acquisition and termination of Indian citizenship through a statutory framework following the Constitution’s provisions on citizenship at its commencement.",
+          "Birth, descent, registration and naturalisation were distinct routes governed by legal conditions. Later amendments changed the framework. Today’s eligibility rules should not be projected backwards onto the law as originally enacted in 1955.",
+          [
+            "citizenship-law1955"
           ]
         ],
         [
@@ -1159,6 +1263,18 @@
           ]
         ],
         [
+          "September 1956",
+          "1956-09-01",
+          "lic-nationalisation",
+          "Life insurance is consolidated in a public corporation",
+          "Economy",
+          "The Life Insurance Corporation of India came into existence on 1 September 1956 following nationalisation of the life-insurance business. LIC was established under its own Act of Parliament.",
+          "This was a different institutional change from creating SBI or nationalising commercial banks. Its stated purpose included extending life insurance, particularly in rural areas. Public ownership, wider sales and adequate protection for households remained separate measures.",
+          [
+            "lic-history"
+          ]
+        ],
+        [
           "1956",
           "1956-11-01",
           "states",
@@ -1181,6 +1297,67 @@
           [
             "kerala-first-ministry",
             "democracy"
+          ]
+        ],
+        [
+          "February 1959",
+          "1959-02-03",
+          "public-steel1959",
+          "New public-sector plants begin producing hot metal",
+          "Economy",
+          "Rourkela Steel Plant produced its first hot metal on 3 February 1959. Bhilai followed on 4 February. These were major steps in the public-sector steel programme associated with the Second Five-Year Plan.",
+          "Hot-metal production was a stage in commissioning integrated plants, rather than evidence that every steelmaking and rolling unit was complete. India already had a private steel industry. The new plants expanded the public sector’s role in building industrial capacity.",
+          [
+            "steel-first-production"
+          ]
+        ],
+        [
+          "October 1959",
+          "1959-10-02",
+          "panchayati-raj1959",
+          "An early Panchayati Raj experiment begins in Rajasthan",
+          "Democracy",
+          "Nehru inaugurated Panchayati Raj at Nagaur in Rajasthan on 2 October 1959. The initiative formed part of the early post-independence effort to develop local self-government.",
+          "Local institutions and village councils had earlier histories. The 1959 milestone also preceded the 73rd Constitutional Amendment by decades. State-led arrangements, elected participation and the actual transfer of functions and resources were different stages of decentralisation.",
+          [
+            "panchayati-raj-origin"
+          ]
+        ],
+        [
+          "April–May 1960",
+          "1960-05-01",
+          "maharashtra-gujarat1960",
+          "Bombay State is divided into Maharashtra and Gujarat",
+          "Democracy",
+          "The Bombay Reorganisation Act was enacted on 25 April 1960. Maharashtra and Gujarat came into existence on 1 May, dividing the bilingual Bombay State.",
+          "The 1956 reorganisation had not settled every demand for language-based states. The 1960 change extended that process. A shared linguistic identity could support a demand for statehood without removing disagreements over territory, resources or political representation.",
+          [
+            "bombay-reorganisation-law",
+            "maharashtra-gujarat-date"
+          ]
+        ],
+        [
+          "September 1960",
+          "1960-09-19",
+          "indus-treaty1960",
+          "India and Pakistan sign the Indus Waters Treaty",
+          "Democracy",
+          "India and Pakistan signed the Indus Waters Treaty on 19 September 1960 after years of negotiations facilitated by the World Bank. It established a framework for using the waters of the Indus basin.",
+          "Partition had divided a connected river and irrigation system across two countries. The treaty showed negotiated cooperation on a technical and economic issue despite wider political disputes. This entry describes the 1960 agreement, without treating its later history as part of the signing itself.",
+          [
+            "indus-treaty-history"
+          ]
+        ],
+        [
+          "May–July 1961",
+          "1961-05-20",
+          "dowry-prohibition1961",
+          "Parliament prohibits dowry through a national law",
+          "Society",
+          "The Dowry Prohibition Act was enacted on 20 May 1961 and came into force on 1 July. It provided penalties for giving, taking and demanding dowry, subject to the Act’s definitions and terms.",
+          "The law’s existence did not establish that the practice had ended. Its original design, subsequent amendments and the separate development of criminal-law protections require attention to their dates. Social pressure and access to enforcement shaped what a prohibition meant in practice.",
+          [
+            "dowry-law1961"
           ]
         ],
         [
@@ -1208,6 +1385,30 @@
           ]
         ],
         [
+          "May 1963",
+          "1963-05-10",
+          "official-languages1963",
+          "Parliament provides for continuing the use of English",
+          "Democracy",
+          "The Official Languages Act was enacted on 10 May 1963. It provided for the continued use of English, alongside Hindi, for specified Union official purposes and parliamentary business after the Constitution’s initial fifteen-year transition.",
+          "The issue concerned the working languages of government and Parliament. It did not designate one language as the language of every Indian. The 1963 law and later amendments belonged to an ongoing negotiation over language, access and the federal balance.",
+          [
+            "official-languages-law"
+          ]
+        ],
+        [
+          "October 1963",
+          "1963-10-22",
+          "bhakra-dam1963",
+          "Bhakra Dam is dedicated after years of construction",
+          "Economy",
+          "Nehru dedicated Bhakra Dam to the nation on 22 October 1963. The wider Bhakra–Nangal project combined irrigation and power generation, with some benefits beginning before the main dam’s completion.",
+          "The project connected agricultural development with investment in electricity and infrastructure. A dedication date was not the start of every benefit or the end of every related work. Assessing a large project also meant examining the distribution of water, power, costs and impacts on affected communities.",
+          [
+            "bhakra-project-history"
+          ]
+        ],
+        [
           "1963",
           "1963-11-21",
           "thumba-first-rocket",
@@ -1218,6 +1419,19 @@
           [
             "first-rocket",
             "rocket-origins"
+          ]
+        ],
+        [
+          "December 1963",
+          "1963-12-01",
+          "nagaland-statehood1963",
+          "Nagaland becomes a state within the Union",
+          "Democracy",
+          "Nagaland came into existence as a state on 1 December 1963. Statehood created a new political and administrative arrangement within the Indian Union.",
+          "The transition followed a regional movement and negotiations. It should not be read as the end of every conflict over Naga identity or political aspirations. The northeastern story involved different movements and constitutional arrangements, rather than a single uniform process of integration.",
+          [
+            "nagaland-state-history",
+            "regional"
           ]
         ],
         [
@@ -1235,9 +1449,9 @@
         ]
       ],
       "overview": [
-        "Begin with the distinction between independence and the republic. The transfer of power did not itself settle the territorial map, end communal violence or put a new Constitution into operation. These processes overlapped, and people experienced them differently.",
-        "Then follow the choices about government and development. Elections established a source of political authority, while Parliament, the courts and state governments contested how that authority should be used. The First and Second Plans show a changing set of economic priorities rather than one unvarying programme.",
-        "Finally, read diplomacy and scientific ambition alongside their limits. Institutions created long-term capacity, but declarations and plans were not the same as results. Kerala’s dismissal and the China war belong in the same history as the Constitution, technical education and the first rocket launch."
+        "Begin with independence and the republic as separate milestones. Partition left urgent questions about territory, citizenship and rebuilding lives. Accession, the Constitution and the 1955 Citizenship Act addressed different parts of the new state. The resulting legal framework also faced early tests over speech, social reform and federal power.",
+        "Follow development through both institutions and concrete projects. The First and Second Plans placed different weights on agriculture and heavy industry. SBI, LIC, the UGC and the IITs served distinct purposes. Rourkela, Bhilai and Bhakra show how years of construction and investment produced milestones that were more specific than an entire project suddenly becoming complete.",
+        "Read social reform and regional accommodation alongside national institutions. Civil marriage, Hindu-law reform, the prohibition of untouchability and the dowry law addressed different rights and inequalities. Panchayati Raj, Maharashtra and Gujarat, official languages and Nagaland show several ways power and identity were negotiated. The Indus treaty and the China war show the contrasting paths taken by relations with India’s neighbours."
       ]
     },
     {
@@ -3826,6 +4040,58 @@
     "reservation-delimitation-bill2026": [
       "women-reservation2023",
       "local-government"
+    ],
+    "ugc-foundations": [
+      "iit-kharagpur",
+      "aiims-delhi"
+    ],
+    "special-marriage1954": [
+      "hindu-marriage1955",
+      "hindu-succession"
+    ],
+    "hindu-marriage1955": [
+      "special-marriage1954",
+      "hindu-succession"
+    ],
+    "citizenship-law1955": [
+      "independence",
+      "republic",
+      "citizenship-amendment"
+    ],
+    "lic-nationalisation": [
+      "state-bank-india",
+      "rbi-nationalisation"
+    ],
+    "public-steel1959": [
+      "second-five-year-plan",
+      "iit-kharagpur"
+    ],
+    "panchayati-raj1959": [
+      "local-government"
+    ],
+    "maharashtra-gujarat1960": [
+      "andhra-state",
+      "states"
+    ],
+    "indus-treaty1960": [
+      "independence",
+      "bhakra-dam1963"
+    ],
+    "dowry-prohibition1961": [
+      "hindu-marriage1955",
+      "domestic-violence-law"
+    ],
+    "official-languages1963": [
+      "states",
+      "maharashtra-gujarat1960"
+    ],
+    "bhakra-dam1963": [
+      "first-plan",
+      "indus-treaty1960"
+    ],
+    "nagaland-statehood1963": [
+      "integration",
+      "mizoram-accord"
     ]
   }
 }
