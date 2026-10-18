@@ -1162,6 +1162,38 @@
     "doordarshan-origin1959": [
       "Prasar Bharati · Doordarshan’s experimental beginnings",
       "https://prasarbharati.gov.in/en/dd-national-homepage/"
+    ],
+    "agricultural-prices1965": [
+      "Agriculture Ministry · Parliamentary answer on the origins of CACP",
+      "https://sansad.in/getFile/loksabhaquestions/annex/13/AU622.pdf?source=pqals"
+    ],
+    "patents-law-history": [
+      "IP India · History of the Indian patent system",
+      "https://ipindia.gov.in/pages/patents/about-us/history-of-indian-patent-system"
+    ],
+    "gratuity-law1972": [
+      "India Code · Payment of Gratuity Act, 1972",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/9167?view_type=browse"
+    ],
+    "insurance-nationalisation1973": [
+      "IRDAI · Evolution of insurance in India",
+      "https://irdai.gov.in/evolution-of-insurance"
+    ],
+    "chipko-history": [
+      "National Institute of Disaster Management · Community participation and Chipko",
+      "https://nidm.gov.in/pdf/lecture2-18.pdf"
+    ],
+    "water-law1974": [
+      "India Code · Water (Prevention and Control of Pollution) Act, 1974",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1612?col=123456789%2F1362&view_type=search"
+    ],
+    "cpcb-origins1974": [
+      "Central Pollution Control Board · Institutional origins",
+      "https://cpcb.nic.in/Introduction/"
+    ],
+    "hockey-worldcup1975": [
+      "FIH · 1975 men’s World Cup results",
+      "https://www.fih.hockey/events/world-cup/men/1975-mens-world-cup-18/schedule-fixtures-results"
     ]
   },
   "eras": [
@@ -1823,6 +1855,18 @@
           ]
         ],
         [
+          "January 1965",
+          "1965-01-01",
+          "agricultural-prices-commission",
+          "Agricultural pricing gains a dedicated advisory institution",
+          "Economy",
+          "The Agricultural Prices Commission came into existence in January 1965. It was renamed the Commission for Agricultural Costs and Prices in 1985. Its role was to advise on agricultural support prices.",
+          "Price advice, government price decisions and actual procurement are different steps. The commission belongs alongside the Food Corporation of India in the account of food security, but the two institutions performed different functions. A recommended price did not establish that every farmer sold at that price.",
+          [
+            "agricultural-prices1965"
+          ]
+        ],
+        [
           "1965",
           "1965-09-01",
           "pakistan-war",
@@ -2086,6 +2130,18 @@
           ]
         ],
         [
+          "20 April 1972",
+          "1972-04-20",
+          "patents-law-commencement",
+          "A new patent framework takes effect",
+          "Economy",
+          "Most provisions of the Patents Act, 1970 came into force on 20 April 1972 with the publication of the Patent Rules, 1972, according to the patent office’s historical account.",
+          "The milestone concerned the legal framework for inventions, not the announcement of a particular technology. The original Act and its later amendments need to be read separately. Rules on protection, licensing and access formed another part of industrial policy alongside public ownership and production planning.",
+          [
+            "patents-law-history"
+          ]
+        ],
+        [
           "1972–1973",
           "1972-05-01",
           "coal-nationalisation",
@@ -2119,6 +2175,42 @@
           "The legislation and the practical work of protecting habitats are separate parts of conservation. Later amendments changed the framework. This entry describes its 1972 origins rather than treating today’s amended law as identical to the original.",
           [
             "wildlife1972"
+          ]
+        ],
+        [
+          "16 September 1972",
+          "1972-09-16",
+          "gratuity-law",
+          "Gratuity receives a statutory payment framework",
+          "Society",
+          "The Payment of Gratuity Act, 1972 came into force on 16 September 1972. It established a framework for gratuity payments to employees in covered establishments, subject to the Act’s conditions.",
+          "The law addressed an employment benefit distinct from wages or a pension. Coverage and eligibility mattered, so the statute should not be read as a universal retirement payment for every worker. Its practical effect depended on compliance and access to remedies.",
+          [
+            "gratuity-law1972"
+          ]
+        ],
+        [
+          "1 January 1973",
+          "1973-01-01",
+          "general-insurance-nationalisation",
+          "General insurance moves into public ownership",
+          "Economy",
+          "The General Insurance Business (Nationalisation) Act, 1972 nationalised general insurance with effect from 1 January 1973. IRDAI’s historical account records the amalgamation of 107 insurers into four companies.",
+          "This was separate from the nationalisation of life insurance in 1956 and major banks in 1969. The sequence shows public ownership expanding across different financial services. Consolidating ownership did not by itself settle questions of coverage, service or claims handling.",
+          [
+            "insurance-nationalisation1973"
+          ]
+        ],
+        [
+          "1973–1974",
+          "1973-01-01",
+          "chipko-forest-action",
+          "Chipko brings local forest protection into public view",
+          "Environment",
+          "Chipko protests emerged in the Chamoli region in 1973. The 1974 action at Reni became a prominent episode in which village women resisted tree felling.",
+          "Forest protection involved the people who depended on forests as well as government conservation programmes. Chipko therefore belongs alongside the Wildlife Protection Act and Project Tiger while representing a different form of action. Its local episodes should not be collapsed into one demonstration or one leader’s work.",
+          [
+            "chipko-history"
           ]
         ],
         [
@@ -2171,6 +2263,19 @@
           ]
         ],
         [
+          "23 March / September 1974",
+          "1974-03-23",
+          "water-pollution-law",
+          "Water-pollution control gains a statutory board system",
+          "Environment",
+          "The Water (Prevention and Control of Pollution) Act was enacted on 23 March 1974. It provided for pollution-control boards and measures to prevent and control water pollution. The Central Pollution Control Board was constituted in September 1974 under the Act.",
+          "The Act’s passage and the establishment of its central institution were separate milestones. A regulatory framework did not establish clean water everywhere. Monitoring, consent procedures and enforcement became practical responsibilities alongside the expansion of industry and urban settlements.",
+          [
+            "water-law1974",
+            "cpcb-origins1974"
+          ]
+        ],
+        [
           "May 1974",
           "1974-05-08",
           "railway-strike1974",
@@ -2195,6 +2300,18 @@
           [
             "foreign",
             "diplomacy"
+          ]
+        ],
+        [
+          "15 March 1975",
+          "1975-03-15",
+          "hockey-worldcup-victory",
+          "India wins the men’s hockey World Cup",
+          "Culture",
+          "India defeated Pakistan 2–1 in the men’s hockey World Cup final at Kuala Lumpur on 15 March 1975.",
+          "The victory adds sport to a period often described through wars and political crises. It also places hockey’s international achievements before the cricket World Cup victory of 1983, keeping the two sports’ histories distinct.",
+          [
+            "hockey-worldcup1975"
           ]
         ],
         [
@@ -2237,8 +2354,8 @@
       ],
       "overview": [
         "Start with the succession after Nehru. The two leadership changes were constitutional transitions, but they occurred amid military and economic pressure. The war and the Tashkent agreement belong alongside the food crisis, not in a separate story with no domestic consequences.",
-        "Follow the institutions behind development. Food procurement, dairy cooperatives, bank ownership and coal nationalisation involved different forms of state action. The dairy board preceded Operation Flood; labour legislation distinguished regulation from selective prohibition. Each needs to be judged beyond its announcement date.",
-        "Read the political sequence at both national and state levels. Reorganisation in Punjab, Himachal Pradesh and the Northeast, language safeguards and opposition victories changed the workings of federalism. The Congress split, its renewed national mandate, economic strain and protest then lead to the court orders of June 1975. The Emergency begins the next chapter."
+        "Follow the institutions behind development. Agricultural price advice, grain procurement, dairy cooperatives, bank ownership and general insurance served different purposes. Coal nationalisation and patent reform addressed different parts of industrial policy. Contract-labour and gratuity laws added employment protections. The dates of decisions matter, but each also needs examination through coverage and implementation.",
+        "Read political competition, regional change and social action together. New states, language safeguards and opposition victories changed federal politics. Wildlife protection, Chipko and water-pollution regulation took different approaches to environmental concerns, while hockey supplied a major sporting milestone. The Congress split, its renewed mandate, economic strain and protest lead to the court orders of June 1975. The Emergency begins the next chapter."
       ]
     },
     {

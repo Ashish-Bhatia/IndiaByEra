@@ -19,7 +19,7 @@ GitHub Pages serves the repository root from `main`. No custom GitHub Actions wo
 
 ## Editorial scope
 
-The current edition contains 240 selected milestones, with 290 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
+The current edition contains 247 selected milestones, with 298 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
 
 Programme announcements, legal enactment, commencement and measured results are different milestones. Context paragraphs contain editorial interpretation and should be reviewed alongside the linked records. Institutional records establish many dates and decisions but do not independently settle every assessment of outcomes.
 
@@ -29,4 +29,4 @@ Single dark editorial theme. Responsive chapter index, keyboard-operable disclos
 
 ## Focused editorial passes
 
-All six chapters have received focused editorial passes. Eras 1–6 contain 48, 36, 36, 33, 37 and 50 milestones respectively. The latest pass returns to Era 1, 1947–1964, with seven milestones covering factory protections, Bhoodan, family planning, community development, Ambedkar’s conversion, decimal coinage and experimental television. The chapter overview now includes work, rural change and everyday institutions. Other era content and the April 2026 coverage cutoff were preserved. Continue the next focused pass with Era 2, 1964–1975.
+All six chapters have received focused editorial passes. Eras 1–6 contain 48, 43, 36, 33, 37 and 50 milestones respectively. The latest pass deepens Era 2, 1964–1975, with seven milestones covering agricultural price advice, patent reform, gratuity, general insurance, Chipko, water-pollution regulation and the hockey World Cup. The chapter overview now connects these institutions and forms of social action to the existing sequence. Other era content and the April 2026 coverage cutoff were preserved. Continue the next focused pass with Era 3, 1975–1991.
