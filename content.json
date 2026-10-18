@@ -702,6 +702,74 @@
     "frbm2003": [
       "India Code · FRBM Act, 2003, and July 2004 commencement",
       "https://www.indiacode.nic.in/indiacode/handle/123456789/2064?col=123456789%2F1362&view_type=search"
+    ],
+    "manmohan-tenure": [
+      "PMO · Manmohan Singh’s tenure, 2004–2014",
+      "https://www.pmindia.gov.in/en/former_pm/dr-manmohan-singh-2/"
+    ],
+    "domestic-violence2005": [
+      "India Code · Domestic Violence Act, 2005, and 2006 commencement",
+      "https://www.indiacode.nic.in/handle/123456789/2021?sam_handle=123456789%2F1362&view_type=search"
+    ],
+    "central-admissions2006": [
+      "India Code · Central Educational Institutions (Reservation in Admission) Act",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2091?view_type=browse"
+    ],
+    "farm-debt-audit": [
+      "CAG · Performance audit of the 2008 farm-debt waiver and relief scheme",
+      "https://cag.gov.in/en/audit-report/details/656"
+    ],
+    "financial-crisis-response": [
+      "RBI · Crisis transmission and the fiscal and monetary response",
+      "https://www.rbi.org.in/scripts/PublicationReportDetails.aspx?ID=586"
+    ],
+    "census2011-release": [
+      "PIB · Census 2011 provisional population release",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=71383"
+    ],
+    "spectrum-judgment-record": [
+      "TDSAT · Loop Telecom judgment recording the February 2012 licence decision",
+      "https://tdsat.gov.in/order_files/final/2015/September/070110012792012_219.pdf"
+    ],
+    "criminal-reform-review": [
+      "MHA · 2013 review, Verma Committee and criminal-law changes",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=102166"
+    ],
+    "criminal-reform-text": [
+      "India Code · Gazette text of the Criminal Law (Amendment) Act, 2013",
+      "https://www.indiacode.nic.in/bitstream/123456789/15357/1/criminal_law_ammend_act_2013.pdf"
+    ],
+    "workplace-harassment2013": [
+      "India Code · Workplace sexual-harassment law and commencement",
+      "https://www.indiacode.nic.in/handle/123456789/17057?sam_handle=123456789%2F2490"
+    ],
+    "taper-response2013": [
+      "RBI · Crisis response and policy exit, including 2013 pressures",
+      "https://www.rbi.org.in/SCRIPTs/BS_SpeechesView.aspx?Id=866"
+    ],
+    "land-acquisition2013": [
+      "India Code · 2013 land-acquisition law and 2014 commencement",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2121?view_type=browse"
+    ],
+    "telangana-assent": [
+      "PIB · Assent and publication of the Andhra Pradesh Reorganisation Act",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=104454"
+    ],
+    "telangana-formation": [
+      "Telangana government · Legislature and 2 June 2014 state formation",
+      "https://www.telangana.gov.in/departments/legislative-affairs/"
+    ],
+    "rti-commencement": [
+      "MEA · RTI enactment and full commencement dates",
+      "https://www.mea.gov.in/rti-faq.htm"
+    ],
+    "nrega-rollout": [
+      "PIB · Initial employment-guarantee rollout in February 2006",
+      "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=22717"
+    ],
+    "foodsecurity-dates": [
+      "Department of Food and Public Distribution · NFSA notification and deemed commencement",
+      "https://dfpd.gov.in/faqs/en"
     ]
   },
   "eras": [
@@ -2175,9 +2243,22 @@
       "short": "Growth & rights",
       "title": "Economic Expansion & Rights-Based Governance",
       "question": "How does growth become an entitlement?",
-      "intro": "The UPA governments led by Manmohan Singh combined economic expansion with legislation on information, employment and welfare. Space missions and nuclear diplomacy expanded international engagement. Terror attacks, the global financial crisis and corruption controversies tested institutions.",
-      "tension": "Passing a law and delivering its promise are different things. Implementation, public accountability and access shaped the reach of new entitlements.",
+      "intro": "The UPA governments led by Manmohan Singh combined economic expansion with new rights to information, work, education and food. Public-health programmes and space missions reached major milestones. The global financial crisis, terrorist attacks and disputes over corruption tested the government’s capacity and public trust.",
+      "tension": "A legal entitlement gave people a stronger basis to make a claim. Access still depended on schools, clinics, local administration, timely payments and credible remedies. Growth and new programmes expanded possibilities while inflation, financial volatility and unequal access remained pressing concerns.",
       "events": [
+        [
+          "May 2004",
+          "2004-05-22",
+          "upa-government2004",
+          "A Congress-led alliance forms the government",
+          "Democracy",
+          "Manmohan Singh became prime minister on 22 May 2004, leading the United Progressive Alliance after the general election.",
+          "The change of government continued the era of coalition politics. The UPA combined economic reform with a larger programme of welfare legislation and public-service spending, with delivery becoming a central political test.",
+          [
+            "manmohan-tenure",
+            "coalition"
+          ]
+        ],
         [
           "2004–2007",
           "2004-12-26",
@@ -2204,15 +2285,16 @@
           ]
         ],
         [
-          "2005",
+          "June–October 2005",
           "2005-06-15",
           "rti",
           "The right to ask the state for information",
           "Democracy",
-          "The Right to Information Act created a national framework for access to information held by public authorities, subject to specified exemptions.",
+          "The Right to Information Act was enacted on 15 June 2005 and came fully into force on 12 October. It created a national framework for citizens to seek information held by public authorities, subject to specified exemptions.",
           "It gave citizens a route to seek records and challenge refusals. Transparency depended on functioning information commissions, record keeping and enforcement.",
           [
-            "rti"
+            "rti",
+            "rti-commencement"
           ]
         ],
         [
@@ -2221,10 +2303,11 @@
           "employment",
           "Rural employment becomes a legal guarantee",
           "Society",
-          "The employment guarantee law was enacted in 2005 and began rolling out in 2006. It guarantees at least 100 days of unskilled manual work per financial year to a rural household whose adult members volunteer for it.",
-          "The entitlement is per household, not per individual. The original NREGA name was changed to MGNREGA in 2009.",
+          "The employment guarantee law was enacted in 2005 and launched in 200 districts on 2 February 2006. It guarantees at least 100 days of unskilled manual work per financial year to a rural household whose adult members volunteer for it.",
+          "The entitlement is per household, not per individual. Rollout expanded in stages, and NREGA was renamed MGNREGA in 2009. The legal guarantee, work demanded, employment provided and wages paid are distinct measures of implementation.",
           [
-            "work"
+            "work",
+            "nrega-rollout"
           ]
         ],
         [
@@ -2241,6 +2324,18 @@
           ]
         ],
         [
+          "2005–2006",
+          "2005-09-13",
+          "domestic-violence-law",
+          "Domestic violence gains a wider framework for protection",
+          "Society",
+          "The Protection of Women from Domestic Violence Act was enacted on 13 September 2005 and came into force on 26 October 2006. It provided for protection orders, residence-related relief and other remedies.",
+          "The law recognised forms of abuse beyond physical assault, including economic abuse. Its remedies required access to protection officers, courts and support services. Enactment did not remove the barriers faced by survivors.",
+          [
+            "domestic-violence2005"
+          ]
+        ],
+        [
           "2005",
           "2005-12-23",
           "disaster-management-law",
@@ -2253,16 +2348,52 @@
           ]
         ],
         [
-          "2006",
+          "2006–2007",
           "2006-12-29",
           "forest-rights-act",
           "Forest dwellers’ rights receive statutory recognition",
           "Society",
-          "The Forest Rights Act, 2006 provided for recognition of rights of forest-dwelling Scheduled Tribes and other traditional forest dwellers whose rights had not been adequately recorded.",
+          "The Forest Rights Act received assent on 29 December 2006 and came into force on 31 December 2007. It provided for recognition of rights of forest-dwelling Scheduled Tribes and other traditional forest dwellers whose rights had not been adequately recorded.",
           "The framework included individual and community rights and processes for recognising them. Conservation policy and the rights of forest communities therefore need to be read together. Enacting the law and recognising a particular claim were different steps.",
           [
             "forest-rights",
             "forest-law"
+          ]
+        ],
+        [
+          "2006–2007",
+          "2007-01-03",
+          "central-education-reservation",
+          "Reservation expands in covered central educational institutions",
+          "Society",
+          "The Central Educational Institutions (Reservation in Admission) Act, 2006 was enacted on 3 January 2007. It provided for 27 per cent OBC reservation alongside SC and ST reservations in the institutions it covered.",
+          "The law contained exclusions, including for minority educational institutions. Its scope concerned admissions, distinct from the Union employment policy upheld in the Mandal judgment. Implementation and judicial scrutiny formed further stages of the policy.",
+          [
+            "central-admissions2006"
+          ]
+        ],
+        [
+          "May 2008",
+          "2008-05-01",
+          "farm-debt-relief2008",
+          "A farm-debt scheme offers waiver and repayment relief",
+          "Economy",
+          "The Agricultural Debt Waiver and Debt Relief Scheme launched in May 2008. It offered waiver of eligible debt for small and marginal farmers and conditional relief for other farmers.",
+          "Coverage depended on the scheme’s loan and eligibility conditions. It did not cancel every farmer’s debt, including all borrowing outside formal institutions. The CAG later audited implementation, separating the announced design from its delivery.",
+          [
+            "farm-debt-audit"
+          ]
+        ],
+        [
+          "2008–2009",
+          "2008-09-15",
+          "global-financial-crisis",
+          "The global financial crisis reaches India",
+          "Economy",
+          "The international financial crisis affected India through financial markets, capital flows and weaker external demand. From late 2008, the RBI eased monetary conditions and the Union government introduced fiscal support.",
+          "India’s exposure differed from economies at the centre of the banking crisis, but it was not insulated from the downturn. Crisis support and the later task of withdrawing it created different policy challenges.",
+          [
+            "financial-crisis-response"
           ]
         ],
         [
@@ -2345,6 +2476,18 @@
         ],
         [
           "2011",
+          "2011-03-01",
+          "census2011",
+          "The Census records a population above 1.2 billion",
+          "Society",
+          "The 2011 Census counted India’s population at about 1.21 billion. Its tables provided evidence on the distribution of people, literacy, households and urbanisation.",
+          "National totals concealed differences across states, districts and social groups. Census counts, provisional releases and later population projections serve different purposes. Programme coverage should be assessed against the relevant population and eligibility rules.",
+          [
+            "census2011-release"
+          ]
+        ],
+        [
+          "2011",
           "2011-04-01",
           "anti-corruption",
           "Anti-corruption protests gather momentum",
@@ -2354,6 +2497,31 @@
           [
             "lokpal",
             "hazare"
+          ]
+        ],
+        [
+          "February 2012",
+          "2012-02-02",
+          "spectrum-judgment2012",
+          "The Supreme Court cancels 122 telecom licences",
+          "Democracy",
+          "On 2 February 2012, the Supreme Court quashed 122 telecom licences granted through the challenged 2008 allocation process. The decision scrutinised the fairness of public-resource allocation.",
+          "Cancellation of licences through judicial review and proof of criminal wrongdoing are different legal questions. The judgment belongs alongside the history of telecom expansion, regulation and public accountability.",
+          [
+            "spectrum-judgment-record"
+          ]
+        ],
+        [
+          "December 2012–2013",
+          "2012-12-16",
+          "delhi-assault-law-reform",
+          "The Delhi assault prompts protests and criminal-law reform",
+          "Society",
+          "The December 2012 sexual assault in Delhi prompted widespread protests over women’s safety. The Justice J. S. Verma Committee reported in January 2013, followed by an ordinance and the Criminal Law (Amendment) Act.",
+          "The Act received assent on 2 April 2013. It changed sexual-offence provisions and addressed offences including stalking, voyeurism and acid attacks. The committee’s recommendations, the enacted law and the quality of policing and justice were separate matters.",
+          [
+            "criminal-reform-review",
+            "criminal-reform-text"
           ]
         ],
         [
@@ -2370,15 +2538,52 @@
         ],
         [
           "2013",
+          "2013-04-22",
+          "workplace-harassment-law",
+          "Workplace sexual harassment gets a statutory complaints framework",
+          "Society",
+          "The Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, 2013 came into force on 9 December 2013. It established duties for employers and mechanisms for complaints and redress.",
+          "The law followed the Supreme Court’s earlier Vishaka guidelines. Establishing committees, enabling safe complaints and conducting fair inquiries were practical requirements for making protection accessible. This workplace framework was distinct from the criminal-law amendments.",
+          [
+            "workplace-harassment2013"
+          ]
+        ],
+        [
+          "2013",
+          "2013-05-01",
+          "rupee-pressure2013",
+          "The taper shock renews pressure on the rupee",
+          "Economy",
+          "Signals in May 2013 of a possible reduction in US monetary stimulus unsettled emerging markets, including India. Capital-flow pressure and rupee volatility prompted measures by the RBI and government.",
+          "The episode showed the risks accompanying greater financial integration. The external shock interacted with domestic vulnerabilities. Emergency measures to stabilise markets and longer-term economic changes served different purposes.",
+          [
+            "taper-response2013"
+          ]
+        ],
+        [
+          "July–September 2013",
           "2013-09-10",
           "national-food-security",
           "Food security gains a statutory framework",
           "Society",
-          "The National Food Security Act, 2013 established food and nutritional entitlements, including foodgrain coverage for up to 75% of the rural population and 50% of the urban population under the targeted public distribution system.",
+          "The National Food Security Act was notified on 10 September 2013 with deemed commencement from 5 July. It established food and nutritional entitlements, including targeted foodgrain coverage for up to 75% of the rural population and 50% of the urban population.",
           "These are statutory coverage proportions, not poverty rates. Grain production, household access and nutritional outcomes measure different things. The 2013 framework built on an older public distribution system rather than creating food distribution from nothing.",
           [
             "foodsecurity",
-            "foodlaw"
+            "foodlaw",
+            "foodsecurity-dates"
+          ]
+        ],
+        [
+          "2013–2014",
+          "2013-09-26",
+          "land-acquisition2013",
+          "Land acquisition law puts compensation and rehabilitation together",
+          "Society",
+          "The 2013 land-acquisition law replaced the 1894 framework and came into force on 1 January 2014. It addressed compensation, rehabilitation and resettlement for affected families.",
+          "Social-impact assessment and consent requirements depended on the type of acquisition and the Act’s terms. The law did not require identical procedures for every project or settle every conflict over land and livelihoods.",
+          [
+            "land-acquisition2013"
           ]
         ],
         [
@@ -2394,6 +2599,19 @@
           ]
         ],
         [
+          "March–June 2014",
+          "2014-03-01",
+          "telangana-statehood",
+          "Legislation creates the route to Telangana statehood",
+          "Democracy",
+          "The Andhra Pradesh Reorganisation Act received assent on 1 March 2014. Telangana was formed on 2 June 2014, separating from the existing state of Andhra Pradesh.",
+          "The legislation followed a long regional movement. Assent and state formation fell on different sides of the change of Union government in May. Division of institutions, resources and administrative responsibilities continued beyond the appointed day.",
+          [
+            "telangana-assent",
+            "telangana-formation"
+          ]
+        ],
+        [
           "2011–2014",
           "2014-03-27",
           "polio-certification",
@@ -2405,6 +2623,11 @@
             "polio-certification"
           ]
         ]
+      ],
+      "overview": [
+        "The chapter begins with the change of government in 2004 and the first UPA term’s major programmes. RTI offered access to official records. The employment guarantee offered a legal guarantee of publicly funded work, while the rural health mission sought to strengthen services. Women’s protections and forest rights addressed different forms of exclusion.",
+        "The 2008–2009 financial crisis interrupted the growth story. India responded through monetary easing and fiscal support, while farm debt relief addressed a separate problem in agricultural credit. Congress returned to office in 2009 at the head of the UPA. Aadhaar, school rights and environmental adjudication developed during the second term.",
+        "The closing years brought anti-corruption protests, the spectrum judgment and demands for women’s safety after the Delhi assault. Food-security and land-acquisition legislation expanded statutory protections. Financial pressure returned in 2013. Telangana’s legislation and formation crossed the change of Union government in 2014, as did the Mars mission’s journey from launch to orbit."
       ]
     },
     {
@@ -3110,6 +3333,53 @@
     ],
     "frbm-law": [
       "liberalisation"
+    ],
+    "upa-government2004": [
+      "coalition-governments1996",
+      "rti",
+      "employment"
+    ],
+    "domestic-violence-law": [
+      "daughters-coparcenary",
+      "workplace-harassment-law"
+    ],
+    "central-education-reservation": [
+      "indra-sawhney1992",
+      "right-to-education"
+    ],
+    "farm-debt-relief2008": [
+      "nabard",
+      "employment"
+    ],
+    "global-financial-crisis": [
+      "frbm-law",
+      "rupee-pressure2013"
+    ],
+    "census2011": [
+      "national-food-security"
+    ],
+    "spectrum-judgment2012": [
+      "trai-established",
+      "anti-corruption"
+    ],
+    "delhi-assault-law-reform": [
+      "workplace-harassment-law",
+      "domestic-violence-law"
+    ],
+    "workplace-harassment-law": [
+      "delhi-assault-law-reform",
+      "domestic-violence-law"
+    ],
+    "rupee-pressure2013": [
+      "global-financial-crisis",
+      "rupee-reform1991"
+    ],
+    "land-acquisition2013": [
+      "forest-rights-act"
+    ],
+    "telangana-statehood": [
+      "three-new-states",
+      "states"
     ]
   }
 }
