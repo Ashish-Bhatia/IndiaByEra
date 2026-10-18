@@ -19,7 +19,7 @@ GitHub Pages serves the repository root from `main`. No custom GitHub Actions wo
 
 ## Editorial scope
 
-The current edition contains 140 selected milestones, with 163 source references, from August 1947 through January 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
+The current edition contains 152 selected milestones, with 175 source references, from August 1947 through January 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
 
 Programme announcements, legal enactment, commencement and measured results are different milestones. Context paragraphs contain editorial interpretation and should be reviewed alongside the linked records. Institutional records establish many dates and decisions but do not independently settle every assessment of outcomes.
 
@@ -29,4 +29,4 @@ Single dark editorial theme. Responsive chapter index, keyboard-operable disclos
 
 ## Focused editorial passes
 
-Era 1, 1947–1964, contains 28 milestones. Era 2, 1964–1975, contains 29. The latest focused pass covers Era 3, 1975–1991, now with 29 milestones and a chapter overview. It also corrects the 44th Amendment’s assent date to April 1979. Other era content was preserved. Continue the next focused pass with Era 4, 1991–2004.
+Era 1, 1947–1964, contains 28 milestones. Eras 2 and 3 contain 29 each. The latest focused pass covers Era 4, 1991–2004, now with 26 milestones and a chapter overview. It adds twelve stories and strengthens the reform and local-government entries. Other era content was preserved. Continue the next focused pass with Era 5, 2004–2014.

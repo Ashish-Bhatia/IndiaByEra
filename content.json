@@ -654,6 +654,54 @@
     "rajiv-death-record": [
       "PIB · Parliamentary memorial record of Rajiv Gandhi’s death date",
       "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=3363"
+    ],
+    "exchange-reform1991": [
+      "RBI · Exchange-rate reform, July 1991 to August 1994",
+      "https://www.rbi.org.in/scripts/bs_viewcontent.aspx?Id=2253"
+    ],
+    "securities-survey1992": [
+      "Economic Survey 1992–93 · Securities irregularities and the Janakiraman inquiry",
+      "https://www.indiabudget.gov.in/budget_archive/es1992-93/3%20Money%20and%20Finance.pdf"
+    ],
+    "mandal-parliament-record": [
+      "Rajya Sabha · Government answer on Indra Sawhney and OBC reservation",
+      "https://sansad.in/getFile/annex/254/AU423.pdf?source=pqars"
+    ],
+    "bombay-blasts-record": [
+      "Supreme Court · Abu Salem case record summarising the March 1993 bombings",
+      "https://api.sci.gov.in/jonew/judis/36830.pdf"
+    ],
+    "trai-history": [
+      "TRAI · Establishment in 1997 and the 2000 tribunal change",
+      "https://trai.gov.in/about-us/history"
+    ],
+    "lahore-text": [
+      "United Nations Peacemaker · Lahore Declaration, 21 February 1999",
+      "https://peacemaker.un.org/en/node/9233"
+    ],
+    "it-act2000": [
+      "India Code · Information Technology Act, enactment and commencement",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1999?locale=en"
+    ],
+    "ssa-launch": [
+      "PIB · Education review recording SSA’s November 2000 launch",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=3&relid=1000"
+    ],
+    "ssa-framework": [
+      "Ministry of Education · Sarva Shiksha Abhiyan programme framework",
+      "https://dsel.education.gov.in/sites/default/files/publication/module5.pdf"
+    ],
+    "parliament-attack-record": [
+      "Parliament · Journal of Parliamentary Information, March 2003, anniversary record",
+      "https://eparlib.sansad.in/bitstream/123456789/764125/1/jpi_march_2003.pdf"
+    ],
+    "education86-text": [
+      "Legislative Department · 86th Constitutional Amendment, 2002",
+      "https://www.legislative.gov.in/static/uploads/2025/07/16970eb1a68d4fe46ac40acd783a6c34.pdf"
+    ],
+    "frbm2003": [
+      "India Code · FRBM Act, 2003, and July 2004 commencement",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2064?col=123456789%2F1362&view_type=search"
     ]
   },
   "eras": [
@@ -1783,21 +1831,58 @@
       "short": "Opening up",
       "title": "Economic Liberalisation & Globalisation",
       "question": "What changes when an economy opens up?",
-      "intro": "A balance-of-payments crisis forced urgent decisions in 1991. Reforms reduced industrial licensing and opened more space for trade, private investment and competition. Coalition governments continued the broad shift while security crises and communal conflict challenged the country.",
-      "tension": "Reform was a process across several governments. The expression LPG is useful shorthand, but it hides differences between liberalisation, privatisation and global integration.",
+      "intro": "A foreign-exchange crisis brought urgent policy changes in 1991. Trade, investment and industrial rules changed over the following years, while telecom and software services found larger markets. Governments depended increasingly on alliances. Education programmes, local democracy and demands for representation developed alongside communal violence and national security crises.",
+      "tension": "Opening markets required rules, regulators and public investment. Faster growth in some industries did not mean equal opportunity across regions or occupations. Economic reform also unfolded alongside arguments over social representation, religious identity and the powers of the Union and states.",
       "events": [
+        [
+          "July 1991–1994",
+          "1991-07-01",
+          "rupee-reform1991",
+          "The rupee adjustment precedes a wider exchange-rate reform",
+          "Economy",
+          "The rupee was devalued in two steps on 1 and 3 July 1991. A dual exchange-rate system followed in March 1992, with the rates unified in March 1993.",
+          "Current-account convertibility followed in August 1994. This concerned payments such as trade and services, rather than unrestricted movement of all capital. The sequence extended beyond the July 1991 Budget.",
+          [
+            "exchange-reform1991"
+          ]
+        ],
         [
           "1991",
           "1991-07-24",
           "liberalisation",
           "A crisis accelerates economic reform",
           "Economy",
-          "Prime Minister P. V. Narasimha Rao and Finance Minister Manmohan Singh led reforms during a severe foreign-exchange crisis. Industrial delicensing, trade changes and financial-sector reforms followed.",
-          "The shift had roots in earlier policy changes. It did not abolish all licences, remove the public sector or produce equal outcomes across regions and workers.",
+          "On 24 July 1991, the Rao government announced a new industrial policy and Manmohan Singh presented the Union Budget amid a severe foreign-exchange crisis. Industrial licensing was reduced and trade, investment and financial-sector rules changed in stages.",
+          "Stabilising external payments and changing the economy’s longer-term rules were related tasks. Reform built on earlier changes and continued under later governments. Delicensing, disinvestment and global integration did not follow a single timetable or reach every sector equally.",
           [
             "reforms",
             "budget",
             "coalition"
+          ]
+        ],
+        [
+          "1992",
+          "1992-04-01",
+          "securities-scandal1992",
+          "The securities scandal exposes weaknesses in market oversight",
+          "Economy",
+          "Investigations in April 1992 uncovered serious irregularities in securities transactions involving banks and financial institutions. The RBI-appointed Janakiraman Committee examined the transactions.",
+          "The episode exposed weaknesses in transaction controls and supervision. It belongs alongside the history of market reform and SEBI’s statutory powers. SEBI’s earlier establishment in 1988 should not be attributed to the scandal.",
+          [
+            "securities-survey1992",
+            "sebi-origin"
+          ]
+        ],
+        [
+          "November 1992",
+          "1992-11-16",
+          "indra-sawhney1992",
+          "The Mandal judgment upholds OBC reservation with conditions",
+          "Society",
+          "On 16 November 1992, the Supreme Court’s Indra Sawhney judgment upheld 27 per cent reservation for OBCs in Union government civil posts and services, subject to exclusion of the creamy layer.",
+          "The judgment followed the 1990 implementation decision and its legal challenge. It shaped eligibility for reservation, while the identification of beneficiaries and administration of the policy required further action.",
+          [
+            "mandal-parliament-record"
           ]
         ],
         [
@@ -1818,12 +1903,24 @@
           "local-government",
           "Local government gets constitutional status",
           "Democracy",
-          "The 73rd and 74th Amendments were passed in 1992 and came into force in 1993, strengthening the constitutional framework for panchayats and municipalities.",
-          "They did not invent local government. They gave it a stronger constitutional basis, with elections and reservation provisions. Actual devolution still depended on state action.",
+          "The 73rd and 74th Amendments were passed in 1992. The panchayat provisions came into force on 24 April 1993 and the municipal provisions on 1 June 1993, strengthening elected local government’s constitutional basis.",
+          "The framework covered regular elections and reservations, including for women. It did not create local government from nothing. State legislation and decisions about functions, funds and staff shaped how much authority local bodies exercised.",
           [
             "panchayat",
             "localdate",
             "urban"
+          ]
+        ],
+        [
+          "March 1993",
+          "1993-03-12",
+          "mumbai-bombings1993",
+          "Serial bombings strike Bombay",
+          "Conflict",
+          "A series of bomb explosions struck Bombay, now Mumbai, on 12 March 1993, killing hundreds and injuring many more. Targets included public and commercial locations.",
+          "The attacks led to extensive investigations and criminal proceedings. Their history needs to distinguish the violence itself, the prosecution’s allegations and findings reached in individual cases.",
+          [
+            "bombay-blasts-record"
           ]
         ],
         [
@@ -1876,6 +1973,31 @@
           ]
         ],
         [
+          "1996–1999",
+          "1996-05-16",
+          "coalition-governments1996",
+          "Coalition bargaining determines national government",
+          "Democracy",
+          "After the 1996 election, Vajpayee’s BJP government failed to secure a parliamentary majority. United Front governments led by H. D. Deve Gowda and then I. K. Gujral followed, with outside Congress support.",
+          "BJP-led governments followed the 1998 and 1999 elections. The alliance government formed after the 1999 election lasted until 2004. Coalition politics involved both short-lived arrangements and governments able to remain in office for several years.",
+          [
+            "coalition",
+            "shastri-tenure"
+          ]
+        ],
+        [
+          "February 1997",
+          "1997-02-20",
+          "trai-established",
+          "Telecom gains a sector regulator",
+          "Economy",
+          "The Telecom Regulatory Authority of India was established with effect from 20 February 1997. Its role included regulating telecom services and tariffs as private operators entered the sector.",
+          "A separate tribunal, TDSAT, took over adjudicatory and dispute functions following the 2000 amendment. Market entry, regulation and dispute resolution became distinct parts of the telecom framework.",
+          [
+            "trai-history"
+          ]
+        ],
+        [
           "1998",
           "1998-05-11",
           "pokhran-two",
@@ -1898,6 +2020,18 @@
           "The four-city highway network was built in stages across subsequent years. Announcement, construction and completion were separate milestones.",
           [
             "highways"
+          ]
+        ],
+        [
+          "February 1999",
+          "1999-02-21",
+          "lahore-declaration",
+          "The Lahore Declaration seeks dialogue and nuclear risk reduction",
+          "Conflict",
+          "Vajpayee and Pakistan’s prime minister Nawaz Sharif signed the Lahore Declaration on 21 February 1999. The initiative sought stronger dialogue and steps to reduce the risk of accidental or unauthorised use of nuclear weapons.",
+          "The declaration followed the previous year’s nuclear tests and preceded the Kargil conflict. The diplomatic commitment and subsequent military events form separate parts of the relationship.",
+          [
+            "lahore-text"
           ]
         ],
         [
@@ -1926,6 +2060,18 @@
           ]
         ],
         [
+          "June–October 2000",
+          "2000-06-09",
+          "information-technology-act",
+          "Electronic records gain a statutory framework",
+          "Science",
+          "The Information Technology Act was enacted on 9 June 2000 and came into force on 17 October. It provided legal recognition for electronic records and digital signatures, alongside provisions addressing computer-related offences.",
+          "This helped establish a framework for electronic transactions and government filing. Later amendments changed the law substantially. Provisions added afterwards should not be presented as part of the original 2000 text.",
+          [
+            "it-act2000"
+          ]
+        ],
+        [
           "2000",
           "2000-11-01",
           "three-new-states",
@@ -1941,6 +2087,19 @@
           ]
         ],
         [
+          "2000–2001",
+          "2000-11-01",
+          "sarva-shiksha",
+          "Sarva Shiksha Abhiyan expands the elementary-school effort",
+          "Society",
+          "Sarva Shiksha Abhiyan was launched in November 2000 and developed as a national programme for universal elementary education. It supported school access, facilities and teaching provision.",
+          "Its implementation extended across later governments. Enrolment, attendance, completion and learning are different outcomes. The programme preceded the 2002 constitutional amendment and the later commencement of the right-to-education framework.",
+          [
+            "ssa-launch",
+            "ssa-framework"
+          ]
+        ],
+        [
           "2000",
           "2000-12-25",
           "rural-roads",
@@ -1950,6 +2109,18 @@
           "This was a different infrastructure task from widening highways between major cities. A completed road, its maintenance and its effect on access to schools, health care and markets each require separate assessment.",
           [
             "pmgsy-origin"
+          ]
+        ],
+        [
+          "December 2001",
+          "2001-12-13",
+          "parliament-attack2001",
+          "A terrorist attack reaches the Parliament complex",
+          "Conflict",
+          "Terrorists attacked the Parliament complex in New Delhi on 13 December 2001. Security personnel and others died defending the institution.",
+          "The attack became a major national-security crisis. Its immediate history and the later investigations, prosecutions and judgments need to be read separately. Parliamentary commemorations preserve the record of those killed.",
+          [
+            "parliament-attack-record"
           ]
         ],
         [
@@ -1964,7 +2135,37 @@
             "gujarat",
             "bestbakery"
           ]
+        ],
+        [
+          "December 2002",
+          "2002-12-12",
+          "education-amendment2002",
+          "Parliament enacts the constitutional right-to-education provision",
+          "Society",
+          "The 86th Constitutional Amendment received assent on 12 December 2002. It provided for Article 21A, covering free and compulsory education for children aged six to fourteen.",
+          "It also revised Article 45 on early childhood care and added a parental duty. The amendment and the later RTE legislation became operational in April 2010. Enactment in 2002 and commencement in 2010 are separate milestones.",
+          [
+            "education86-text",
+            "rtedate"
+          ]
+        ],
+        [
+          "2003–2004",
+          "2003-08-26",
+          "frbm-law",
+          "Fiscal management gains a statutory framework",
+          "Economy",
+          "The Fiscal Responsibility and Budget Management Act was enacted on 26 August 2003. It established a framework for fiscal responsibility, transparency and medium-term management of Union government finances.",
+          "The Act came into force on 5 July 2004. Its original framework, subsequent amendments and actual fiscal outcomes are different parts of the story. A deficit target is not evidence of a target being achieved.",
+          [
+            "frbm2003"
+          ]
         ]
+      ],
+      "overview": [
+        "Start with the sequence of the 1991 crisis. The rupee adjustment came before the July Budget and industrial policy changes. Exchange-rate reform continued through 1992–1994. The securities scandal then exposed weaknesses in financial oversight during a period of expanding markets.",
+        "The political story moved from Rao’s government to a short BJP government and the United Front, followed by BJP-led alliances. Regional parties helped determine who governed. The Bommai judgment and local-government amendments addressed different parts of the federal system, while the Mandal judgment shaped the legal framework for OBC representation.",
+        "By the early 2000s, public internet access, telecom regulation and software exports had changed the prospects of several industries. Rural roads and school programmes addressed other needs. Lahore diplomacy, Kargil and the Parliament attack show the security pressures of the same years. The next era follows the expansion of rights-based welfare after 2004."
       ]
     },
     {
@@ -2863,6 +3064,51 @@
     ],
     "rajiv-assassination": [
       "indo-lanka-accord",
+      "liberalisation"
+    ],
+    "rupee-reform1991": [
+      "liberalisation"
+    ],
+    "securities-scandal1992": [
+      "sebi",
+      "liberalisation"
+    ],
+    "indra-sawhney1992": [
+      "mandal",
+      "atrocities-act"
+    ],
+    "mumbai-bombings1993": [
+      "ayodhya"
+    ],
+    "coalition-governments1996": [
+      "national-front",
+      "anti-defection"
+    ],
+    "trai-established": [
+      "telecom-policy",
+      "public-internet"
+    ],
+    "lahore-declaration": [
+      "pokhran-two",
+      "kargil",
+      "simla-agreement"
+    ],
+    "information-technology-act": [
+      "public-internet",
+      "it-services"
+    ],
+    "sarva-shiksha": [
+      "education1986-programmes",
+      "education-amendment2002"
+    ],
+    "parliament-attack2001": [
+      "kargil"
+    ],
+    "education-amendment2002": [
+      "sarva-shiksha",
+      "right-to-education"
+    ],
+    "frbm-law": [
       "liberalisation"
     ]
   }
