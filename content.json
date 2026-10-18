@@ -958,6 +958,50 @@
     "official-languages-amendment-law": [
       "India Code · Official Languages (Amendment) Act, 1967, assent 8 January 1968",
       "https://www.indiacode.nic.in/repealedfileopen?rfilename=A1968-1.pdf"
+    ],
+    "bonded-labour1976": [
+      "India Code · Bonded Labour System (Abolition) Act, 1976",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1491?view_type=browse"
+    ],
+    "bonded-labour-explained": [
+      "Delhi Labour Department · Bonded labour abolition",
+      "https://labour.delhi.gov.in/it/bonded-labour-system-act-1976"
+    ],
+    "equal-remuneration1976": [
+      "India Code · Equal Remuneration Act, 1976",
+      "https://www.indiacode.nic.in/handle/123456789/1494?view_type=search"
+    ],
+    "equal-remuneration-text": [
+      "Ministry of Labour · Equal Remuneration Act text",
+      "https://www.labour.gov.in/static/uploads/2025/06/9d2c957c737ea215d9ca602414aadc0f.pdf"
+    ],
+    "forest-conservation1980": [
+      "India Code · Forest (Conservation) Act, 1980",
+      "https://www.indiacode.nic.in/bitstream/123456789/19317/1/a1980-69_0.pdf"
+    ],
+    "forest-diversion-approval": [
+      "Environment Ministry via PIB · Approval for forest land diversion",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=75567"
+    ],
+    "insat1b": [
+      "ISRO · INSAT-1B mission",
+      "https://www.isro.gov.in/INSAT_1B.html"
+    ],
+    "saarc-origin": [
+      "SAARC Secretariat · Establishment and cooperation",
+      "https://www.saarc-sec.org/"
+    ],
+    "consumer-protection1986": [
+      "India Code · Consumer Protection Act, 1986",
+      "https://www.indiacode.nic.in/repealedfileopen?rfilename=A1986-68.pdf"
+    ],
+    "consumer-fora-history": [
+      "Consumer Affairs Ministry via PIB · Consumer grievance redressal",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=169223"
+    ],
+    "goa-statehood1987": [
+      "Goa government · History of Goa",
+      "https://dip.goa.gov.in/history-of-goa/"
     ]
   },
   "eras": [
@@ -1973,6 +2017,32 @@
           ]
         ],
         [
+          "25 October 1975 / 1976 Act",
+          "1975-10-25",
+          "bonded-labour-abolition",
+          "Abolition targets bonded labour and bonded debt",
+          "Society",
+          "An ordinance abolished the bonded labour system in October 1975. The Bonded Labour System (Abolition) Act, enacted on 9 February 1976, was deemed effective from 25 October 1975. It freed bonded labourers from service obligations and extinguished liability to repay bonded debt.",
+          "Legal abolition did not establish the disappearance of coercive labour. Identification, release and rehabilitation remained separate responsibilities. The reform belongs in the Emergency period alongside scrutiny of the government’s restrictions on civil liberties.",
+          [
+            "bonded-labour1976",
+            "bonded-labour-explained"
+          ]
+        ],
+        [
+          "11 February 1976",
+          "1976-02-11",
+          "equal-remuneration-law",
+          "Equal remuneration becomes a statutory obligation",
+          "Society",
+          "The Equal Remuneration Act was enacted on 11 February 1976. It required equal remuneration for men and women performing the same work or work of a similar nature, and addressed discrimination in recruitment.",
+          "The legal test concerned comparable work, not an automatic guarantee of equal earnings across the economy. Occupational segregation, access to employment and enforcement therefore remain distinct questions when assessing women’s economic position.",
+          [
+            "equal-remuneration1976",
+            "equal-remuneration-text"
+          ]
+        ],
+        [
           "1976",
           "1976-12-18",
           "forty-second-amendment",
@@ -2060,6 +2130,19 @@
           ]
         ],
         [
+          "25 October 1980",
+          "1980-10-25",
+          "forest-conservation-law",
+          "Forest diversion becomes subject to central approval",
+          "Environment",
+          "The Forest (Conservation) Act, 1980 was deemed to come into force on 25 October 1980. It required prior Central Government approval for state decisions such as dereservation of reserved forests and use of forest land for non-forest purposes.",
+          "This added a national approval requirement to decisions over forest land. It was a different legal instrument from wildlife protection or pollution control. Approval procedures and the ecological consequences of individual projects require separate examination.",
+          [
+            "forest-conservation1980",
+            "forest-diversion-approval"
+          ]
+        ],
+        [
           "1982",
           "1982-07-12",
           "nabard",
@@ -2081,6 +2164,18 @@
           "The victory became a lasting sporting landmark. It should not be treated as the sole cause of cricket's later commercial and broadcasting expansion.",
           [
             "cricket"
+          ]
+        ],
+        [
+          "30 August / October 1983",
+          "1983-08-30",
+          "insat1b-services",
+          "INSAT-1B connects space capability to everyday communications",
+          "Science",
+          "INSAT-1B launched on 30 August 1983 and reached full operational capability in October after difficulties deploying its solar array. The satellite provided communication circuits and returned Earth imagery.",
+          "The mission adds a service dimension to the story of launch vehicles and research institutions. Launch, successful deployment and routine operation were separate achievements. Space infrastructure became part of communications and observation systems used on the ground.",
+          [
+            "insat1b"
           ]
         ],
         [
@@ -2157,6 +2252,18 @@
           ]
         ],
         [
+          "8 December 1985",
+          "1985-12-08",
+          "saarc-founded",
+          "India joins its neighbours in founding SAARC",
+          "Democracy",
+          "The South Asian Association for Regional Cooperation was established with the signing of its Charter in Dhaka on 8 December 1985. India was one of its seven founding members.",
+          "A standing regional forum created another channel for cooperation alongside bilateral diplomacy. Its establishment should be distinguished from later results in trade, connectivity or dispute resolution. The chapter’s security conflicts did not exhaust India’s relationships with its neighbours.",
+          [
+            "saarc-origin"
+          ]
+        ],
+        [
           "1986–1988",
           "1986-05-01",
           "education1986-programmes",
@@ -2191,6 +2298,31 @@
           "The settlement offered a constitutional and political route out of armed conflict. It should be studied on its own terms, alongside other regional agreements. Different movements had different demands, histories and outcomes.",
           [
             "mizo-accord"
+          ]
+        ],
+        [
+          "24 December 1986",
+          "1986-12-24",
+          "consumer-protection-law",
+          "Consumer disputes gain a dedicated legal framework",
+          "Society",
+          "The Consumer Protection Act was enacted on 24 December 1986, with provisions commencing in 1987. It provided for a three-tier system for consumer dispute redressal at district, state and national levels.",
+          "The law gave consumer complaints a specialised institutional route. Passing the Act and establishing functioning forums were different steps. Access, delay and enforcement matter when assessing whether the promised remedies reached consumers.",
+          [
+            "consumer-protection1986",
+            "consumer-fora-history"
+          ]
+        ],
+        [
+          "30 May 1987",
+          "1987-05-30",
+          "goa-statehood",
+          "Goa becomes a state while Daman and Diu remain a Union Territory",
+          "Democracy",
+          "Goa attained statehood on 30 May 1987 when the Union Territory of Goa, Daman and Diu was reorganised. Daman and Diu continued together as a Union Territory.",
+          "The event came more than twenty-five years after Portuguese rule ended in 1961. Territorial incorporation and statehood were separate milestones, showing how an area’s constitutional position within India changed over time.",
+          [
+            "goa-statehood1987"
           ]
         ],
         [
@@ -2321,8 +2453,8 @@
         ]
       ],
       "overview": [
-        "Read this chapter in three stages. First comes the Emergency and the attempt to repair constitutional safeguards. The 1977 result showed voters removing a government after restrictions on political freedom. Janata’s collapse and Congress’s return in 1980 then exposed the difficulties of governing together.",
-        "The 1980s brought advances in satellite launches, telecom research and education policy. They also brought the Punjab crisis, anti-Sikh killings and the Bhopal disaster. Agreements in Assam and Mizoram followed different conflicts and produced different outcomes. The Sri Lanka intervention extended India’s security commitments beyond its borders.",
+        "Begin with the Emergency and the response to it. Restrictions on political freedom coexisted with legislation on bonded labour and equal remuneration. These laws need examination on their own terms, without treating them as a measure of democratic freedom. The 1977 election, the inquiry into abuses and constitutional safeguards were followed by Janata’s collapse and Congress’s return.",
+        "The 1980s combined new public services with major failures of protection. Satellite communications, telecom research, forest regulation and consumer remedies expanded institutional responsibilities. Punjab, the anti-Sikh killings and Bhopal exposed different forms of violence and vulnerability. Assam and Mizoram pursued distinct settlements, Goa attained statehood, and SAARC created a regional forum alongside India’s security commitments in Sri Lanka.",
         "The closing years connect the 1989 election, Mandal, the Ayodhya mobilisation and the displacement of Kashmiri Pandits. These were distinct developments with overlapping political consequences. The chapter ends with Rajiv Gandhi’s assassination during the 1991 election campaign. The next chapter takes up the economic crisis and reforms."
       ]
     },
