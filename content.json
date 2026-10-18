@@ -1002,6 +1002,46 @@
     "goa-statehood1987": [
       "Goa government · History of Goa",
       "https://dip.goa.gov.in/history-of-goa/"
+    ],
+    "nhrc-origin": [
+      "NHRC · Establishment of the Commission",
+      "https://nhrc.nic.in/about-the-organisation"
+    ],
+    "nhrc-mandate": [
+      "NHRC · Functions and mandate",
+      "https://nhrc.nic.in/mandate"
+    ],
+    "nse-equities1994": [
+      "NSE · Beginning of equity trading",
+      "https://www.nseindia.com/static/products-services/about-equity-market"
+    ],
+    "school-meals-origin": [
+      "Education Ministry · History of the school meal programme",
+      "https://pmposhan.education.gov.in/aboutus.html"
+    ],
+    "school-meals-order2001": [
+      "Education Ministry · Meal provision and the 2001 Supreme Court order",
+      "https://pmposhan.education.gov.in/Meal%20Provision.html"
+    ],
+    "disability-law1995": [
+      "India Code · Persons with Disabilities Act, 1995",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/8866?view_type=browse"
+    ],
+    "disability-law-history": [
+      "Chief Commissioner for Persons with Disabilities · Acts and guidelines",
+      "https://ccpd.nic.in/acts-guidelines/"
+    ],
+    "pesa1996": [
+      "India Code · Extension of Panchayats to Scheduled Areas, 1996",
+      "https://www.indiacode.nic.in/bitstream/123456789/1973/1/A1996-40.pdf"
+    ],
+    "electricity-law2003": [
+      "India Code · Electricity Act, 2003",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2058?view_type=browse"
+    ],
+    "nps-origin2004": [
+      "PFRDA · Annual report 2014–2015, origins of NPS",
+      "https://www.pfrda.org.in/documents/33652/146225/Annual%2BReport%2B2014-2015.pdf"
     ]
   },
   "eras": [
@@ -2558,6 +2598,19 @@
           ]
         ],
         [
+          "12 October 1993",
+          "1993-10-12",
+          "nhrc-established",
+          "A national commission takes up human-rights oversight",
+          "Society",
+          "The National Human Rights Commission was established on 12 October 1993. Its functions include inquiries into human-rights violations or negligence in their prevention by public servants, review of safeguards and recommendations for action.",
+          "The Commission added a dedicated oversight institution alongside courts and other authorities. Its inquiry and recommendation functions should be distinguished from a court’s power to convict. Institutional creation alone does not establish effective redress for every complainant.",
+          [
+            "nhrc-origin",
+            "nhrc-mandate"
+          ]
+        ],
+        [
           "1994–1999",
           "1994-01-01",
           "telecom-policy",
@@ -2580,6 +2633,18 @@
           "The judgment became a major reference point for the protection of federalism and state governments. It did not abolish President’s Rule. The legal justification for a proclamation and a political disagreement with a state government are different questions.",
           [
             "bommai"
+          ]
+        ],
+        [
+          "3 November 1994",
+          "1994-11-03",
+          "nse-equity-trading",
+          "Electronic equity trading changes market infrastructure",
+          "Economy",
+          "The National Stock Exchange began trading in its equities segment on 3 November 1994. Its electronic trading system formed part of the changes in market infrastructure during the reform years.",
+          "The story of market reform includes the systems through which orders are matched and transactions recorded. A new trading platform did not remove investment risk or the need for supervision, a distinction made sharper by the securities scandal earlier in the decade.",
+          [
+            "nse-equities1994"
           ]
         ],
         [
@@ -2607,6 +2672,32 @@
           ]
         ],
         [
+          "15 August 1995 / 2001 order",
+          "1995-08-15",
+          "national-school-meals",
+          "A national school-nutrition programme links food and attendance",
+          "Society",
+          "The National Programme of Nutritional Support to Primary Education launched on 15 August 1995, initially in 2,408 blocks. A Supreme Court order of 28 November 2001 subsequently directed provision of cooked midday meals under the scheme.",
+          "The national launch built on an earlier history of school meals in India. Food-grain support, cooked meals and later expansion were separate stages. Nutrition, attendance and classroom learning are related aims, but a programme’s launch date does not establish results for each.",
+          [
+            "school-meals-origin",
+            "school-meals-order2001"
+          ]
+        ],
+        [
+          "1 January 1996",
+          "1996-01-01",
+          "disability-rights1995-law",
+          "Disability rights receive a wider statutory framework",
+          "Society",
+          "The Persons with Disabilities (Equal Opportunities, Protection of Rights and Full Participation) Act, 1995 was enacted on 1 January 1996. It addressed education, employment, a barrier-free environment and social security.",
+          "The Act’s title carries 1995, while its enactment date falls in 1996. Its scope placed participation and access within the legal framework. Evaluating implementation requires attention to accessible institutions and enforcement, beyond the presence of statutory provisions.",
+          [
+            "disability-law1995",
+            "disability-law-history"
+          ]
+        ],
+        [
           "1996–1999",
           "1996-05-16",
           "coalition-governments1996",
@@ -2617,6 +2708,18 @@
           [
             "coalition",
             "shastri-tenure"
+          ]
+        ],
+        [
+          "24 December 1996",
+          "1996-12-24",
+          "pesa-local-governance",
+          "PESA adapts local government to Scheduled Areas",
+          "Democracy",
+          "The Provisions of the Panchayats (Extension to the Scheduled Areas) Act was enacted on 24 December 1996. It extended Part IX of the Constitution to Scheduled Areas with modifications, including a Gram Sabha role in safeguarding traditions, cultural identity and community resources.",
+          "PESA addressed a specific constitutional category of territory, rather than every village with a tribal population. Its relationship with state legislation and administrative practice is central to understanding how local self-government worked beyond the 1992 amendments.",
+          [
+            "pesa1996"
           ]
         ],
         [
@@ -2784,6 +2887,18 @@
           ]
         ],
         [
+          "26 May / 10 June 2003",
+          "2003-05-26",
+          "electricity-reform2003",
+          "Electricity reform consolidates the sector’s legal framework",
+          "Economy",
+          "The Electricity Act was enacted on 26 May 2003, with most provisions taking effect on 10 June. It consolidated the framework for generation, transmission, distribution, trading and use of electricity, and addressed competition, consumer interests, tariffs and regulatory institutions.",
+          "A national legal framework did not immediately create reliable or affordable supply in every area. Investment, distribution finances, regulation and delivery remained practical tests of reform. Electricity adds an essential public-service dimension to the era’s account of infrastructure.",
+          [
+            "electricity-law2003"
+          ]
+        ],
+        [
           "2003–2004",
           "2003-08-26",
           "frbm-law",
@@ -2794,12 +2909,24 @@
           [
             "frbm2003"
           ]
+        ],
+        [
+          "1 January 2004",
+          "2004-01-01",
+          "new-pension-system2004",
+          "New central-government entrants move to contributory pensions",
+          "Economy",
+          "A notification of 22 December 2003 introduced the defined-contribution New Pension System from 1 January 2004 for new entrants to Central Government service, except the Armed Forces. The scheme later became known as the National Pension System.",
+          "The initial change concerned a defined group of new employees. It was distinct from later access for other subscribers and from PFRDA’s later statutory status. Contributions and investment performance became central to the pension design.",
+          [
+            "nps-origin2004"
+          ]
         ]
       ],
       "overview": [
-        "Start with the sequence of the 1991 crisis. The rupee adjustment came before the July Budget and industrial policy changes. Exchange-rate reform continued through 1992–1994. The securities scandal then exposed weaknesses in financial oversight during a period of expanding markets.",
-        "The political story moved from Rao’s government to a short BJP government and the United Front, followed by BJP-led alliances. Regional parties helped determine who governed. The Bommai judgment and local-government amendments addressed different parts of the federal system, while the Mandal judgment shaped the legal framework for OBC representation.",
-        "By the early 2000s, public internet access, telecom regulation and software exports had changed the prospects of several industries. Rural roads and school programmes addressed other needs. Lahore diplomacy, Kargil and the Parliament attack show the security pressures of the same years. The next era follows the expansion of rights-based welfare after 2004."
+        "Start with the sequence of the 1991 crisis. The rupee adjustment came before the July Budget and industrial policy changes. Exchange-rate reform continued through 1992–1994. The securities scandal exposed weaknesses in oversight, while electronic equity trading changed the infrastructure through which expanding markets operated.",
+        "Follow the institutions alongside changes of government. Coalition bargaining gave regional parties a larger national role. Local-government amendments, PESA and the Bommai judgment addressed different parts of federalism. Human-rights oversight and disability legislation expanded the legal and institutional routes through which people sought protection and participation.",
+        "Public internet access, telecom regulation and software exports changed the prospects of several industries. School nutrition, elementary education, rural roads and electricity reform addressed other needs. A contributory pension system began for new central-government entrants in 2004. These developments shared a period with Lahore diplomacy, Kargil and the Parliament attack. The next era follows the expansion of rights-based welfare after 2004."
       ]
     },
     {
