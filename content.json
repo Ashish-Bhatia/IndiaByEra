@@ -1270,6 +1270,38 @@
     "rtgs-design": [
       "RBI · Real Time Gross Settlement explained",
       "https://www.rbi.org.in/scripts/FS_FAQs.aspx?Id=65"
+    ],
+    "jnnurm-origin2005": [
+      "Urban Development Ministry via PIB · JNNURM launch and objectives",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=3&relid=90058"
+    ],
+    "jnnurm-original-report": [
+      "Urban Development Ministry · Annual report 2005–2006",
+      "https://www.mohua.gov.in/upload/uploadfiles/files/12AR2005_06.pdf"
+    ],
+    "tsunami-warning2007": [
+      "INCOIS · Indian tsunami early-warning system origins",
+      "https://tsunami.incois.gov.in/TEWS/searlywarnings.jsp"
+    ],
+    "climate-action-plan2008": [
+      "Prime Minister’s Office archive · National Action Plan on Climate Change release",
+      "https://archivepmo.nic.in/drmanmohansingh/press-details.php?nodeid=754"
+    ],
+    "bindra-olympic-gold2008": [
+      "ISSF · Beijing Olympic men’s 10m air rifle final, 11 August 2008",
+      "https://www.issf-sports.org/news/897"
+    ],
+    "nia-origin2008": [
+      "National Investigation Agency · Establishment and jurisdiction",
+      "https://www.nia.gov.in/about-us-nia"
+    ],
+    "imps-origin2010": [
+      "NPCI · Immediate Payment Service product history",
+      "https://www.npci.org.in/PDF/npci/imps/Product-Booklet.pdf"
+    ],
+    "national-grid2013": [
+      "Power Ministry via PIB · Southern grid synchronous connection",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=102244"
     ]
   },
   "eras": [
@@ -3602,6 +3634,19 @@
           ]
         ],
         [
+          "3 December 2005",
+          "2005-12-03",
+          "urban-renewal-jnnurm",
+          "A national mission links urban investment with governance reform",
+          "Economy",
+          "Jawaharlal Nehru National Urban Renewal Mission launched on 3 December 2005. It supported urban infrastructure and services, including basic services for the urban poor, while seeking reforms in city governance and service delivery.",
+          "The mission brought municipal institutions into the national development story. Water, sanitation, transport and housing required coordination across city and state agencies. Sanctioning a project was only the start; construction, maintenance and access determined the service residents received.",
+          [
+            "jnnurm-origin2005",
+            "jnnurm-original-report"
+          ]
+        ],
+        [
           "2005",
           "2005-12-23",
           "disaster-management-law",
@@ -3651,6 +3696,18 @@
           ]
         ],
         [
+          "15 October 2007",
+          "2007-10-15",
+          "tsunami-warning-centre",
+          "India establishes a dedicated tsunami early-warning system",
+          "Science",
+          "The Indian tsunami early-warning system at INCOIS, Hyderabad, was inaugurated on 15 October 2007. It brought seismic and sea-level observations, modelling and communications into a round-the-clock warning service following the 2004 tsunami.",
+          "The system turned lessons from the disaster into an operational public service. Detecting a threat and issuing an advisory are parts of a longer chain: coastal authorities also need to receive warnings, communicate them and organise action.",
+          [
+            "tsunami-warning2007"
+          ]
+        ],
+        [
           "May 2008",
           "2008-05-01",
           "farm-debt-relief2008",
@@ -3660,6 +3717,30 @@
           "Coverage depended on the scheme’s loan and eligibility conditions. It did not cancel every farmer’s debt, including all borrowing outside formal institutions. The CAG later audited implementation, separating the announced design from its delivery.",
           [
             "farm-debt-audit"
+          ]
+        ],
+        [
+          "30 June 2008",
+          "2008-06-30",
+          "national-climate-action-plan",
+          "Climate policy is organised around eight national missions",
+          "Environment",
+          "Prime Minister Manmohan Singh released the National Action Plan on Climate Change on 30 June 2008. It organised priorities around eight national missions addressing climate-related development challenges.",
+          "The plan brought adaptation and mitigation into a common policy framework. The missions still required their own design, approval and implementation. The 2008 release therefore helps explain the policy groundwork preceding India’s later Paris commitments and net-zero announcement.",
+          [
+            "climate-action-plan2008"
+          ]
+        ],
+        [
+          "11 August 2008",
+          "2008-08-11",
+          "bindra-olympic-gold",
+          "Abhinav Bindra wins India’s first individual Olympic gold",
+          "Culture",
+          "Abhinav Bindra won the men’s 10-metre air rifle event at the Beijing Olympics on 11 August 2008. It was India’s first individual Olympic gold medal.",
+          "The individual milestone followed India’s earlier Olympic team successes in hockey. It adds a different sporting achievement to a history often centred on cricket, while leaving questions about training systems and access to facilities open to separate examination.",
+          [
+            "bindra-olympic-gold2008"
           ]
         ],
         [
@@ -3714,6 +3795,18 @@
           ]
         ],
         [
+          "31 December 2008",
+          "2008-12-31",
+          "national-investigation-agency",
+          "The NIA Act creates a national investigative institution",
+          "Democracy",
+          "The National Investigation Agency Act was enacted on 31 December 2008. It created a framework for a national agency to investigate and prosecute specified offences, with jurisdiction operating alongside state authorities.",
+          "The measure followed the Mumbai attacks and formed part of the security response. Its scope concerned offences covered by the statutory framework, rather than every criminal investigation. Agency powers, coordination and safeguards all matter when assessing how the institution worked.",
+          [
+            "nia-origin2008"
+          ]
+        ],
+        [
           "March 2009",
           "2009-03-01",
           "secondary-education-rmsa",
@@ -3762,6 +3855,18 @@
           [
             "ngt-origin",
             "ngt-law"
+          ]
+        ],
+        [
+          "22 November 2010",
+          "2010-11-22",
+          "imps-instant-payments",
+          "IMPS adds an immediate interbank payment service",
+          "Economy",
+          "NPCI publicly launched Immediate Payment Service on 22 November 2010 after pilot work with banks. The service supported immediate interbank electronic funds transfers.",
+          "Instant payments were developing before the later introduction of UPI. IMPS belongs in the sequence between earlier electronic banking systems and the wider retail-payment ecosystem. The infrastructure’s launch and its subsequent reach across banks and customers were separate stages.",
+          [
+            "imps-origin2010"
           ]
         ],
         [
@@ -3940,6 +4045,18 @@
           ]
         ],
         [
+          "31 December 2013",
+          "2013-12-31",
+          "southern-grid-synchronisation",
+          "The southern electricity grid joins the national synchronous network",
+          "Economy",
+          "On 31 December 2013, the southern grid was synchronously connected to the rest of the national power grid through the Raichur–Solapur 765 kV transmission line. The connection facilitated bulk power transfer across regional boundaries.",
+          "Grid synchronisation was an engineering milestone after years of regional interconnection. It did not mean that every household had an electricity connection or uninterrupted supply. Generation, transmission capacity and local distribution remained different parts of reliable service.",
+          [
+            "national-grid2013"
+          ]
+        ],
+        [
           "1 / 16 January 2014",
           "2014-01-01",
           "lokpal-legislation",
@@ -3978,9 +4095,9 @@
         ]
       ],
       "overview": [
-        "The 2004 change of government was followed by several different forms of public action. RTI opened access to official records, the employment guarantee created a statutory claim to public work, and the rural health mission sought stronger services. Health insurance later addressed hospital costs for eligible poor households. Women’s protections and forest rights dealt with other forms of exclusion.",
-        "The financial crisis interrupted the growth story. Monetary easing and fiscal support addressed that shock, while farm debt relief addressed agricultural credit. During the second UPA term, Aadhaar, elementary-school rights, secondary education and a rural livelihoods mission took different approaches to access and opportunity. Environmental adjudication and child-protection law added institutional duties of their own.",
-        "The closing years brought anti-corruption protests, the spectrum judgment and demands for women’s safety after the Delhi assault. Food security, land acquisition, sanitation work and company law received new statutory frameworks. The Lokpal law commenced in January 2014, while financial pressure and disputes over implementation continued. Telangana’s formation and the Mars mission crossed into the next era."
+        "The 2004 change of government was followed by several forms of public action. RTI opened access to official records, the employment guarantee created a statutory claim to public work, and the rural health mission sought stronger services. Urban renewal focused on cities, while health insurance addressed hospital costs for eligible poor households. Women’s protections and forest rights dealt with other forms of exclusion.",
+        "The period also built institutions and infrastructure. A tsunami-warning system followed the coastal disaster; climate policy was organised around national missions. The financial crisis prompted monetary easing and fiscal support, while farm debt relief addressed agricultural credit. Mumbai’s attacks were followed by the NIA framework. Aadhaar, IMPS, school programmes and rural livelihoods took different approaches to access and opportunity.",
+        "The closing years brought anti-corruption protests, the spectrum judgment and demands for women’s safety after the Delhi assault. Food security, land acquisition, sanitation work and company law received new statutory frameworks. The Lokpal law commenced in January 2014. Southern-grid synchronisation marked an infrastructure milestone, while Telangana’s formation and the Mars mission crossed into the next era. Abhinav Bindra’s Olympic gold adds a sporting achievement to this wider account."
       ]
     },
     {

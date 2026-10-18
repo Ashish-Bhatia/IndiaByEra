@@ -19,7 +19,7 @@ GitHub Pages serves the repository root from `main`. No custom GitHub Actions wo
 
 ## Editorial scope
 
-The current edition contains 261 selected milestones, with 317 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
+The current edition contains 268 selected milestones, with 325 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
 
 Programme announcements, legal enactment, commencement and measured results are different milestones. Context paragraphs contain editorial interpretation and should be reviewed alongside the linked records. Institutional records establish many dates and decisions but do not independently settle every assessment of outcomes.
 
@@ -29,4 +29,4 @@ Single dark editorial theme. Responsive chapter index, keyboard-operable disclos
 
 ## Focused editorial passes
 
-All six chapters have received focused editorial passes. Eras 1–6 contain 48, 43, 43, 40, 37 and 50 milestones respectively. The latest pass deepens Era 4, 1991–2004, with seven milestones covering AIDS control, PSLV, Pulse Polio, the Vishaka guidelines, the Gujarat earthquake, Delhi Metro and RTGS. The chapter overview now links public health, rights, transport and payment infrastructure to the existing reform sequence. Other era content and the April 2026 coverage cutoff were preserved. Continue the next focused pass with Era 5, 2004–2014.
+All six chapters have received focused editorial passes. Eras 1–6 contain 48, 43, 43, 40, 44 and 50 milestones respectively. The latest pass deepens Era 5, 2004–2014, with seven milestones covering urban renewal, tsunami warnings, climate policy, Olympic gold, the NIA, IMPS and national grid synchronisation. The chapter overview now links these services and institutions to the existing welfare and political sequence. Other era content and the April 2026 coverage cutoff were preserved. Continue the next focused pass with Era 6, 2014–present.
