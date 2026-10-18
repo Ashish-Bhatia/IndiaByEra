@@ -1,7 +1,7 @@
 {
   "title": "India By Era",
   "reviewed": "18 October 2026",
-  "coverage": "Selected milestones from 1947 to July 2025. This is a curated history, not a complete record of events through 2026.",
+  "coverage": "Selected milestones from 1947 to January 2026. This is a curated history, not a complete record of events through October 2026.",
   "sources": {
     "nation": [
       "NCERT · Challenges of Nation Building",
@@ -334,6 +334,74 @@
     "pmjay-origin": [
       "National Health Authority · PM-JAY programme account",
       "https://nha.gov.in/img/resources/wall-painting-RFE-Updated-2.pdf"
+    ],
+    "eci-origin": [
+      "Election Commission · Constitutional origins",
+      "https://www.eci.gov.in/about-eci/"
+    ],
+    "iit-origin": [
+      "IIT Kharagpur · Institutional history",
+      "https://www.iitkgp.ac.in/about-iitkgp-history"
+    ],
+    "aiims-origin": [
+      "AIIMS · Origins and mandate",
+      "https://aiims.edu/index.php/en/about-us"
+    ],
+    "education1968": [
+      "Ministry of Education · National Policy on Education, 1968",
+      "https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/NPE-1968.pdf"
+    ],
+    "education1986": [
+      "Ministry of Education · National Policy on Education, 1986, modified in 1992",
+      "https://www.education.gov.in/sites/upload_files/mhrd/files/document-reports/NPE86-mod92.pdf"
+    ],
+    "aryabhata": [
+      "ISRO · Aryabhata mission record",
+      "https://www.isro.gov.in/aryabhata_1.html"
+    ],
+    "sikkim-state": [
+      "Government of Sikkim · Constitutional transition to statehood",
+      "https://www.sikkim.gov.in/departments/sikkim-legislative-assembly"
+    ],
+    "sikkim-date": [
+      "Government of Sikkim · State Day and 16 May 1975",
+      "https://www.sikkim.gov.in/departments/sikkim-information-commission"
+    ],
+    "mizo-accord": [
+      "Lok Bhavan Mizoram · Memorandum of Settlement, 1986",
+      "https://rajbhavan.mizoram.gov.in/aijal-club-marks-the-anniversary-of-signing-of-mizoram-peace-accord-with-celebration-program/"
+    ],
+    "voting-age": [
+      "Election Commission · Voting age amendment and 1989 commencement",
+      "https://www.eci.gov.in/voicenet/IC_Booklet/VOI2.pdf"
+    ],
+    "coastal-warning": [
+      "INCOIS · Tsunami risk and early-warning systems",
+      "https://tsunami.incois.gov.in/TEWS/dsssop.jsp"
+    ],
+    "warning-origin": [
+      "INCOIS · Warning centre operational from October 2007",
+      "https://tsunami.incois.gov.in/TEWS/abouttsunamiready.jsp"
+    ],
+    "disaster-law": [
+      "India Code · Disaster Management Act, 2005",
+      "https://www.indiacode.nic.in/bitstream/123456789/2045/1/aaa200553.pdf"
+    ],
+    "polio-certification": [
+      "WHO India · Last wild-polio case and 2014 certification",
+      "https://www.who.int/india/news-room/feature-stories/detail/a-push-to-vaccinate-every-child-everywhere-ended-polio-in-india"
+    ],
+    "polio2026": [
+      "WHO · Fifteen years since the region’s last wild-polio case, January 2026",
+      "https://www.who.int/southeastasia/news/detail/13-01-2026-south-east-asia-marks-15-years-since-the-last-case-of-wild-poliovirus-polio-legacy-continues-to-drive-broader-public-health-gains"
+    ],
+    "nep2020": [
+      "Ministry of Education · National Education Policy 2020",
+      "https://www.education.gov.in/sites/upload_files/mhrd/files/nep/NEP_Final_English.pdf"
+    ],
+    "nepapproval": [
+      "Ministry of Education · Consultation and Cabinet approval",
+      "https://www.education.gov.in/nep/consultation-process"
     ]
   },
   "eras": [
@@ -384,6 +452,18 @@
           ]
         ],
         [
+          "1950",
+          "1950-01-25",
+          "election-commission",
+          "An institution to conduct elections",
+          "Democracy",
+          "The Election Commission of India was established on 25 January 1950, immediately before India became a republic. Its constitutional role provided the institutional basis for organising elections.",
+          "Universal adult franchise needed an administrative system as well as a constitutional promise. The Commission’s establishment in 1950 and the first general election in 1951–1952 were separate steps. Assessments of particular elections require their own evidence.",
+          [
+            "eci-origin"
+          ]
+        ],
+        [
           "1949–1950",
           "1950-01-26",
           "republic",
@@ -406,6 +486,18 @@
           "The Second Plan, beginning in 1956, put greater emphasis on heavy industry and the public sector. Agriculture and industry were successive priorities, not a single policy launched in 1951.",
           [
             "planning"
+          ]
+        ],
+        [
+          "1951",
+          "1951-08-18",
+          "iit-kharagpur",
+          "The first IIT is formally inaugurated",
+          "Science",
+          "IIT Kharagpur was formally inaugurated by Education Minister Maulana Abul Kalam Azad on 18 August 1951. It became the first institute in the IIT system, following planning that began before independence.",
+          "Technical education formed part of the effort to build industrial and scientific capacity. The inauguration was one milestone in an institutional process, rather than the beginning of every kind of engineering education in India.",
+          [
+            "iit-origin"
           ]
         ],
         [
@@ -444,6 +536,18 @@
           "Public ownership in Indian banking did not begin with the nationalisation of 14 banks in 1969. SBI was an earlier institutional step. Ownership, branch reach and actual access to useful financial services remain different questions.",
           [
             "sbi-origin"
+          ]
+        ],
+        [
+          "1956",
+          "1956-06-02",
+          "aiims-delhi",
+          "AIIMS combines medical teaching, research and care",
+          "Society",
+          "AIIMS in New Delhi was created in 1956 through an Act of Parliament as an autonomous institution of national importance. Its mandate linked medical education and training with research and health care.",
+          "A specialist teaching institution and a nationwide system of accessible primary care perform different roles. AIIMS’s establishment should be read alongside later efforts to strengthen rural health services, rather than as a substitute for them.",
+          [
+            "aiims-origin"
           ]
         ],
         [
@@ -544,6 +648,19 @@
           ]
         ],
         [
+          "1968–1986",
+          "1968-01-01",
+          "education-policies",
+          "National education policy develops across decades",
+          "Society",
+          "The National Policy on Education of 1968 set out a framework for educational development. A new policy followed in 1986 and was modified in 1992.",
+          "Education policy therefore had a long history before NEP 2020. A policy document, a constitutional right and an enforceable statutory entitlement are different instruments. The later Right to Education framework should not be treated as another name for these earlier policies.",
+          [
+            "education1968",
+            "education1986"
+          ]
+        ],
+        [
           "1969",
           "1969-07-19",
           "bank-nationalisation",
@@ -626,6 +743,31 @@
           [
             "foreign",
             "diplomacy"
+          ]
+        ],
+        [
+          "April 1975",
+          "1975-04-19",
+          "aryabhata",
+          "India’s first satellite reaches orbit",
+          "Science",
+          "Aryabhata, India’s first satellite, launched on 19 April 1975. It was designed and fabricated in India and carried into orbit by a Soviet Kosmos-3M rocket from Kapustin Yar.",
+          "Building a satellite and independently launching one are different technical achievements. Aryabhata demonstrated Indian spacecraft development while relying on international launch cooperation. That distinction matters when tracing the later space programme.",
+          [
+            "aryabhata"
+          ]
+        ],
+        [
+          "May 1975",
+          "1975-05-16",
+          "sikkim-statehood",
+          "Sikkim becomes an Indian state",
+          "Democracy",
+          "Sikkim became India’s 22nd state on 16 May 1975 through the constitutional transition associated with the 36th Amendment.",
+          "This was a later change in the Union, distinct from the accession and integration of princely states around independence. Statehood also requires attention to the region’s own political history, rather than treating the national map as fixed in 1947.",
+          [
+            "sikkim-state",
+            "sikkim-date"
           ]
         ]
       ]
@@ -763,6 +905,18 @@
           ]
         ],
         [
+          "1986",
+          "1986-06-30",
+          "mizoram-accord",
+          "The Mizoram Accord creates a route to peace",
+          "Democracy",
+          "The Mizoram Memorandum of Settlement was signed on 30 June 1986 by MNF leader Laldenga, Union Home Secretary R. D. Pradhan and Mizoram Chief Secretary Lalkhama. It followed years of insurgency and negotiations.",
+          "The settlement offered a constitutional and political route out of armed conflict. It should be studied on its own terms, alongside other regional agreements. Different movements had different demands, histories and outcomes.",
+          [
+            "mizo-accord"
+          ]
+        ],
+        [
           "1988–1992",
           "1988-04-12",
           "sebi",
@@ -772,6 +926,18 @@
           "The regulator’s stated remit covers investor protection and securities-market development and regulation. Its administrative creation, statutory powers and subsequent enforcement record are separate parts of the history. The transition crosses the boundary between two eras.",
           [
             "sebi-origin"
+          ]
+        ],
+        [
+          "1988–1989",
+          "1989-03-28",
+          "voting-at-eighteen",
+          "The voting age falls from 21 to 18",
+          "Democracy",
+          "The 61st Constitutional Amendment lowered the voting age for Lok Sabha and state assembly elections from 21 to 18. Parliament passed the amendment in 1988, and it took effect in March 1989.",
+          "The first general election had used a voting age of 21. The later reduction brought younger adults into the electorate. Eligibility to vote, registration and turnout are distinct stages of electoral participation.",
+          [
+            "voting-age"
           ]
         ],
         [
@@ -988,6 +1154,19 @@
       "tension": "Passing a law and delivering its promise are different things. Implementation, public accountability and access shaped the reach of new entitlements.",
       "events": [
         [
+          "2004–2007",
+          "2004-12-26",
+          "indian-ocean-tsunami",
+          "The tsunami exposes coastal vulnerability",
+          "Society",
+          "The Indian Ocean earthquake and tsunami of 26 December 2004 devastated coastal communities, including in India. It exposed gaps in the region’s warning and preparedness systems.",
+          "India subsequently established its tsunami early-warning centre at INCOIS, operational from October 2007. Detecting a hazard, communicating warnings and enabling communities to act are separate parts of preparedness. A warning system does not eliminate the underlying risk.",
+          [
+            "coastal-warning",
+            "warning-origin"
+          ]
+        ],
+        [
           "2005",
           "2005-04-12",
           "rural-health-mission",
@@ -1021,6 +1200,18 @@
           "The entitlement is per household, not per individual. The original NREGA name was changed to MGNREGA in 2009.",
           [
             "work"
+          ]
+        ],
+        [
+          "2005",
+          "2005-12-23",
+          "disaster-management-law",
+          "Disaster management gains a national legal framework",
+          "Democracy",
+          "The Disaster Management Act was enacted on 23 December 2005. Its original framework provided for national, state and district authorities, planning and coordination for disaster management.",
+          "The Act’s enactment and the later operational development of institutions were different steps. This entry describes the 2005 framework, not every later amendment. Disaster governance also includes prevention, preparedness and recovery, beyond emergency relief alone.",
+          [
+            "disaster-law"
           ]
         ],
         [
@@ -1137,6 +1328,18 @@
           [
             "mars"
           ]
+        ],
+        [
+          "2011–2014",
+          "2014-03-27",
+          "polio-certification",
+          "A public-health campaign reaches a major milestone",
+          "Society",
+          "India’s last reported case of wild poliovirus occurred in Howrah on 13 January 2011. On 27 March 2014, the WHO South-East Asia Region, including India, was certified polio-free.",
+          "The result followed sustained vaccination, surveillance and work by public-health staff and partner organisations across many years. Regional certification was not a declaration of worldwide eradication, and it did not remove the need to vaccinate and monitor for poliovirus.",
+          [
+            "polio-certification"
+          ]
         ]
       ]
     },
@@ -1148,7 +1351,7 @@
       "title": "Digital Transformation & Modern Geopolitics",
       "question": "What does transformation look like in daily life?",
       "intro": "Digital payments, tax reform and infrastructure have changed how citizens and businesses interact with the state and the economy. These years also brought the pandemic, constitutional changes in Jammu and Kashmir, and prominent space and diplomatic milestones.",
-      "tension": "The present is unfinished history. A programme's launch is evidence of policy intent. Its effect on jobs, public welfare or the environment needs separate evidence over time. Selected coverage here ends in July 2025.",
+      "tension": "The present is unfinished history. A programme’s launch is evidence of policy intent. Its effect on jobs, public welfare or the environment needs separate evidence over time. Selected dated coverage here reaches January 2026.",
       "events": [
         [
           "2014",
@@ -1286,6 +1489,19 @@
           ]
         ],
         [
+          "2020",
+          "2020-07-29",
+          "national-education-policy",
+          "NEP 2020 sets out a new education framework",
+          "Society",
+          "The Union Cabinet approved National Education Policy 2020 on 29 July. It proposed changes across school and higher education, including a 5+3+3+4 curricular and pedagogical structure that included early childhood education.",
+          "The proposal followed earlier national policies and a multi-year consultation process. Cabinet approval did not mean that every institution changed immediately. Implementation depended on subsequent decisions and action across governments and educational bodies.",
+          [
+            "nep2020",
+            "nepapproval"
+          ]
+        ],
+        [
           "2020–2021",
           "2020-09-27",
           "farm-laws-repeal",
@@ -1366,9 +1582,21 @@
           "NISAR adds a joint Earth-observation mission",
           "Science",
           "The joint NASA–ISRO NISAR mission launched on 30 July 2025 aboard GSLV-F16.",
-          "The mission extends the space story beyond lunar exploration to observing the Earth. This is the latest dated milestone in this edition.",
+          "The mission extends the space story beyond lunar exploration to observing the Earth. Its joint development also illustrates the continuing role of international scientific cooperation.",
           [
             "nisar"
+          ]
+        ],
+        [
+          "January 2026",
+          "2026-01-13",
+          "polio-follow-up",
+          "WHO records fifteen years without a regional wild-polio case",
+          "Society",
+          "On 13 January 2026, WHO reported that its South-East Asia Region had sustained its polio-free status fifteen years after the last wild-poliovirus case, recorded in India in 2011.",
+          "This is a dated regional status report that includes India, rather than a claim of global eradication. WHO emphasised continued vaccination and surveillance against importation. Sustaining an achievement is a separate public-health task from reaching certification.",
+          [
+            "polio2026"
           ]
         ]
       ]
@@ -1449,7 +1677,8 @@
       "highways"
     ],
     "rural-health-mission": [
-      "pm-jay"
+      "pm-jay",
+      "aiims-delhi"
     ],
     "pm-jay": [
       "rural-health-mission"
@@ -1468,14 +1697,71 @@
       "aadhaar"
     ],
     "chandrayaan-one": [
-      "chandrayaan-three"
+      "chandrayaan-three",
+      "aryabhata"
     ],
     "chandrayaan-three": [
       "chandrayaan-one",
       "isro-founded"
     ],
     "isro-founded": [
-      "chandrayaan-three"
+      "chandrayaan-three",
+      "aryabhata"
+    ],
+    "election-commission": [
+      "first-election"
+    ],
+    "first-election": [
+      "election-commission",
+      "voting-at-eighteen"
+    ],
+    "voting-at-eighteen": [
+      "first-election"
+    ],
+    "integration": [
+      "sikkim-statehood"
+    ],
+    "sikkim-statehood": [
+      "integration"
+    ],
+    "assam-accord": [
+      "mizoram-accord"
+    ],
+    "mizoram-accord": [
+      "assam-accord"
+    ],
+    "iit-kharagpur": [
+      "education-policies"
+    ],
+    "education-policies": [
+      "iit-kharagpur",
+      "right-to-education",
+      "national-education-policy"
+    ],
+    "right-to-education": [
+      "education-policies"
+    ],
+    "national-education-policy": [
+      "education-policies"
+    ],
+    "aiims-delhi": [
+      "rural-health-mission"
+    ],
+    "aryabhata": [
+      "isro-founded",
+      "chandrayaan-one"
+    ],
+    "indian-ocean-tsunami": [
+      "disaster-management-law"
+    ],
+    "disaster-management-law": [
+      "indian-ocean-tsunami"
+    ],
+    "polio-certification": [
+      "polio-follow-up"
+    ],
+    "polio-follow-up": [
+      "polio-certification"
     ]
   }
 }
