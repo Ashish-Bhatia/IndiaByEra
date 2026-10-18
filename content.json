@@ -770,6 +770,86 @@
     "foodsecurity-dates": [
       "Department of Food and Public Distribution · NFSA notification and deemed commencement",
       "https://dfpd.gov.in/faqs/en"
+    ],
+    "election2014-record": [
+      "Parliament · General Elections 2014, party results",
+      "https://eparlib.sansad.in/bitstream/123456789/293/1/General_Elections_2014_English.pdf"
+    ],
+    "modi-oath2014": [
+      "President’s Secretariat · Appointment of the prime minister, 26 May 2014",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=105162"
+    ],
+    "swachh-origin": [
+      "Department of Drinking Water and Sanitation · Swachh Bharat Mission origins",
+      "https://swachhbharatmission.ddws.gov.in/about-us"
+    ],
+    "digital-india-origin": [
+      "PIB · Digital India launch and programme account",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1506002&lang=2&reg=48"
+    ],
+    "rera2016": [
+      "India Code · Real Estate (Regulation and Development) Act, 2016",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2158?view_type=browse"
+    ],
+    "balakot-statement": [
+      "MEA · Foreign Secretary’s statement on Pulwama and Balakot, February 2019",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=188948"
+    ],
+    "caa-parliament": [
+      "MHA · Parliamentary passage and scope of the citizenship amendment",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1596059&lang=2&reg=48"
+    ],
+    "caa-rules2024": [
+      "MHA · Citizenship (Amendment) Rules, 11 March 2024",
+      "https://www.mha.gov.in/sites/default/files/2024-09/TheCitizenshipAmendmentRule_10092024.pdf"
+    ],
+    "galwan-record": [
+      "PMO · Record of the June 2020 Galwan clash and Indian casualties",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1632856&lang=2&reg=48"
+    ],
+    "cop26-statement": [
+      "PMO · National statement at COP26, 1 November 2021",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1768712&lang=2&reg=48"
+    ],
+    "dpdp-act2023": [
+      "MeitY · Gazette text of the Digital Personal Data Protection Act, 2023",
+      "https://www.meity.gov.in/static/uploads/2024/02/Digital-Personal-Data-Protection-Act-2023.pdf"
+    ],
+    "dpdp-rules2025": [
+      "MeitY · Digital Personal Data Protection Rules, November 2025, phased commencement",
+      "https://www.meity.gov.in/static/uploads/2025/11/53450e6e5dc0bfa85ebd78686cadad39.pdf"
+    ],
+    "women-reservation-text": [
+      "Legislative Department · 106th Constitutional Amendment, 2023",
+      "https://www.legislative.gov.in/static/uploads/2025/07/677f65dda7c606ba1d13b8430af70555.pdf"
+    ],
+    "ram-temple-ceremony": [
+      "PMO · Ayodhya consecration ceremony, 22 January 2024",
+      "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1998553&lang=2&reg=3"
+    ],
+    "electoral-bonds-record": [
+      "Supreme Court · Electoral bonds judgment, 15 February 2024",
+      "https://api.sci.gov.in/supremecourt/2017/27935/27935_2017_1_1501_50573_Judgement_15-Feb-2024.pdf"
+    ],
+    "criminal-laws2024": [
+      "MHA · Commencement of the new criminal laws and specified exceptions",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2036414&lang=2&reg=48"
+    ],
+    "jk-polling2024": [
+      "Election Commission · September–October 2024 assembly polling",
+      "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2056388&lang=2&reg=48"
+    ],
+    "jk-government2024": [
+      "PMO · Omar Abdullah’s oath, 16 October 2024",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2065269&lang=2&reg=3"
+    ],
+    "sindoor-briefing": [
+      "MEA · Operation Sindoor briefing, 7 May 2025, consulate archive",
+      "https://www.cgiistanbul.gov.in/section/news/transcript-of-special-briefing-on-operation-sindoor-may-07-2025/"
+    ],
+    "may2025-halt": [
+      "PIB · Record of the May 2025 military exchanges and halt agreement",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2128747&lang=2&reg=3"
     ]
   },
   "eras": [
@@ -2637,9 +2717,22 @@
       "short": "Digital & global",
       "title": "Digital Transformation & Modern Geopolitics",
       "question": "What does transformation look like in daily life?",
-      "intro": "Digital payments, tax reform and infrastructure have changed how citizens and businesses interact with the state and the economy. These years also brought the pandemic, constitutional changes in Jammu and Kashmir, and prominent space and diplomatic milestones.",
-      "tension": "The present is unfinished history. A programme’s launch is evidence of policy intent. Its effect on jobs, public welfare or the environment needs separate evidence over time. Selected dated coverage here reaches January 2026.",
+      "intro": "The 2014 election brought a single-party majority within the NDA government. Banking access, sanitation, digital services and tax reform became major priorities. Constitutional disputes, border crises and the pandemic tested institutions. Space missions and diplomacy brought prominent milestones, while the 2024 result increased the importance of coalition partners.",
+      "tension": "These years remain unfinished history. A launch, a law, an election result and a measured public outcome describe different things. The chapter tracks selected milestones through January 2026, with dates and source records kept separate from claims about lasting success.",
       "events": [
+        [
+          "May 2014",
+          "2014-05-26",
+          "election-government2014",
+          "The BJP wins a majority and Modi takes office",
+          "Democracy",
+          "The BJP won 282 Lok Sabha seats in the 2014 election. Narendra Modi took office as prime minister on 26 May, heading an NDA government.",
+          "A single party held a Lok Sabha majority for the first time since the 1984 election. Allies remained part of the government. The result changed the parliamentary balance after decades dominated by coalition and minority governments.",
+          [
+            "election2014-record",
+            "modi-oath2014"
+          ]
+        ],
         [
           "2014",
           "2014-08-28",
@@ -2662,6 +2755,42 @@
           "It belongs at the start of this period, rather than being described as a new 2024 initiative. Programme goals and measured manufacturing outcomes are different claims.",
           [
             "manufacturing"
+          ]
+        ],
+        [
+          "October 2014",
+          "2014-10-02",
+          "swachh-bharat",
+          "Sanitation becomes a national mission",
+          "Society",
+          "Swachh Bharat Mission launched on 2 October 2014, with rural and urban components addressing sanitation and cleanliness.",
+          "Toilet construction, sustained use, water availability and safe waste management are different parts of sanitation. Programme declarations and administrative coverage figures require separate scrutiny of conditions experienced by households and workers.",
+          [
+            "swachh-origin"
+          ]
+        ],
+        [
+          "July 2015",
+          "2015-07-01",
+          "digital-india-launch",
+          "Digital India brings services and connectivity into one programme",
+          "Science",
+          "Digital India launched on 1 July 2015 to advance digital infrastructure, public services and digital empowerment.",
+          "The programme built on earlier computerisation, telecom networks and online services. Providing a digital service also required connectivity, accessible design, reliable authentication and ways to resolve failures. Digitising a process did not guarantee access for everyone.",
+          [
+            "digital-india-origin"
+          ]
+        ],
+        [
+          "2016–2017",
+          "2016-03-25",
+          "real-estate-regulation",
+          "Real-estate regulation adds protections for homebuyers",
+          "Economy",
+          "The Real Estate (Regulation and Development) Act was enacted on 25 March 2016. Its framework provided for project registration, disclosures, regulatory authorities and adjudication, with provisions brought into force in stages.",
+          "The law’s coverage and exemptions mattered to individual projects. Enactment, state-level rules, functioning authorities and remedies for delayed projects were separate steps. Regulation did not eliminate every risk faced by a buyer.",
+          [
+            "rera2016"
           ]
         ],
         [
@@ -2764,6 +2893,18 @@
           ]
         ],
         [
+          "February 2019",
+          "2019-02-14",
+          "pulwama-balakot",
+          "Pulwama is followed by the Balakot air strike",
+          "Conflict",
+          "The Pulwama terrorist attack killed 40 CRPF personnel on 14 February 2019. India carried out an air strike at Balakot in Pakistan on 26 February, describing its target as a Jaish-e-Mohammed training camp.",
+          "The attack and military response intensified India–Pakistan tensions. Official statements establish the positions taken by the governments. Claims about strike casualties and the wider military outcome require independent evidence beyond those statements.",
+          [
+            "balakot-statement"
+          ]
+        ],
+        [
           "2019",
           "2019-08-05",
           "article-370",
@@ -2773,6 +2914,20 @@
           "The August constitutional change and October administrative reorganisation were distinct steps. Their effects on rights, representation and security require attention beyond the legal announcements.",
           [
             "jk"
+          ]
+        ],
+        [
+          "2019–2024",
+          "2019-12-12",
+          "citizenship-amendment",
+          "Citizenship rules change for specified migrant groups",
+          "Democracy",
+          "The Citizenship (Amendment) Act received assent on 12 December 2019. It created a citizenship route for eligible Hindu, Sikh, Buddhist, Jain, Parsi and Christian migrants from Afghanistan, Bangladesh and Pakistan who entered India on or before 31 December 2014, subject to its conditions.",
+          "The religion-based eligibility generated disputes over equality and citizenship policy. The amendment did not itself remove the citizenship of existing Indian citizens. Implementation rules were notified on 11 March 2024, a separate step from enactment.",
+          [
+            "jk",
+            "caa-parliament",
+            "caa-rules2024"
           ]
         ],
         [
@@ -2798,6 +2953,18 @@
           "Incentive commitments are not the same as realised investment, employment or domestic value addition. Those outcomes need sector-specific assessment. Energy transition also remains an ongoing policy area.",
           [
             "pli"
+          ]
+        ],
+        [
+          "June 2020",
+          "2020-06-15",
+          "galwan-clash",
+          "The Galwan clash deepens the border crisis with China",
+          "Conflict",
+          "Indian and Chinese troops clashed in the Galwan Valley on 15 June 2020 during the eastern Ladakh border standoff. Twenty Indian military personnel died.",
+          "The clash damaged trust and placed the border dispute at the centre of bilateral relations. A particular disengagement agreement and a final settlement of the boundary are different outcomes. Claims about who controlled specific locations require dated evidence.",
+          [
+            "galwan-record"
           ]
         ],
         [
@@ -2827,6 +2994,18 @@
           ]
         ],
         [
+          "November 2021",
+          "2021-11-01",
+          "climate-commitments2021",
+          "India announces a 2070 net-zero target",
+          "Environment",
+          "At COP26 on 1 November 2021, India announced a target of net-zero emissions by 2070 alongside commitments concerning non-fossil capacity and other measures for 2030.",
+          "A target is a commitment about the future. Installed electricity capacity, electricity generated, total energy use and economy-wide emissions measure different things. Progress in one does not establish that every climate objective has been achieved.",
+          [
+            "cop26-statement"
+          ]
+        ],
+        [
           "January 2023",
           "2023-01-04",
           "green-hydrogen",
@@ -2836,6 +3015,19 @@
           "It is one part of a wider energy transition. Announced targets describe intended outcomes, rather than hydrogen already produced or emissions already avoided.",
           [
             "hydrogen"
+          ]
+        ],
+        [
+          "2023–2025",
+          "2023-08-11",
+          "data-protection-law",
+          "Digital personal data gets a dedicated statutory framework",
+          "Democracy",
+          "The Digital Personal Data Protection Act received assent on 11 August 2023. It set out a framework for processing digital personal data, with obligations for those handling it and rights and duties for individuals.",
+          "Enactment did not bring every provision into force immediately. Rules notified in November 2025 used phased commencement, including later dates for several requirements. The 2017 constitutional privacy judgment and this statutory framework address related but distinct questions.",
+          [
+            "dpdp-act2023",
+            "dpdp-rules2025"
           ]
         ],
         [
@@ -2863,6 +3055,43 @@
           ]
         ],
         [
+          "September 2023",
+          "2023-09-28",
+          "women-reservation2023",
+          "A constitutional amendment provides for women’s legislative reservation",
+          "Democracy",
+          "The 106th Constitutional Amendment received assent on 28 September 2023. It provided for one-third reservation for women in Lok Sabha, state legislative assemblies and the Delhi assembly.",
+          "The reservation was tied to a delimitation exercise after publication of relevant figures from the first census taken after commencement. The amendment did not immediately reserve one-third of seats in the 2024 election. Local-government reservations had a separate, earlier constitutional history.",
+          [
+            "women-reservation-text"
+          ]
+        ],
+        [
+          "January 2024",
+          "2024-01-22",
+          "ram-temple2024",
+          "The Ram temple consecration takes place in Ayodhya",
+          "Culture",
+          "The consecration ceremony at the Ram temple in Ayodhya took place on 22 January 2024, with Prime Minister Narendra Modi participating.",
+          "The ceremony followed the Supreme Court’s November 2019 decision on the land dispute. The 1992 demolition, the court’s judgment and the temple ceremony were distinct events within a longer political, religious and legal history.",
+          [
+            "ram-temple-ceremony",
+            "coalition"
+          ]
+        ],
+        [
+          "February 2024",
+          "2024-02-15",
+          "electoral-bonds-judgment",
+          "The Supreme Court strikes down electoral bonds",
+          "Democracy",
+          "On 15 February 2024, the Supreme Court held the Electoral Bond Scheme unconstitutional. The decision addressed political-funding transparency and voters’ access to information.",
+          "The judgment and the subsequent disclosure of donation records were separate steps. A donor–recipient entry establishes a recorded financial connection. It does not, without further evidence, prove a corrupt exchange or explain a particular government decision.",
+          [
+            "electoral-bonds-record"
+          ]
+        ],
+        [
           "2024",
           "2024-06-04",
           "election-2024",
@@ -2876,6 +3105,31 @@
           ]
         ],
         [
+          "July 2024",
+          "2024-07-01",
+          "criminal-codes2024",
+          "Three new laws begin a transition in criminal justice",
+          "Democracy",
+          "Most provisions of the Bharatiya Nyaya Sanhita, Bharatiya Nagarik Suraksha Sanhita and Bharatiya Sakshya Adhiniyam came into force on 1 July 2024. They replaced the IPC, CrPC and Indian Evidence Act frameworks, subject to transitional provisions.",
+          "The changes concerned offences, procedure and evidence. Earlier events and pending proceedings required attention to the applicable law and savings provisions. New statutory text also required training, systems and consistent practice across police, courts and forensic services.",
+          [
+            "criminal-laws2024"
+          ]
+        ],
+        [
+          "September–October 2024",
+          "2024-09-18",
+          "jk-assembly2024",
+          "Assembly elections return in Jammu and Kashmir",
+          "Democracy",
+          "Jammu and Kashmir held assembly polling in three phases from 18 September to 1 October 2024. Omar Abdullah took oath as chief minister on 16 October.",
+          "These were the first assembly elections after the 2019 reorganisation. Restoring an elected assembly and restoring statehood were separate questions. The election took place under the Union Territory framework.",
+          [
+            "jk-polling2024",
+            "jk-government2024"
+          ]
+        ],
+        [
           "January 2025",
           "2025-01-16",
           "spadex",
@@ -2885,6 +3139,19 @@
           "The experiment demonstrated a capability relevant to future missions requiring spacecraft to meet and connect in orbit. It did not itself constitute an operational Indian space station.",
           [
             "dock"
+          ]
+        ],
+        [
+          "April–May 2025",
+          "2025-04-22",
+          "pahalgam-sindoor2025",
+          "Pahalgam is followed by Operation Sindoor and cross-border fighting",
+          "Conflict",
+          "The terrorist attack at Pahalgam on 22 April 2025 killed 26 people. India launched Operation Sindoor on 7 May, stating that it targeted terrorist infrastructure in Pakistan and Pakistan-administered Kashmir. Military exchanges followed.",
+          "On 10 May, both sides agreed to halt firing and military action. The attack, strikes and agreement were separate stages. Official briefings record each side’s account; claims about battle damage, casualties and responsibility need evidence beyond a single government’s narrative.",
+          [
+            "sindoor-briefing",
+            "may2025-halt"
           ]
         ],
         [
@@ -2911,6 +3178,11 @@
             "polio2026"
           ]
         ]
+      ],
+      "overview": [
+        "Begin with the 2014 political change and the programmes that followed. Jan Dhan, Swachh Bharat and Digital India addressed banking, sanitation and services. UPI and GST changed transactions through different institutions. Housing regulation and insolvency reform added legal frameworks whose effects depended on implementation.",
+        "The middle years brought disputes over privacy, citizenship and Jammu and Kashmir’s status. Pulwama, Balakot and Galwan exposed security pressures on different borders. The pandemic then disrupted work, migration and health care. Vaccination and economic support unfolded alongside severe losses and uneven access.",
+        "The later milestones connect climate commitments, data protection and women’s representation with new criminal laws and electoral accountability. The 2024 election and Jammu and Kashmir’s assembly polls changed the political picture. Pahalgam and the May 2025 India–Pakistan conflict brought another security crisis. Space and public-health achievements continued across this period."
       ]
     }
   ],
@@ -3380,6 +3652,60 @@
     "telangana-statehood": [
       "three-new-states",
       "states"
+    ],
+    "election-government2014": [
+      "upa-government2004",
+      "election-2024"
+    ],
+    "swachh-bharat": [
+      "rural-health-mission"
+    ],
+    "digital-india-launch": [
+      "public-internet",
+      "direct-benefit-transfer",
+      "upi"
+    ],
+    "real-estate-regulation": [
+      "insolvency-code"
+    ],
+    "pulwama-balakot": [
+      "parliament-attack2001",
+      "pahalgam-sindoor2025"
+    ],
+    "citizenship-amendment": [
+      "assam-accord"
+    ],
+    "galwan-clash": [
+      "china-war"
+    ],
+    "climate-commitments2021": [
+      "green-hydrogen"
+    ],
+    "data-protection-law": [
+      "privacy-judgment",
+      "information-technology-act"
+    ],
+    "women-reservation2023": [
+      "local-government",
+      "voting-at-eighteen"
+    ],
+    "ram-temple2024": [
+      "ayodhya",
+      "rath-yatra1990"
+    ],
+    "electoral-bonds-judgment": [
+      "rti",
+      "anti-corruption"
+    ],
+    "criminal-codes2024": [
+      "delhi-assault-law-reform"
+    ],
+    "jk-assembly2024": [
+      "article-370"
+    ],
+    "pahalgam-sindoor2025": [
+      "pulwama-balakot",
+      "kargil"
     ]
   }
 }
