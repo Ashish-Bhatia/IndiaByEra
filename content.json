@@ -614,6 +614,46 @@
     "basicstructure-record": [
       "Indian judiciary · Basic structure judgment introduction",
       "https://judgments.ecourts.gov.in/KBJ/?p=home%2Fintro"
+    ],
+    "fortyfourth-text": [
+      "Legislative Department · 44th Constitutional Amendment, assent dated 30 April 1979",
+      "https://www.legislative.gov.in/static/uploads/2025/07/376b37bf0ae18f1d9276ce226d0e67a1.pdf"
+    ],
+    "slv3-origin": [
+      "ISRO · SLV-3 and the July 1980 Rohini launch",
+      "https://www.isro.gov.in/SLV.html"
+    ],
+    "education-policy-history": [
+      "Ministry of Education · 1986 policy and 1992 modification",
+      "https://www.education.gov.in/new-education-policy"
+    ],
+    "blackboard-record": [
+      "Rajya Sabha · Operation Blackboard launch and school facilities",
+      "https://rsdebate.nic.in/bitstream/123456789/91357/1/PQ_195_17052002_S743_p20_p27.pdf"
+    ],
+    "indo-lanka-text": [
+      "MEA · Indo-Lanka Accord, 29 July 1987",
+      "https://www.mea.gov.in/Portal/LegalTreatiesDoc/LK87B1078.pdf"
+    ],
+    "ipkf-record": [
+      "MEA · Indian War Memorial record, including IPKF deployment",
+      "https://www.mea.gov.in/Uploads/PublicationDocs/23460_IWM_Book__11-06-2014_.pdf"
+    ],
+    "kashmir-migration-record": [
+      "MHA · Annual Report 2004–05, targeted attacks and displacement",
+      "https://www.mha.gov.in/sites/default/files/AnnualReport_04_05.pdf"
+    ],
+    "rath-yatra-record": [
+      "Liberhan Commission · Chapter VI, Ayodhya mobilisation, official archive",
+      "https://www.mha.gov.in/sites/default/files/2022-09/LAC-Chap-VI%5B1%5D.pdf"
+    ],
+    "chandra-tenure": [
+      "PMO · Chandra Shekhar’s tenure",
+      "https://www.pmindia.gov.in/en/former_pm/shri-chandra-shekhar/"
+    ],
+    "rajiv-death-record": [
+      "PIB · Parliamentary memorial record of Rajiv Gandhi’s death date",
+      "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=3363"
     ]
   },
   "eras": [
@@ -1367,8 +1407,8 @@
       "short": "Democracy tested",
       "title": "Political Turmoil & the Coalition Turn",
       "question": "How resilient are democratic institutions?",
-      "intro": "The Emergency placed extraordinary power in the executive. Its end brought an electoral transfer of power, but the following years also saw political violence, regional conflict and new demands for representation. Telecom research advanced as national politics became more fragmented.",
-      "tension": "National politics was changing alongside regional demands and struggles over caste representation. Electoral competition did not remove the need to protect civil liberties, minority rights and access to justice.",
+      "intro": "The Emergency restricted political freedom. Voters removed the government in 1977, but the alternative soon fractured. The following decade combined new technology and education programmes with regional conflict, targeted violence and a struggle over representation. By 1991, national power depended increasingly on alliances and outside support.",
+      "tension": "Elections restored competition after the Emergency. They did not settle questions about executive power, minority security or social representation. The contrast between negotiated peace in Mizoram and escalating violence elsewhere shows why each regional conflict needs its own history.",
       "events": [
         [
           "1975–1977",
@@ -1408,15 +1448,65 @@
           ]
         ],
         [
-          "1978",
-          "1978-12-01",
+          "1977–1978",
+          "1977-05-01",
+          "shah-commission",
+          "An inquiry examines Emergency abuses",
+          "Democracy",
+          "The Janata government appointed the Shah Commission in 1977 to investigate abuses committed during the Emergency.",
+          "Its inquiry examined the use of administrative and police power. Documenting abuses and securing accountability were separate tasks.",
+          [
+            "emergency"
+          ]
+        ],
+        [
+          "1978–1979",
+          "1979-04-30",
           "forty-fourth",
           "Constitutional safeguards after the Emergency",
           "Democracy",
-          "The 44th Amendment introduced safeguards against another internal Emergency, including replacing internal disturbance with armed rebellion as a constitutional ground.",
-          "It also protected enforcement of the rights under Articles 20 and 21 from suspension through Article 359. Legal safeguards were one response to the experience of 1975–1977.",
+          "The Constitution (Forty-fourth Amendment) Act, 1978 received assent on 30 April 1979. It replaced internal disturbance with armed rebellion as a ground for an internal Emergency and required written Cabinet advice.",
+          "It protected enforcement of Articles 20 and 21 from suspension through Article 359 and strengthened parliamentary checks on emergency powers. Different provisions commenced on different dates. The Act’s 1978 title is not its assent date.",
           [
-            "emergency"
+            "fortyfourth-text"
+          ]
+        ],
+        [
+          "1979",
+          "1979-07-28",
+          "janata-collapse",
+          "Janata fractures and Charan Singh takes office",
+          "Democracy",
+          "The Janata government lost its majority. Charan Singh became prime minister on 28 July 1979, initially relying on Congress support.",
+          "That support was withdrawn. His short premiership and caretaker period led into the January 1980 election.",
+          [
+            "emergency",
+            "shastri-tenure"
+          ]
+        ],
+        [
+          "January 1980",
+          "1980-01-01",
+          "congress-return1980",
+          "Congress returns to national power",
+          "Democracy",
+          "Indira Gandhi’s Congress won the January 1980 general election, returning her to the prime minister’s office.",
+          "The result followed the fragmentation of Janata. The electoral rejection of the Emergency in 1977 had not created a durable governing alternative.",
+          [
+            "emergency",
+            "elections"
+          ]
+        ],
+        [
+          "July 1980",
+          "1980-07-18",
+          "rohini-slv3",
+          "An Indian launch vehicle places Rohini in orbit",
+          "Science",
+          "On 18 July 1980, SLV-3 launched the Rohini RS-1 satellite from Sriharikota. It marked India’s first successful satellite launch using its own launch vehicle.",
+          "India had already built satellites launched on foreign rockets. The new capability concerned the launch vehicle as well as the satellite, and followed the first experimental SLV-3 flight in 1979.",
+          [
+            "slv3-origin"
           ]
         ],
         [
@@ -1517,6 +1607,19 @@
           ]
         ],
         [
+          "1986–1988",
+          "1986-05-01",
+          "education1986-programmes",
+          "Education policy moves towards school improvements",
+          "Society",
+          "The 1986 National Policy on Education set out a new national framework. Operation Blackboard followed in 1987–1988 to improve facilities in primary schools.",
+          "The scheme provided for classrooms, teachers and teaching materials. A policy commitment, a funded scheme and conditions inside a classroom are different measures of progress. The policy was modified in 1992.",
+          [
+            "education-policy-history",
+            "blackboard-record"
+          ]
+        ],
+        [
           "1986",
           "1986-05-23",
           "environment-protection",
@@ -1538,6 +1641,19 @@
           "The settlement offered a constitutional and political route out of armed conflict. It should be studied on its own terms, alongside other regional agreements. Different movements had different demands, histories and outcomes.",
           [
             "mizo-accord"
+          ]
+        ],
+        [
+          "July 1987",
+          "1987-07-29",
+          "indo-lanka-accord",
+          "The Indo-Lanka Accord and military intervention",
+          "Conflict",
+          "Rajiv Gandhi and President J. R. Jayewardene signed the Indo-Lanka Accord on 29 July 1987. India deployed the Indian Peace Keeping Force in Sri Lanka.",
+          "The deployment developed into armed conflict with the LTTE. Indian forces withdrew in 1990. The agreement’s diplomatic aims and the military operation’s course need to be assessed separately.",
+          [
+            "indo-lanka-text",
+            "ipkf-record"
           ]
         ],
         [
@@ -1577,6 +1693,19 @@
           ]
         ],
         [
+          "1989–1990",
+          "1989-12-01",
+          "kashmir-displacement",
+          "Insurgency and forced displacement in Kashmir",
+          "Conflict",
+          "As militancy escalated, targeted attacks and threats drove large numbers of Kashmiri Pandits from the Valley in 1990 and afterwards. Other communities also experienced displacement.",
+          "The loss of homes and security became a lasting crisis. The wider conflict involved insurgent violence and state security operations. Later administrative counts of registered migrant families do not measure a single day’s departures.",
+          [
+            "kashmir-migration-record",
+            "regional"
+          ]
+        ],
+        [
           "1989",
           "1989-12-02",
           "national-front",
@@ -1600,7 +1729,51 @@
           [
             "coalition"
           ]
+        ],
+        [
+          "September–October 1990",
+          "1990-09-25",
+          "rath-yatra1990",
+          "The Ayodhya movement becomes a national mobilisation",
+          "Democracy",
+          "BJP leader L. K. Advani began a Rath Yatra from Somnath on 25 September 1990 in support of the Ram temple movement at Ayodhya.",
+          "The mobilisation brought religious identity into national political competition alongside the debate over Mandal. This phase preceded the demolition of the Babri Masjid in December 1992, covered in the next era.",
+          [
+            "rath-yatra-record",
+            "coalition"
+          ]
+        ],
+        [
+          "November 1990",
+          "1990-11-10",
+          "chandra-shekhar-government",
+          "Another short premiership before the 1991 election",
+          "Democracy",
+          "Chandra Shekhar became prime minister on 10 November 1990, succeeding V. P. Singh. His tenure continued until 21 June 1991.",
+          "The quick change of leadership forms part of the transition from single-party dominance to governments dependent on negotiated parliamentary backing.",
+          [
+            "chandra-tenure",
+            "coalition"
+          ]
+        ],
+        [
+          "May 1991",
+          "1991-05-21",
+          "rajiv-assassination",
+          "Rajiv Gandhi is assassinated during the election campaign",
+          "Conflict",
+          "Former prime minister Rajiv Gandhi was assassinated on 21 May 1991 while campaigning in Tamil Nadu. The attack was linked to the LTTE.",
+          "His death changed Congress leadership during the election. Congress subsequently emerged as the largest party, and P. V. Narasimha Rao became prime minister. The next era follows the economic decisions of that government.",
+          [
+            "rajiv-death-record",
+            "coalition"
+          ]
         ]
+      ],
+      "overview": [
+        "Read this chapter in three stages. First comes the Emergency and the attempt to repair constitutional safeguards. The 1977 result showed voters removing a government after restrictions on political freedom. Janata’s collapse and Congress’s return in 1980 then exposed the difficulties of governing together.",
+        "The 1980s brought advances in satellite launches, telecom research and education policy. They also brought the Punjab crisis, anti-Sikh killings and the Bhopal disaster. Agreements in Assam and Mizoram followed different conflicts and produced different outcomes. The Sri Lanka intervention extended India’s security commitments beyond its borders.",
+        "The closing years connect the 1989 election, Mandal, the Ayodhya mobilisation and the displacement of Kashmiri Pandits. These were distinct developments with overlapping political consequences. The chapter ends with Rajiv Gandhi’s assassination during the 1991 election campaign. The next chapter takes up the economic crisis and reforms."
       ]
     },
     {
@@ -2653,6 +2826,44 @@
     ],
     "allahabad-election-ruling": [
       "basic-structure"
+    ],
+    "shah-commission": [
+      "emergency",
+      "forty-fourth"
+    ],
+    "janata-collapse": [
+      "janata",
+      "congress-return1980"
+    ],
+    "congress-return1980": [
+      "janata-collapse",
+      "national-front"
+    ],
+    "rohini-slv3": [
+      "aryabhata",
+      "cdot"
+    ],
+    "education1986-programmes": [
+      "education-policies",
+      "right-to-education"
+    ],
+    "indo-lanka-accord": [
+      "rajiv-assassination"
+    ],
+    "kashmir-displacement": [
+      "first-kashmir-war"
+    ],
+    "rath-yatra1990": [
+      "mandal",
+      "national-front"
+    ],
+    "chandra-shekhar-government": [
+      "national-front",
+      "rajiv-assassination"
+    ],
+    "rajiv-assassination": [
+      "indo-lanka-accord",
+      "liberalisation"
     ]
   }
 }
