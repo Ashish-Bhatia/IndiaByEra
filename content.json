@@ -1338,6 +1338,22 @@
     "agnipath-original2022": [
       "Defence Ministry via PIB · Original Agnipath recruitment design",
       "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1833747&lang=2&reg=48"
+    ],
+    "national-museum-origin": [
+      "National Museum · History",
+      "https://nationalmuseumindia.gov.in/en/history"
+    ],
+    "sangeet-natak-origin": [
+      "Sangeet Natak Akademi · Institutional history",
+      "https://www.sangeetnatak.gov.in/sections/drama"
+    ],
+    "sahitya-akademi-origin": [
+      "Sahitya Akademi · About the Akademi",
+      "https://sahitya-akademi.gov.in/aboutus/about.jsp"
+    ],
+    "ongc-commission-origin": [
+      "ONGC · Our growth story",
+      "https://ongcindia.com/ar/web/eng/about-ongc/our-growth-story"
     ]
   },
   "eras": [
@@ -1435,6 +1451,18 @@
           [
             "factories-law1948",
             "factory-work-protection"
+          ]
+        ],
+        [
+          "15 August 1949",
+          "1949-08-15",
+          "national-museum1949",
+          "A national museum opens before its permanent home",
+          "Culture",
+          "The National Museum was inaugurated at Rashtrapati Bhavan on 15 August 1949 by Governor-General C. Rajagopalachari. Its permanent building at Janpath was inaugurated on 18 December 1960.",
+          "The museum brought collections into a national public institution. Its opening and the move to a purpose-built home were separate milestones. Preserving objects, interpreting their histories and making collections accessible were continuing tasks rather than achievements completed on inauguration day.",
+          [
+            "national-museum-origin"
           ]
         ],
         [
@@ -1575,6 +1603,18 @@
           ]
         ],
         [
+          "28 January 1953",
+          "1953-01-28",
+          "sangeet-natak1953",
+          "Music, dance and drama gain a national academy",
+          "Culture",
+          "President Rajendra Prasad inaugurated the Sangeet Natak Akademi on 28 January 1953 at Parliament House. It was established as a national institution for music, dance and drama.",
+          "Cultural institutions formed another part of nation-building alongside industry and universities. An academy offered an institutional setting for support and recognition. Its creation did not mark the beginning of the performing traditions themselves or establish equal support for every artist.",
+          [
+            "sangeet-natak-origin"
+          ]
+        ],
+        [
           "1953",
           "1953-10-01",
           "andhra-state",
@@ -1596,6 +1636,18 @@
           "The institution’s beginnings and its statutory status were separate steps. Grants, standards, institutional autonomy and access to higher education raised different questions. The UGC’s creation complemented specialist institutions such as the IITs rather than marking the start of university education in India.",
           [
             "ugc-genesis"
+          ]
+        ],
+        [
+          "12 March 1954",
+          "1954-03-12",
+          "sahitya-akademi1954",
+          "A national literary institution works across languages",
+          "Culture",
+          "The Sahitya Akademi was formally inaugurated on 12 March 1954 after a government resolution in December 1952. It was registered as a society on 7 January 1956 and functions as an autonomous organisation.",
+          "The new institution sought to support literature and exchange across Indian languages. The founding resolution, inauguration and society registration were distinct steps. Its multilingual remit adds another dimension to the language debates seen in state boundaries and government business.",
+          [
+            "sahitya-akademi-origin"
           ]
         ],
         [
@@ -1718,6 +1770,18 @@
           [
             "succession1956",
             "succession2005"
+          ]
+        ],
+        [
+          "14 August 1956",
+          "1956-08-14",
+          "ongc-commission1956",
+          "Oil exploration gains a dedicated public commission",
+          "Economy",
+          "The Oil and Natural Gas Directorate was converted into the Oil and Natural Gas Commission on 14 August 1956. This followed the creation of an oil and gas division within the Geological Survey of India in 1955.",
+          "The change gave petroleum exploration a stronger public institutional base during the Second Plan period. The commission of 1956 should be distinguished from the later corporate form of ONGC. Creating an exploration organisation did not itself establish oil self-sufficiency.",
+          [
+            "ongc-commission-origin"
           ]
         ],
         [
@@ -1945,7 +2009,7 @@
       ],
       "overview": [
         "Begin with independence and the republic as separate milestones. Partition left urgent questions about territory, citizenship and rebuilding lives. Accession, the Constitution and the 1955 Citizenship Act addressed different parts of the new state. The resulting legal framework also faced early tests over speech, social reform and federal power.",
-        "Follow development through institutions, projects and daily life. The First and Second Plans placed different weights on agriculture and heavy industry. Factory protections addressed working conditions; community development and Bhoodan took different approaches to rural change. SBI, LIC, the UGC and the IITs served distinct purposes. Steel plants and Bhakra show construction becoming operational, while decimal coinage and experimental television changed other parts of everyday infrastructure.",
+        "Follow development through institutions, projects and daily life. The First and Second Plans placed different weights on agriculture and heavy industry. Factory protections addressed working conditions; community development and Bhoodan took different approaches to rural change. SBI, LIC, the UGC and the IITs served distinct purposes. Steel plants and Bhakra show construction becoming operational, while decimal coinage and experimental television changed other parts of everyday infrastructure. Oil exploration gained a dedicated commission, while the National Museum and the academies for performing arts and literature placed cultural work within new national institutions.",
         "Read social reform and regional accommodation alongside national institutions. Civil marriage, Hindu-law reform and laws against untouchability and dowry addressed different inequalities. Family planning entered public-health policy, while Ambedkar’s Buddhist conversion placed dignity and religious choice within the wider social story. Panchayati Raj, state reorganisation, official languages and Nagaland show several ways power and identity were negotiated. Relations with Pakistan and China followed contrasting paths through treaty and war."
       ]
     },
@@ -5453,6 +5517,21 @@
     "nagaland-statehood1963": [
       "integration",
       "mizoram-accord"
+    ],
+    "national-museum1949": [
+      "sangeet-natak1953",
+      "sahitya-akademi1954"
+    ],
+    "sangeet-natak1953": [
+      "sahitya-akademi1954",
+      "television-experiment1959"
+    ],
+    "sahitya-akademi1954": [
+      "states",
+      "official-languages1963"
+    ],
+    "ongc-commission1956": [
+      "public-steel1959"
     ]
   }
 }
