@@ -1042,6 +1042,46 @@
     "nps-origin2004": [
       "PFRDA · Annual report 2014–2015, origins of NPS",
       "https://www.pfrda.org.in/documents/33652/146225/Annual%2BReport%2B2014-2015.pdf"
+    ],
+    "rsby-origin": [
+      "Labour Ministry via PIB · RSBY launch and operational dates",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=106118"
+    ],
+    "rmsa2009": [
+      "Education Ministry · Secondary education programme",
+      "https://www.education.gov.in/rmsa_integrated"
+    ],
+    "nrlm-launch2011": [
+      "Rural Development Ministry via PIB · NRLM launch announcement",
+      "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=72479"
+    ],
+    "nrlm-design2011": [
+      "Rural Development Ministry via PIB · NRLM design",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=72428"
+    ],
+    "pocso2012": [
+      "Women and Child Development Ministry via PIB · POCSO scope and commencement",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=113750"
+    ],
+    "manual-scavenging-law2013": [
+      "India Code · Manual scavenging prohibition and rehabilitation law",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2119?col=123456789%2F1362&view_type=search"
+    ],
+    "manual-scavenging-law-text": [
+      "India Code · Manual scavenging law text",
+      "https://www.indiacode.nic.in/bitstream/123456789/8868/1/a2013-25msact.pdf"
+    ],
+    "lokpal-law2013": [
+      "India Code · Lokpal and Lokayuktas Act, 2013",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2122?view_type=browse"
+    ],
+    "companies-law2013": [
+      "India Code · Companies Act, 2013",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2114?view_type=browse"
+    ],
+    "csr-commencement2014": [
+      "Corporate Affairs Ministry via PIB · CSR commencement",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=116728"
     ]
   },
   "eras": [
@@ -3066,6 +3106,18 @@
           ]
         ],
         [
+          "1 October 2007 / 1 April 2008",
+          "2007-10-01",
+          "rsby-health-insurance",
+          "Health insurance targets poor households in the unorganised sector",
+          "Society",
+          "Rashtriya Swasthya Bima Yojana launched on 1 October 2007 and became operational on 1 April 2008. Its initial design provided smart-card-based cashless health insurance of ₹30,000 per family per year for eligible below-poverty-line families of up to five members in the unorganised sector.",
+          "Insurance coverage was a different intervention from strengthening public clinics and hospitals under the rural health mission. Enrolment, access to participating hospitals and protection from out-of-pocket costs need separate assessment. The initial benefit design should not be read as universal health coverage.",
+          [
+            "rsby-origin"
+          ]
+        ],
+        [
           "May 2008",
           "2008-05-01",
           "farm-debt-relief2008",
@@ -3126,6 +3178,18 @@
           "The attacks prompted security changes, including the establishment of the National Investigation Agency and attention to coastal security. These changes require separate evaluation of their implementation.",
           [
             "nia"
+          ]
+        ],
+        [
+          "March 2009",
+          "2009-03-01",
+          "secondary-education-rmsa",
+          "The school expansion effort reaches secondary education",
+          "Society",
+          "Rashtriya Madhyamik Shiksha Abhiyan launched in March 2009 to improve access, affordability and quality in secondary education, with a focus on young people aged 15–16.",
+          "The programme addressed a stage beyond elementary schooling. It therefore belongs alongside, rather than inside, the right-to-education story. School availability, infrastructure, attendance and learning remained distinct tests of progress.",
+          [
+            "rmsa2009"
           ]
         ],
         [
@@ -3193,6 +3257,19 @@
           ]
         ],
         [
+          "3 June 2011",
+          "2011-06-03",
+          "rural-livelihoods-mission",
+          "A livelihoods mission builds around rural self-help groups",
+          "Economy",
+          "The National Rural Livelihoods Mission launched at Banswara, Rajasthan, on 3 June 2011. It restructured the earlier Swarnajayanti Gram Swarozgar Yojana around grassroots institutions, self-help groups, financial links and livelihood support, with an emphasis on women’s participation.",
+          "The mission’s approach differed from the employment guarantee: it sought to support livelihoods and collective institutions rather than offer the same statutory guarantee of public work. Group formation and credit access were inputs, not by themselves proof of a lasting increase in household income.",
+          [
+            "nrlm-launch2011",
+            "nrlm-design2011"
+          ]
+        ],
+        [
           "February 2012",
           "2012-02-02",
           "spectrum-judgment2012",
@@ -3202,6 +3279,18 @@
           "Cancellation of licences through judicial review and proof of criminal wrongdoing are different legal questions. The judgment belongs alongside the history of telecom expansion, regulation and public accountability.",
           [
             "spectrum-judgment-record"
+          ]
+        ],
+        [
+          "14 November 2012",
+          "2012-11-14",
+          "pocso-child-protection",
+          "A dedicated law addresses sexual offences against children",
+          "Society",
+          "The Protection of Children from Sexual Offences Act came into force on 14 November 2012. It covered persons below 18 and provided for child-friendly reporting, evidence recording, investigation and trial, including designated Special Courts.",
+          "The statute preceded the December 2012 Delhi assault and the subsequent criminal-law changes. Its distinct focus was children’s protection throughout the justice process. Designating courts and providing support to children were practical implementation duties, beyond defining offences.",
+          [
+            "pocso2012"
           ]
         ],
         [
@@ -3254,6 +3343,19 @@
           ]
         ],
         [
+          "29 August 2013 / 1 April 2014",
+          "2013-08-29",
+          "companies-law-csr",
+          "Company-law reform adds a corporate responsibility framework",
+          "Economy",
+          "The Companies Act was enacted on 29 August 2013. Section 135 and the associated corporate social responsibility rules took effect on 1 April 2014. They applied to companies meeting specified financial thresholds and set a spending benchmark of at least 2% of average net profits over the preceding three financial years.",
+          "The CSR provisions did not apply to every business, and the Act’s provisions commenced in stages. Corporate spending obligations, compliance and the social value of funded activities require different forms of assessment. This was one part of a wider company-law reform.",
+          [
+            "companies-law2013",
+            "csr-commencement2014"
+          ]
+        ],
+        [
           "July–September 2013",
           "2013-09-10",
           "national-food-security",
@@ -3292,6 +3394,31 @@
           ]
         ],
         [
+          "6 December 2013",
+          "2013-12-06",
+          "manual-scavenging-rehabilitation",
+          "A new law links manual-scavenging prohibition with rehabilitation",
+          "Society",
+          "The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013 came into force on 6 December. It addressed insanitary latrines, prohibited employment as manual scavengers and hazardous cleaning of sewers and septic tanks, and provided for identification and rehabilitation.",
+          "The law distinguished manual scavenging from hazardous sewer and septic-tank cleaning while addressing both. Enactment did not establish the end of either practice. Identification, safe working methods and rehabilitation remained central to judging its effect.",
+          [
+            "manual-scavenging-law2013",
+            "manual-scavenging-law-text"
+          ]
+        ],
+        [
+          "1 / 16 January 2014",
+          "2014-01-01",
+          "lokpal-legislation",
+          "The Lokpal law follows years of anti-corruption mobilisation",
+          "Democracy",
+          "The Lokpal and Lokayuktas Act, 2013 was enacted on 1 January 2014 and came into force on 16 January. It provided a statutory framework for a Union Lokpal and for Lokayuktas in the states.",
+          "The law’s title carries 2013, while enactment and commencement fell in 2014. The statute was a milestone in the anti-corruption debate, but passage, appointments and the handling of complaints were separate stages of institution building.",
+          [
+            "lokpal-law2013"
+          ]
+        ],
+        [
           "March–June 2014",
           "2014-03-01",
           "telangana-statehood",
@@ -3318,9 +3445,9 @@
         ]
       ],
       "overview": [
-        "The chapter begins with the change of government in 2004 and the first UPA term’s major programmes. RTI offered access to official records. The employment guarantee offered a legal guarantee of publicly funded work, while the rural health mission sought to strengthen services. Women’s protections and forest rights addressed different forms of exclusion.",
-        "The 2008–2009 financial crisis interrupted the growth story. India responded through monetary easing and fiscal support, while farm debt relief addressed a separate problem in agricultural credit. Congress returned to office in 2009 at the head of the UPA. Aadhaar, school rights and environmental adjudication developed during the second term.",
-        "The closing years brought anti-corruption protests, the spectrum judgment and demands for women’s safety after the Delhi assault. Food-security and land-acquisition legislation expanded statutory protections. Financial pressure returned in 2013. Telangana’s legislation and formation crossed the change of Union government in 2014, as did the Mars mission’s journey from launch to orbit."
+        "The 2004 change of government was followed by several different forms of public action. RTI opened access to official records, the employment guarantee created a statutory claim to public work, and the rural health mission sought stronger services. Health insurance later addressed hospital costs for eligible poor households. Women’s protections and forest rights dealt with other forms of exclusion.",
+        "The financial crisis interrupted the growth story. Monetary easing and fiscal support addressed that shock, while farm debt relief addressed agricultural credit. During the second UPA term, Aadhaar, elementary-school rights, secondary education and a rural livelihoods mission took different approaches to access and opportunity. Environmental adjudication and child-protection law added institutional duties of their own.",
+        "The closing years brought anti-corruption protests, the spectrum judgment and demands for women’s safety after the Delhi assault. Food security, land acquisition, sanitation work and company law received new statutory frameworks. The Lokpal law commenced in January 2014, while financial pressure and disputes over implementation continued. Telangana’s formation and the Mars mission crossed into the next era."
       ]
     },
     {
