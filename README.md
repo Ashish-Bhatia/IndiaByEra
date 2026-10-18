@@ -19,7 +19,7 @@ GitHub Pages serves the repository root from `main`. No custom GitHub Actions wo
 
 ## Editorial scope
 
-The current edition contains 91 selected milestones, with 100 source references, from August 1947 through January 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
+The current edition contains 104 selected milestones, with 119 source references, from August 1947 through January 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
 
 Programme announcements, legal enactment, commencement and measured results are different milestones. Context paragraphs contain editorial interpretation and should be reviewed alongside the linked records. Institutional records establish many dates and decisions but do not independently settle every assessment of outcomes.
 

@@ -402,6 +402,82 @@
     "nepapproval": [
       "Ministry of Education · Consultation and Cabinet approval",
       "https://www.education.gov.in/nep/consultation-process"
+    ],
+    "succession1956": [
+      "India Code · Hindu Succession Act, 1956",
+      "https://www.indiacode.nic.in/bitstream/123456789/1713/1/AAA1956suc___30.pdf"
+    ],
+    "succession2005": [
+      "Ministry of Law and Justice · Amendment commencement, 9 September 2005",
+      "https://www.pib.gov.in/newsite/erelcontent.aspx?lang=2&reg=48&relid=11899"
+    ],
+    "wildlife1972": [
+      "India Code · Wild Life (Protection) Act, 1972",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1726?col=123456789%2F1362&view_type=search"
+    ],
+    "project-tiger": [
+      "National Tiger Conservation Authority · Programme origins",
+      "https://ntca.gov.in/about-us/"
+    ],
+    "fortysecond": [
+      "Legislative Department · 42nd Constitutional Amendment, 1976",
+      "https://www.legislative.gov.in/static/uploads/2025/07/9f820a53b6e6840a459bde27eb5d24e5.pdf"
+    ],
+    "antidefection": [
+      "Goa Legislative Assembly archive · 52nd Amendment and original Tenth Schedule",
+      "https://www.goavidhansabha.gov.in/uploads/downloads/8_file_Rules1986.pdf"
+    ],
+    "environment1986": [
+      "India Code · Environment (Protection) Act, 1986",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1876?col=123456789%2F1362&view_type=search"
+    ],
+    "bommai": [
+      "Supreme Court · S. R. Bommai judgment, 11 March 1994",
+      "https://api.sci.gov.in/jonew/judis/11570.pdf"
+    ],
+    "newstates2000": [
+      "MHA · Annual Report 2003–04, state reorganisation",
+      "https://www.mha.gov.in/sites/default/files/ar0304-Eng_4.pdf"
+    ],
+    "chhattisgarh-date": [
+      "Chhattisgarh Legislative Assembly · State formation date",
+      "https://cgvidhansabha.gov.in/FrameSet/faq3.html"
+    ],
+    "uttarakhand-date": [
+      "Government of Uttarakhand · State profile",
+      "https://cm.uk.gov.in/geography/"
+    ],
+    "jharkhand-date": [
+      "Government of Jharkhand · State formation",
+      "https://www.jharkhand.gov.in/home/AboutState"
+    ],
+    "forest-rights": [
+      "Ministry of Tribal Affairs · Forest Rights Act",
+      "https://tribal.gov.in/about/divisions/fra"
+    ],
+    "forest-law": [
+      "India Code · Forest Rights Act, 2006",
+      "https://www.indiacode.nic.in/bitstream/123456789/2070/1/200702.pdf"
+    ],
+    "ngt-origin": [
+      "National Green Tribunal · Establishment and remit",
+      "https://www.greentribunal.gov.in/about-us"
+    ],
+    "ngt-law": [
+      "India Code · National Green Tribunal Act, 2010",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/2025?view_type=browse"
+    ],
+    "disability2016": [
+      "India Code · Rights of Persons with Disabilities Act, 2016",
+      "https://www.indiacode.nic.in/handle/123456789/2155?locale=en"
+    ],
+    "disabilityscope": [
+      "DEPwD · Parliament passes the disability-rights legislation",
+      "https://www.pib.gov.in/newsite/printrelease.aspx?lang=2&reg=3&relid=155592"
+    ],
+    "navtej": [
+      "Supreme Court · Navtej judgment, Chandrachud opinion, archived by Supreme Court Observer",
+      "https://www.scobserver.in/wp-content/uploads/2021/10/377IPC_-_Judgement.pdf"
     ]
   },
   "eras": [
@@ -548,6 +624,19 @@
           "A specialist teaching institution and a nationwide system of accessible primary care perform different roles. AIIMS’s establishment should be read alongside later efforts to strengthen rural health services, rather than as a substitute for them.",
           [
             "aiims-origin"
+          ]
+        ],
+        [
+          "1956",
+          "1956-06-17",
+          "hindu-succession",
+          "Inheritance law changes, with inequalities still remaining",
+          "Society",
+          "The Hindu Succession Act, 1956 codified inheritance rules for the people to whom it applied. Daughters were included among Class I heirs, and the Act addressed women’s property rights.",
+          "The 1956 framework did not give daughters the same position as sons in Mitakshara coparcenary property. That distinction matters when reading the 2005 amendment. These were changes within a particular succession-law framework, not a single inheritance code for every Indian.",
+          [
+            "succession1956",
+            "succession2005"
           ]
         ],
         [
@@ -721,6 +810,30 @@
           ]
         ],
         [
+          "1972",
+          "1972-09-09",
+          "wildlife-protection",
+          "A national framework for wildlife protection",
+          "Environment",
+          "The Wild Life (Protection) Act, 1972 created a legal framework covering wildlife protection, regulated hunting and protected areas.",
+          "The legislation and the practical work of protecting habitats are separate parts of conservation. Later amendments changed the framework. This entry describes its 1972 origins rather than treating today’s amended law as identical to the original.",
+          [
+            "wildlife1972"
+          ]
+        ],
+        [
+          "1973",
+          "1973-04-01",
+          "project-tiger",
+          "Project Tiger begins",
+          "Environment",
+          "Project Tiger launched in April 1973 to conserve tigers and their habitats. It became a major national conservation programme.",
+          "A species-focused programme and a broader wildlife law are different instruments. Evaluating results requires evidence on populations, habitat connectivity, management and the experiences of communities living near protected areas. A programme’s launch does not itself establish those outcomes.",
+          [
+            "project-tiger"
+          ]
+        ],
+        [
           "1973",
           "1973-04-24",
           "basic-structure",
@@ -792,6 +905,18 @@
           "Coercive sterilisation and demolitions became enduring symbols of abuse. This internal Emergency must be distinguished from earlier emergencies declared over external threats.",
           [
             "emergency"
+          ]
+        ],
+        [
+          "1976",
+          "1976-12-18",
+          "forty-second-amendment",
+          "The 42nd Amendment reshapes the Constitution",
+          "Democracy",
+          "Enacted during the Emergency, the 42nd Amendment added Socialist and Secular to the Preamble, introduced Fundamental Duties and inserted environmental provisions, alongside wider institutional changes.",
+          "Its changes included attempts to restrict judicial review. The amendment belongs within the history of concentrated executive power as well as social and environmental provisions. Read it alongside the post-Emergency constitutional changes, including the 44th Amendment.",
+          [
+            "fortysecond"
           ]
         ],
         [
@@ -893,6 +1018,18 @@
         ],
         [
           "1985",
+          "1985-02-15",
+          "anti-defection",
+          "The Constitution gains anti-defection provisions",
+          "Democracy",
+          "The 52nd Constitutional Amendment introduced the Tenth Schedule in 1985, providing for disqualification on specified grounds of political defection by legislators.",
+          "The framework sought to address party-switching, but also raised questions about party discipline and legislators’ independence. Its original text and later amendments must be distinguished. A change in party affiliation and a legally determined disqualification are not automatically the same event.",
+          [
+            "antidefection"
+          ]
+        ],
+        [
+          "1985",
           "1985-08-15",
           "assam-accord",
           "The Assam Accord addresses a regional movement",
@@ -902,6 +1039,18 @@
           [
             "assamaccord",
             "assamclauses"
+          ]
+        ],
+        [
+          "1986",
+          "1986-05-23",
+          "environment-protection",
+          "Environmental protection gains an umbrella law",
+          "Environment",
+          "The Environment (Protection) Act was enacted on 23 May 1986. It provided a broad framework for Union government action to protect and improve the environment.",
+          "It followed earlier legislation on specific environmental subjects and the 1984 Bhopal disaster. The chronological connection should not be reduced to a claim that one event alone produced the law. Enforcement, monitoring and remedies require their own assessment.",
+          [
+            "environment1986"
           ]
         ],
         [
@@ -1043,6 +1192,18 @@
           ]
         ],
         [
+          "1994",
+          "1994-03-11",
+          "bommai-judgment",
+          "Judicial review limits the use of President’s Rule",
+          "Democracy",
+          "In S. R. Bommai v. Union of India, decided on 11 March 1994, the Supreme Court held that proclamations under Article 356 were subject to judicial review.",
+          "The judgment became a major reference point for the protection of federalism and state governments. It did not abolish President’s Rule. The legal justification for a proclamation and a political disagreement with a state government are different questions.",
+          [
+            "bommai"
+          ]
+        ],
+        [
           "1995",
           "1995-01-01",
           "wto-membership",
@@ -1114,6 +1275,21 @@
           [
             "reforms",
             "telecom"
+          ]
+        ],
+        [
+          "2000",
+          "2000-11-01",
+          "three-new-states",
+          "Three new states redraw the Union",
+          "Democracy",
+          "Chhattisgarh was formed on 1 November, Uttaranchal on 9 November and Jharkhand on 15 November 2000. They were carved out of Madhya Pradesh, Uttar Pradesh and Bihar respectively. Uttaranchal was later renamed Uttarakhand.",
+          "State reorganisation continued long after the linguistic changes of 1956. These movements also raised questions of regional identity, representation and development. Creating a state and improving public outcomes within it are separate historical questions.",
+          [
+            "newstates2000",
+            "chhattisgarh-date",
+            "uttarakhand-date",
+            "jharkhand-date"
           ]
         ],
         [
@@ -1204,6 +1380,19 @@
         ],
         [
           "2005",
+          "2005-09-09",
+          "daughters-coparcenary",
+          "Daughters gain equal coparcenary rights",
+          "Society",
+          "The Hindu Succession (Amendment) Act came into force on 9 September 2005. Under the amended Section 6, daughters of coparceners became coparceners by birth with the same rights and liabilities as sons in the relevant Mitakshara joint-family property.",
+          "The reform should not be described as the first time daughters could inherit under the 1956 Act. Its specific significance lay in changing coparcenary rights. Individual disputes also depended on the legislation’s terms and later judicial interpretation.",
+          [
+            "succession2005",
+            "succession1956"
+          ]
+        ],
+        [
+          "2005",
           "2005-12-23",
           "disaster-management-law",
           "Disaster management gains a national legal framework",
@@ -1212,6 +1401,19 @@
           "The Act’s enactment and the later operational development of institutions were different steps. This entry describes the 2005 framework, not every later amendment. Disaster governance also includes prevention, preparedness and recovery, beyond emergency relief alone.",
           [
             "disaster-law"
+          ]
+        ],
+        [
+          "2006",
+          "2006-12-29",
+          "forest-rights-act",
+          "Forest dwellers’ rights receive statutory recognition",
+          "Society",
+          "The Forest Rights Act, 2006 provided for recognition of rights of forest-dwelling Scheduled Tribes and other traditional forest dwellers whose rights had not been adequately recorded.",
+          "The framework included individual and community rights and processes for recognising them. Conservation policy and the rights of forest communities therefore need to be read together. Enacting the law and recognising a particular claim were different steps.",
+          [
+            "forest-rights",
+            "forest-law"
           ]
         ],
         [
@@ -1277,6 +1479,19 @@
           [
             "aadhaar",
             "aadhaarorigin"
+          ]
+        ],
+        [
+          "2010",
+          "2010-10-18",
+          "national-green-tribunal",
+          "A specialised tribunal for environmental disputes",
+          "Environment",
+          "The National Green Tribunal was established on 18 October 2010 under its 2010 Act to hear specified environmental cases and claims for relief and compensation.",
+          "The Tribunal’s establishment followed earlier environmental laws and debates over access to justice. It was not given unlimited jurisdiction over every environmental question. The creation of a forum, the orders it issues and compliance with those orders are distinct measures.",
+          [
+            "ngt-origin",
+            "ngt-law"
           ]
         ],
         [
@@ -1415,6 +1630,19 @@
           ]
         ],
         [
+          "2016",
+          "2016-12-27",
+          "disability-rights",
+          "Disability law broadens its rights framework",
+          "Society",
+          "The Rights of Persons with Disabilities Act, 2016 replaced the earlier 1995 legislation and expanded the recognised disability categories from seven to twenty-one. It addressed rights and duties across areas including education, employment and accessibility.",
+          "The legislation represented a broader framework, rather than proof that physical, digital and social barriers had disappeared. Some provisions distinguish persons with disabilities from persons with benchmark disabilities. The categories should not be treated as interchangeable.",
+          [
+            "disability2016",
+            "disabilityscope"
+          ]
+        ],
+        [
           "2017",
           "2017-07-01",
           "gst",
@@ -1437,6 +1665,18 @@
           "The decision gave constitutional weight to questions about personal information, dignity and state power. It should be distinguished from the separate Aadhaar judgment in 2018 and from later legislation on data protection.",
           [
             "privacy"
+          ]
+        ],
+        [
+          "2018",
+          "2018-09-06",
+          "navtej-judgment",
+          "The Supreme Court reads down Section 377",
+          "Democracy",
+          "On 6 September 2018, the Supreme Court in Navtej Singh Johar v. Union of India held Section 377 unconstitutional insofar as it criminalised consensual sexual conduct between adults of the same sex.",
+          "The decision addressed criminalisation and constitutional protections of dignity, liberty and equality. It should not be described as a judgment that established same-sex marriage. Legal reform and the lived experience of discrimination remain distinct subjects.",
+          [
+            "navtej"
           ]
         ],
         [
@@ -1519,7 +1759,7 @@
           "2023-01-04",
           "green-hydrogen",
           "A mission for green hydrogen",
-          "Economy",
+          "Environment",
           "The National Green Hydrogen Mission set out a framework for developing production, demand and infrastructure for green hydrogen.",
           "It is one part of a wider energy transition. Announced targets describe intended outcomes, rather than hydrogen already produced or emissions already avoided.",
           [
@@ -1694,7 +1934,8 @@
     ],
     "privacy-judgment": [
       "republic",
-      "aadhaar"
+      "aadhaar",
+      "navtej-judgment"
     ],
     "chandrayaan-one": [
       "chandrayaan-three",
@@ -1722,7 +1963,8 @@
       "sikkim-statehood"
     ],
     "sikkim-statehood": [
-      "integration"
+      "integration",
+      "three-new-states"
     ],
     "assam-accord": [
       "mizoram-accord"
@@ -1739,7 +1981,8 @@
       "national-education-policy"
     ],
     "right-to-education": [
-      "education-policies"
+      "education-policies",
+      "disability-rights"
     ],
     "national-education-policy": [
       "education-policies"
@@ -1762,6 +2005,71 @@
     ],
     "polio-follow-up": [
       "polio-certification"
+    ],
+    "hindu-succession": [
+      "daughters-coparcenary"
+    ],
+    "daughters-coparcenary": [
+      "hindu-succession"
+    ],
+    "wildlife-protection": [
+      "project-tiger",
+      "forest-rights-act"
+    ],
+    "project-tiger": [
+      "wildlife-protection"
+    ],
+    "forest-rights-act": [
+      "wildlife-protection",
+      "national-green-tribunal"
+    ],
+    "national-green-tribunal": [
+      "forest-rights-act",
+      "environment-protection"
+    ],
+    "environment-protection": [
+      "national-green-tribunal",
+      "bhopal-disaster"
+    ],
+    "bhopal-disaster": [
+      "environment-protection"
+    ],
+    "forty-second-amendment": [
+      "emergency",
+      "forty-fourth",
+      "basic-structure"
+    ],
+    "emergency": [
+      "forty-second-amendment"
+    ],
+    "forty-fourth": [
+      "forty-second-amendment"
+    ],
+    "basic-structure": [
+      "forty-second-amendment",
+      "bommai-judgment"
+    ],
+    "anti-defection": [
+      "national-front"
+    ],
+    "national-front": [
+      "anti-defection"
+    ],
+    "bommai-judgment": [
+      "basic-structure"
+    ],
+    "three-new-states": [
+      "states",
+      "sikkim-statehood"
+    ],
+    "states": [
+      "three-new-states"
+    ],
+    "disability-rights": [
+      "right-to-education"
+    ],
+    "navtej-judgment": [
+      "privacy-judgment"
     ]
   }
 }

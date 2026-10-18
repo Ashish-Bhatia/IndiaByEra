@@ -1,5 +1,6 @@
 """Validate editorial data and generated internal navigation."""
 import json
+import re
 from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlparse
@@ -28,6 +29,9 @@ for era in d['eras']:
   assert e[2] in p.ids and e[7], f'Missing event or source: {e[2]}'
   assert all(ref in d['sources'] for ref in e[7]),f'Unknown source: {e[2]}'
   n+=1
+option_labels=set(re.findall(r'<option(?: value="[^"]*")?>([^<]*)</option>',(R/'index.html').read_text()))
+all_topics={event[4] for era in d['eras'] for event in era['events']}
+assert all_topics <= option_labels, f'Missing topic filters: {all_topics-option_labels}'
 assert p.details==n
 all_event_ids={event[2] for era in d['eras'] for event in era['events']}
 for origin,targets in d.get('related',{}).items():
