@@ -550,6 +550,70 @@
     "constitution-drafting": [
       "Parliament digital library · Constituent Assembly drafting debates",
       "https://elibrary.sansad.in/collections/586ed2c7-8d3b-4a75-a371-c342117c731d"
+    ],
+    "shastri-tenure": [
+      "PMO · Former prime ministers and Shastri’s tenure",
+      "https://www.pmindia.gov.in/en/former-prime-ministers/"
+    ],
+    "nanda-transitions": [
+      "PMO · Gulzari Lal Nanda’s interim premierships",
+      "https://www.pmindia.gov.in/en/former_pm/shri-gulzari-lal-nanda-2/"
+    ],
+    "tashkent": [
+      "MEA · Tashkent Declaration, 10 January 1966",
+      "https://www.mea.gov.in/Portal/LegalTreatiesDoc/PA66B1482.pdf"
+    ],
+    "indira-tenure": [
+      "PMO archive · Indira Gandhi’s first premiership",
+      "https://archivepmo.nic.in/"
+    ],
+    "rupee1966": [
+      "RBI · Chronology, 1960–1971, including June 1966 devaluation",
+      "https://www.rbi.org.in/history/Brief_Chro1960to1971.html"
+    ],
+    "annualplans1966": [
+      "NITI archive · Economic statistics and Annual Plans, 1966–1969",
+      "https://digitallibrary.niti.gov.in/items/fadc244a-db53-4f4d-88f9-0a49a324fb04"
+    ],
+    "soviet-treaty1971": [
+      "MEA · Indo-Soviet Treaty, 9 August 1971",
+      "https://www.mea.gov.in/Portal/LegalTreatiesDoc/RU71B1557.pdf"
+    ],
+    "privypurses1971": [
+      "Legislative Department · 26th Constitutional Amendment, 1971",
+      "https://www.legislative.gov.in/static/uploads/2025/07/c61e222417607ab6e944b07f79b55d1b.pdf"
+    ],
+    "oilshock-history": [
+      "RBI · Monetary policy history and the 1970s shocks",
+      "https://www.rbi.org.in/commonperson/English/Scripts/speeches.aspx?Id=3161"
+    ],
+    "railway-strike-record": [
+      "ILO · Committee on Freedom of Association record on the railway dispute",
+      "https://normlex.ilo.org/dyn/nrmlx_en/f?p=NORMLEXPUB%3A50002%3A0%3A%3ANO%3A%3AP50002_COMPLAINT_TEXT_ID%2CP50002_LANG_CODE%3A2899746%2Cen"
+    ],
+    "railway-archives": [
+      "Archives of Indian Labour · Union and management documents from the 1974 strike",
+      "https://indianlabourarchives.org/jspui/handle/20.500.14121/1468"
+    ],
+    "election-case1975": [
+      "Supreme Court · Indira Gandhi v. Raj Narain, conditional stay, 24 June 1975",
+      "https://api.sci.gov.in/jonew/judis/5960.pdf"
+    ],
+    "green-revolution-trials": [
+      "ICAR · Swaminathan’s account of trials and the Green Revolution",
+      "https://icar.gov.in/en/node/5352"
+    ],
+    "banklaw1970": [
+      "India Code · Banking Companies Act, 1970, with retrospective commencement",
+      "https://www.indiacode.nic.in/bitstream/123456789/1373/1/A1970-5.pdf"
+    ],
+    "kesavananda-record": [
+      "Supreme Court · Kesavananda Bharati judgment record",
+      "https://www.sci.gov.in/document/his-holiness-kesavananda-bharati-v-state-of-kerala-1973-supp-scr-1/"
+    ],
+    "basicstructure-record": [
+      "Indian judiciary · Basic structure judgment introduction",
+      "https://judgments.ecourts.gov.in/KBJ/?p=home%2Fintro"
     ]
   },
   "eras": [
@@ -923,9 +987,22 @@
       "short": "Food & conflict",
       "title": "Wars, Food Security & Social Transition",
       "question": "What does security mean when food is scarce?",
-      "intro": "Leadership changed after Nehru's death in 1964. War, drought and food shortages put immediate pressure on the state. Agricultural technology, public procurement and bank nationalisation changed how government sought to deliver security and development.",
-      "tension": "Higher output did not mean equal gains. Access to irrigation, credit and markets shaped who benefited from agricultural change.",
+      "intro": "After Nehru’s death, leadership passed first to Shastri and then to Indira Gandhi. War, drought and food shortages tested the state. New agricultural methods, dairy cooperatives and public banking changed development policy, while Congress lost ground, split and rebuilt its mandate. By 1975, economic pressure, protests and a contested election had brought government and opposition into open confrontation.",
+      "tension": "Security had several meanings in these years: defending borders, securing food, finding work and protecting political rights. Measures intended to strengthen the state also raised questions about who controlled its institutions and who benefited from its policies.",
       "events": [
+        [
+          "1964",
+          "1964-06-09",
+          "shastri-succession",
+          "Shastri succeeds Nehru after an interim premiership",
+          "Democracy",
+          "Lal Bahadur Shastri became prime minister on 9 June 1964. Gulzari Lal Nanda had served as interim prime minister following Nehru’s death on 27 May.",
+          "The succession matters in its own right: constitutional government continued after the death of the leader who had dominated the first years of independence. Shastri’s short premiership would face war with Pakistan and severe pressure on food supplies.",
+          [
+            "shastri-tenure",
+            "nanda-transitions"
+          ]
+        ],
         [
           "1965",
           "1965-01-01",
@@ -957,10 +1034,63 @@
           "green-revolution",
           "The Green Revolution changes farming",
           "Society",
-          "High-yielding seeds, irrigation, fertiliser and procurement support raised grain output, especially wheat. M. S. Swaminathan was a key scientific leader among many contributors.",
-          "Gains were uneven across crops, regions and farm sizes. Food security improved over time, rather than arriving immediately with the introduction of new seeds.",
+          "The Green Revolution grew from trials of improved varieties and a wider package of irrigation, fertiliser, agronomic practices and public support. ICAR’s account records wheat trials and demonstrations in the early to mid-1960s. M. S. Swaminathan and Norman Borlaug were key scientific contributors.",
+          "It was not a single seed launch or a transformation shared equally by every farm. Access to water, credit and markets shaped the gains. Procurement and storage institutions mattered alongside research. Higher national grain output also did not automatically mean that every household had adequate nutrition.",
           [
-            "planning"
+            "green-revolution-trials",
+            "planning",
+            "fci-role"
+          ]
+        ],
+        [
+          "January 1966",
+          "1966-01-10",
+          "tashkent-declaration",
+          "Tashkent seeks to restore relations after the war",
+          "Conflict",
+          "Shastri and Pakistan’s President Ayub Khan signed the Tashkent Declaration on 10 January 1966. It provided for withdrawal to positions held before 5 August 1965 and steps towards restoring normal relations.",
+          "The declaration addressed the aftermath of the 1965 war without resolving every underlying dispute. Shastri died in Tashkent on 11 January, creating another leadership transition immediately after the diplomatic agreement.",
+          [
+            "tashkent",
+            "shastri-tenure"
+          ]
+        ],
+        [
+          "January 1966",
+          "1966-01-24",
+          "indira-first-premiership",
+          "Indira Gandhi becomes prime minister",
+          "Democracy",
+          "Indira Gandhi took office on 24 January 1966 after Shastri’s death and a second interim premiership by Nanda.",
+          "The leadership change occurred within Congress rule, but it did not mean the party’s internal balance of power remained settled. Her relationship with senior party leaders would become a major conflict later in the decade.",
+          [
+            "indira-tenure",
+            "nanda-transitions"
+          ]
+        ],
+        [
+          "1966–1969",
+          "1966-04-01",
+          "annual-plans",
+          "Annual Plans interrupt the five-year sequence",
+          "Economy",
+          "Three Annual Plans covered 1966–1969 between the Third and Fourth Five-Year Plans.",
+          "The familiar list of Five-Year Plans can hide this interval. Annual planning did not mean that public planning disappeared. Reading the sequence alongside food shortages, foreign-exchange constraints and the 1966 devaluation gives a fuller account of the pressure on economic policy.",
+          [
+            "annualplans1966"
+          ]
+        ],
+        [
+          "June 1966",
+          "1966-06-06",
+          "rupee-devaluation1966",
+          "The rupee is devalued",
+          "Economy",
+          "On 6 June 1966, India devalued the rupee. RBI’s chronology records a 36.5% reduction in its external value.",
+          "A fall in the currency’s value and the corresponding rise in the rupee price of a foreign currency are different percentage calculations. The decision belongs in the history of India’s external-payments difficulties, rather than being confused with the later 1991 reforms.",
+          [
+            "rupee1966",
+            "reforms"
           ]
         ],
         [
@@ -994,10 +1124,11 @@
           "bank-nationalisation",
           "Fourteen banks are nationalised",
           "Economy",
-          "Indira Gandhi's government nationalised 14 major commercial banks. Six more were nationalised in 1980.",
-          "The state used banking to pursue wider access to credit and rural branches. Nationalisation was an institutional change, not proof that every lending objective was achieved.",
+          "Indira Gandhi’s government nationalised 14 major commercial banks with effect from 19 July 1969. The Banking Companies Act of 1970 subsequently provided a framework with retrospective commencement tied to that date.",
+          "The policy sought to use banking for wider development goals, including rural credit and access. It followed earlier public ownership of the RBI and the creation of SBI. A change of ownership was a concrete institutional step; the reach and quality of lending require separate evidence.",
           [
-            "banks"
+            "banks",
+            "banklaw1970"
           ]
         ],
         [
@@ -1013,15 +1144,52 @@
           ]
         ],
         [
+          "1969",
+          "1969-11-01",
+          "congress-split",
+          "Congress divides into rival organisations",
+          "Democracy",
+          "Conflict between Indira Gandhi and the Congress organisation’s senior leadership culminated in a party split in 1969. Rival groups became known as Congress (R) and Congress (O).",
+          "The dispute involved leadership, policy and control of the party. Congress dominance after independence therefore cannot be treated as one continuous, internally unified political arrangement.",
+          [
+            "congress"
+          ]
+        ],
+        [
           "1970",
           "1970-01-01",
           "operation-flood",
           "Operation Flood begins",
           "Society",
-          "NDDB launched Operation Flood in 1970. Under Verghese Kurien's leadership, dairy cooperatives connected producers with urban markets.",
-          "The programme ran in phases through 1996. The White Revolution was a distinct dairy transformation, not part of the Green Revolution's grain technology package.",
+          "NDDB launched Operation Flood in 1970 under Verghese Kurien’s leadership. The programme developed cooperative links between milk producers and urban consumers and continued in phases through 1996.",
+          "The dairy transformation had different institutions and techniques from the grain-focused Green Revolution. Producer organisation, procurement and marketing were central. Calling both a revolution should not hide those differences or imply that their later outcomes had all been achieved in 1970.",
           [
             "dairy"
+          ]
+        ],
+        [
+          "1971",
+          "1971-03-01",
+          "election1971",
+          "A renewed mandate built around Garibi Hatao",
+          "Democracy",
+          "Indira Gandhi’s Congress campaigned on Garibi Hatao and won a decisive majority in the 1971 Lok Sabha election.",
+          "The victory followed the party split and restored her parliamentary strength. An electoral mandate and the eventual effects of anti-poverty policies are different questions.",
+          [
+            "congress",
+            "elections"
+          ]
+        ],
+        [
+          "August 1971",
+          "1971-08-09",
+          "indo-soviet-treaty",
+          "India and the Soviet Union sign a twenty-year treaty",
+          "Conflict",
+          "India and the Soviet Union signed the Treaty of Peace, Friendship and Cooperation in New Delhi on 9 August 1971. Its provisions covered consultation, cooperation and relations between the two countries.",
+          "The treaty preceded the December war and was an important part of India’s diplomatic position during the East Pakistan crisis. It should be read alongside the earlier claim to independent foreign-policy judgment, rather than treating non-alignment as an absence of strategic relationships.",
+          [
+            "soviet-treaty1971"
           ]
         ],
         [
@@ -1034,6 +1202,18 @@
           "Bangladesh emerged as an independent country. Its liberation involved Bangladeshi resistance and Indian military intervention, rather than a war fought by India alone.",
           [
             "foreign"
+          ]
+        ],
+        [
+          "December 1971",
+          "1971-12-28",
+          "privy-purses-abolished",
+          "Privy purses and official recognition of rulers end",
+          "Democracy",
+          "The 26th Constitutional Amendment received assent on 28 December 1971. It ended constitutional recognition of the former princely rulers and abolished privy purses through Article 363A.",
+          "These arrangements had formed part of the settlement around the integration of princely states. Their abolition was a later constitutional change. It should not be described as the moment when the princely states first joined India.",
+          [
+            "privypurses1971"
           ]
         ],
         [
@@ -1078,9 +1258,48 @@
           "basic-structure",
           "Limits on the power to amend",
           "Democracy",
-          "In Kesavananda Bharati, the Supreme Court held that Parliament's power to amend the Constitution did not extend to destroying its basic structure.",
-          "The decision became a central reference point in disputes over the relationship between Parliament, government and the courts.",
+          "On 24 April 1973, the Supreme Court in Kesavananda Bharati held that Parliament’s constitutional amendment power did not extend to destroying the Constitution’s basic structure.",
+          "The decision addressed the limits of constitutional change, not a general prohibition on amendment. It emerged from disputes over rights, property and reform and became a central reference point in later institutional confrontations. It helps connect the policy arguments of this era with the constitutional crisis that followed.",
           [
+            "kesavananda-record",
+            "basicstructure-record"
+          ]
+        ],
+        [
+          "1973–1974",
+          "1973-10-01",
+          "oilshock1973",
+          "The oil shock adds to domestic economic strain",
+          "Economy",
+          "The 1973 international oil-price shock added inflationary pressure to an economy already affected by war and drought. RBI’s historical account identifies several such pressures during this period.",
+          "Higher import costs fed into wider economic difficulties. Public anger over prices and shortages had more than one cause, so it should not be explained entirely by either a global shock or a single domestic decision.",
+          [
+            "oilshock-history"
+          ]
+        ],
+        [
+          "1974",
+          "1974-03-01",
+          "gujarat-bihar-movements",
+          "Student protests become a wider political challenge",
+          "Democracy",
+          "Student-led protests in Gujarat and Bihar in 1974 challenged price rises, corruption and government conduct. Jayaprakash Narayan became a central leader of the Bihar movement and called for Total Revolution.",
+          "The movements widened the challenge to Congress rule. Protest, opposition-party strategy and constitutional government became increasingly entangled. Their development helps explain the political confrontation before the Emergency, without making its declaration inevitable.",
+          [
+            "emergency"
+          ]
+        ],
+        [
+          "May 1974",
+          "1974-05-08",
+          "railway-strike1974",
+          "A nationwide railway strike confronts the government",
+          "Society",
+          "Railway workers struck in May 1974 over pay and working conditions, with George Fernandes prominent in the leadership. The government opposed the strike and arrested union leaders.",
+          "The dispute brought labour rights and the operation of an essential national network into conflict. The ILO record and contemporary union and management papers preserve competing accounts. Those perspectives should be identified rather than treating every participant’s allegation as an established finding.",
+          [
+            "railway-strike-record",
+            "railway-archives",
             "emergency"
           ]
         ],
@@ -1121,7 +1340,24 @@
             "sikkim-state",
             "sikkim-date"
           ]
+        ],
+        [
+          "June 1975",
+          "1975-06-12",
+          "allahabad-election-ruling",
+          "The election case reaches a constitutional crisis",
+          "Democracy",
+          "On 12 June 1975, the Allahabad High Court set aside Indira Gandhi’s 1971 election from Rae Bareli. On 24 June, the Supreme Court granted a conditional stay, allowing her to continue as prime minister while restricting her participation as a member of Parliament.",
+          "The High Court ruling, the interim Supreme Court order and the subsequent Emergency were distinct events. The conditional stay did not finally decide the appeal. This chapter ends at that confrontation; the declaration of Emergency is covered in the next era.",
+          [
+            "election-case1975"
+          ]
         ]
+      ],
+      "overview": [
+        "Start with the succession after Nehru. The two leadership changes were constitutional transitions, but they occurred amid military and economic pressure. The war and the Tashkent agreement belong alongside the food crisis, not in a separate story with no domestic consequences.",
+        "Next, distinguish the development programmes. Grain production, dairy cooperation and bank ownership involved different institutions. Their political importance was considerable, but announcement dates do not tell the whole story of implementation, regional differences or household welfare.",
+        "Finally, follow the political sequence: setbacks in the states, the Congress split, a renewed national mandate, economic strain and mass protests. The court orders of June 1975 close this chapter. The Emergency begins the next one, where its declaration and consequences can be examined together."
       ]
     },
     {
@@ -2093,7 +2329,8 @@
       "national-food-security"
     ],
     "green-revolution": [
-      "food-corporation"
+      "food-corporation",
+      "annual-plans"
     ],
     "national-food-security": [
       "food-corporation"
@@ -2105,7 +2342,8 @@
     ],
     "bank-nationalisation": [
       "state-bank-india",
-      "nabard"
+      "nabard",
+      "congress-split"
     ],
     "nabard": [
       "bank-nationalisation"
@@ -2292,7 +2530,8 @@
     ],
     "basic-structure": [
       "forty-second-amendment",
-      "bommai-judgment"
+      "bommai-judgment",
+      "allahabad-election-ruling"
     ],
     "anti-defection": [
       "national-front"
@@ -2363,6 +2602,57 @@
     ],
     "nehru-era-transition": [
       "china-war"
+    ],
+    "shastri-succession": [
+      "pakistan-war"
+    ],
+    "pakistan-war": [
+      "shastri-succession",
+      "tashkent-declaration"
+    ],
+    "tashkent-declaration": [
+      "pakistan-war",
+      "indira-first-premiership"
+    ],
+    "indira-first-premiership": [
+      "tashkent-declaration"
+    ],
+    "annual-plans": [
+      "rupee-devaluation1966",
+      "green-revolution"
+    ],
+    "rupee-devaluation1966": [
+      "annual-plans"
+    ],
+    "congress-split": [
+      "election1971",
+      "bank-nationalisation"
+    ],
+    "election1971": [
+      "congress-split"
+    ],
+    "indo-soviet-treaty": [
+      "bangladesh"
+    ],
+    "bangladesh": [
+      "indo-soviet-treaty",
+      "simla-agreement"
+    ],
+    "simla-agreement": [
+      "bangladesh"
+    ],
+    "oilshock1973": [
+      "gujarat-bihar-movements"
+    ],
+    "gujarat-bihar-movements": [
+      "oilshock1973",
+      "railway-strike1974"
+    ],
+    "railway-strike1974": [
+      "gujarat-bihar-movements"
+    ],
+    "allahabad-election-ruling": [
+      "basic-structure"
     ]
   }
 }
