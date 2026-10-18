@@ -478,6 +478,78 @@
     "navtej": [
       "Supreme Court · Navtej judgment, Chandrachud opinion, archived by Supreme Court Observer",
       "https://www.scobserver.in/wp-content/uploads/2021/10/377IPC_-_Judgement.pdf"
+    ],
+    "independence-act": [
+      "UK legislation archive · Indian Independence Act, 1947, section 1",
+      "https://www.legislation.gov.uk/ukpga/Geo6/10-11/30/section/1"
+    ],
+    "kashmir-early": [
+      "United Nations · Background to the early Kashmir conflict and ceasefire",
+      "https://peacekeeping.un.org/sites/default/files/past/unipombackgr.html"
+    ],
+    "atomic-origins": [
+      "Department of Atomic Energy · Commission and department origins",
+      "https://dae.gov.in/atomic-energy-commission/"
+    ],
+    "rbi-public": [
+      "RBI · Transfer to public ownership in January 1949",
+      "https://systemhealth.rbi.org.in/Scripts/brief_national.aspx.html"
+    ],
+    "supreme-court-origin": [
+      "Supreme Court · Inauguration and early sittings",
+      "https://www.sci.gov.in/about-department/history/"
+    ],
+    "planning-resolution": [
+      "NITI archive · Planning Commission descriptive memoir, 1954",
+      "https://digitallibrary.niti.gov.in/items/43b55bad-ba29-46f6-9171-674b84a21307"
+    ],
+    "firstplan-record": [
+      "NITI archive · First Five-Year Plan",
+      "https://digitallibrary.niti.gov.in/items/7fba1c71-55e3-4200-b32c-08c1738261b8"
+    ],
+    "first-amendment": [
+      "Legislative Department · First Constitutional Amendment, 1951",
+      "https://www.legislative.gov.in/static/uploads/2025/07/f3789482ad0dfee795e54fb88c0401e6.pdf"
+    ],
+    "andhra-state-act": [
+      "India Code · Andhra State Act, 1953",
+      "https://www.indiacode.nic.in/bitstream/123456789/2176/1/A1953-30.pdf"
+    ],
+    "panchsheel-record": [
+      "MEA · Panchsheel and the 1954 agreement",
+      "https://www.mea.gov.in/Uploads/PublicationDocs/191_panchsheel.pdf"
+    ],
+    "bandung-belgrade": [
+      "Vice-President’s address · Bandung and the Belgrade conference",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=105940"
+    ],
+    "secondplan-record": [
+      "NITI archive · Second Five-Year Plan framework",
+      "https://digitallibrary.niti.gov.in/items/ec2344bb-b52a-4635-a6bb-daff57d1d2fd"
+    ],
+    "kerala-first-ministry": [
+      "Kerala Legislature · First Council of Ministers, 1957–1959",
+      "https://www.niyamasabha.org/codes/ginfo_6_1.htm"
+    ],
+    "first-rocket": [
+      "ISRO · Sounding rockets and the November 1963 launch",
+      "https://www.isro.gov.in/soundingRockets.html"
+    ],
+    "rocket-origins": [
+      "ISRO · Nike-Apache launch and later indigenous sounding rockets",
+      "https://www.isro.gov.in/FAQ.html"
+    ],
+    "nehru-tenure": [
+      "Prime Minister’s Office · Jawaharlal Nehru’s tenure",
+      "https://www.pmindia.gov.in/en/former_pm/shri-jawaharlal-nehru/"
+    ],
+    "nehru-death-record": [
+      "Rajya Sabha archive · Record noting Nehru’s death on 27 May 1964",
+      "https://rsdebate.nic.in/bitstream/123456789/535930/1/PQ_48_01061964_U50_p202_p200.pdf"
+    ],
+    "constitution-drafting": [
+      "Parliament digital library · Constituent Assembly drafting debates",
+      "https://elibrary.sansad.in/collections/586ed2c7-8d3b-4a75-a371-c342117c731d"
     ]
   },
   "eras": [
@@ -488,8 +560,8 @@
       "short": "Foundations",
       "title": "The Foundation & Nation-Building Era",
       "question": "How do you turn independence into a republic?",
-      "intro": "Freedom brought both possibility and catastrophe. India had to accommodate displaced families, integrate princely states and create institutions for a vast democracy. Under Jawaharlal Nehru, public investment and planning became central to economic policy.",
-      "tension": "Political equality arrived before economic equality. A common citizenship had to coexist with deep differences of language, caste, religion and income.",
+      "intro": "Freedom arrived with Partition, violence and displacement. The new state had to integrate territory, protect citizenship and turn a constitutional promise into working institutions. Under Jawaharlal Nehru, elected government, economic planning and scientific investment became central to the national project. Yet these years also brought restrictions on rights, disputes over state autonomy and war.",
+      "tension": "The question was never only whether India could build institutions. It was how those institutions would use power: to protect individual rights, pursue social reform, accommodate regional demands and respond to insecurity.",
       "events": [
         [
           "1947",
@@ -497,10 +569,11 @@
           "independence",
           "Independence, and the trauma of Partition",
           "Democracy",
-          "British rule ended on 15 August. Partition created India and Pakistan and triggered mass displacement and communal violence.",
-          "Freedom and forced migration belonged to the same moment. Rehabilitation and the protection of minorities became urgent tasks for the new state.",
+          "British rule ended on 15 August 1947. The Independence Act created the independent Dominions of India and Pakistan. Partition brought mass displacement and communal violence alongside the transfer of power.",
+          "Independence and becoming a republic were different constitutional milestones. India began as a Dominion and became a republic in January 1950. For displaced families, the immediate concerns were safety, shelter, property and rebuilding livelihoods. Protecting minorities and rehabilitating refugees became urgent responsibilities of the new state.",
           [
-            "nation"
+            "nation",
+            "independence-act"
           ]
         ],
         [
@@ -516,6 +589,18 @@
           ]
         ],
         [
+          "1947–1949",
+          "1947-10-01",
+          "first-kashmir-war",
+          "War over Jammu and Kashmir follows Partition",
+          "Conflict",
+          "Fighting over Jammu and Kashmir began in 1947. The dispute reached the UN Security Council in January 1948, and a ceasefire took effect on 1 January 1949. United Nations military observers arrived later that month.",
+          "Partition was followed almost immediately by armed conflict and competing territorial claims. The ceasefire stopped that phase of fighting without resolving the dispute. Its line and later arrangements should not be confused with a mutually agreed international boundary.",
+          [
+            "kashmir-early"
+          ]
+        ],
+        [
           "1948",
           "1948-01-30",
           "gandhi-assassination",
@@ -525,6 +610,43 @@
           "The killing belongs within the history of the early republic, alongside constitution-making and state integration. Independence had not ended political violence or the struggle over communal coexistence.",
           [
             "gandhi"
+          ]
+        ],
+        [
+          "1948–1954",
+          "1948-08-01",
+          "atomic-energy-foundations",
+          "An institutional base for atomic research",
+          "Science",
+          "The Atomic Energy Commission was first established in August 1948 within the Department of Scientific Research. The Department of Atomic Energy followed on 3 August 1954 under the prime minister’s direct charge.",
+          "The commission and the department were different institutional steps. Their creation established a framework for research and administration, rather than demonstrating that India had already acquired nuclear weapons or a complete nuclear power industry.",
+          [
+            "atomic-origins"
+          ]
+        ],
+        [
+          "1949",
+          "1949-01-01",
+          "rbi-nationalisation",
+          "The central bank enters public ownership",
+          "Economy",
+          "The Reserve Bank of India was nationalised with effect from 1 January 1949 under the Reserve Bank of India (Transfer to Public Ownership) Act, 1948.",
+          "The RBI had begun operating in 1935, so public ownership did not mark its creation. Nor was this the same event as establishing SBI in 1955 or nationalising commercial banks in 1969. The central bank and a commercial bank have different functions.",
+          [
+            "rbi-public"
+          ]
+        ],
+        [
+          "1949–1950",
+          "1949-11-26",
+          "republic",
+          "A Constitution, then a republic",
+          "Democracy",
+          "The Constituent Assembly adopted the Constitution on 26 November 1949. Most provisions came into force on 26 January 1950, when India became a republic. The Assembly’s drafting work had begun before independence, with B. R. Ambedkar chairing the Drafting Committee formed in August 1947.",
+          "The Constitution combined parliamentary government, fundamental rights, a federal distribution of powers and development goals in the Directive Principles. It was the product of an Assembly and its committees, not a document written by one person. Its original Preamble described a Sovereign Democratic Republic. The new framework soon faced disputes over the reach of rights and the powers needed for social reform.",
+          [
+            "constitution",
+            "constitution-drafting"
           ]
         ],
         [
@@ -540,16 +662,28 @@
           ]
         ],
         [
-          "1949–1950",
-          "1950-01-26",
-          "republic",
-          "A Constitution, then a republic",
+          "1950",
+          "1950-01-28",
+          "supreme-court-inauguration",
+          "The Supreme Court begins work",
           "Democracy",
-          "The Constituent Assembly adopted the Constitution on 26 November 1949. Most provisions came into force on 26 January 1950, when India became a republic.",
-          "The Constitution established parliamentary government, fundamental rights and a federal structure. Its original Preamble described a Sovereign Democratic Republic. The words Socialist and Secular were added in 1976.",
+          "The Supreme Court of India was inaugurated on 28 January 1950, two days after the republic began. Its early sittings took place in part of the old Parliament House.",
+          "A Constitution needed institutions able to interpret and enforce it. The Court’s inauguration placed a new apex court within that framework. Disputes over rights, reform and the limits of government soon tested the relationship between elected institutions and the judiciary.",
           [
-            "constitution",
-            "emergency"
+            "supreme-court-origin"
+          ]
+        ],
+        [
+          "1950",
+          "1950-03-15",
+          "planning-commission",
+          "The Planning Commission is established",
+          "Economy",
+          "A Government of India resolution of 15 March 1950 established the Planning Commission. Its work concerned assessment of resources, development priorities and plans for their use.",
+          "The Commission was created by executive resolution, not as a constitutional body. Its establishment preceded the First Five-Year Plan. Planning was a method for coordinating public choices and investment in a country facing shortages of capital and infrastructure.",
+          [
+            "planning-resolution",
+            "firstplan-record"
           ]
         ],
         [
@@ -558,10 +692,23 @@
           "first-plan",
           "Planning begins with farms and irrigation",
           "Economy",
-          "The First Five-Year Plan prioritised agriculture, irrigation and recovery after Partition. Planning aimed to direct scarce capital towards development.",
-          "The Second Plan, beginning in 1956, put greater emphasis on heavy industry and the public sector. Agriculture and industry were successive priorities, not a single policy launched in 1951.",
+          "The First Five-Year Plan covered 1951–1956. It prioritised agriculture, irrigation and recovery in an economy still dealing with the disruption of Partition. Public planning aimed to allocate scarce resources towards development.",
+          "This was not a programme devoted mainly to heavy industry. The stronger emphasis on that objective came with the Second Plan. Reading the two plans separately makes the sequence clearer: stabilising and raising production in the early years, then placing greater weight on building industrial capacity.",
           [
+            "firstplan-record",
             "planning"
+          ]
+        ],
+        [
+          "1951",
+          "1951-06-18",
+          "first-constitutional-amendment",
+          "The first amendment tests the new rights framework",
+          "Democracy",
+          "The First Constitutional Amendment was enacted on 18 June 1951. It revised Article 19’s speech-restriction provisions, added Article 15(4), and introduced Articles 31A and 31B with the Ninth Schedule to protect specified reform legislation.",
+          "The amendment linked several debates: freedom of expression, measures for disadvantaged communities, state economic activity and land reform. The government’s stated justification followed court decisions. Its adoption demonstrates how early the tension between social reform and constitutional limits became a live political issue.",
+          [
+            "first-amendment"
           ]
         ],
         [
@@ -582,11 +729,47 @@
           "first-election",
           "The first general election",
           "Democracy",
-          "India held its first general election under universal adult franchise in 1951–1952. Congress won, and Nehru continued as prime minister.",
-          "A competitive election made constitutional democracy a working practice. The initial voting age was 21. It was lowered to 18 through the 61st Amendment in 1988.",
+          "India held its first general election in 1951–1952. Congress won 364 of the 489 Lok Sabha seats with about 45% of the vote. Nehru continued as prime minister.",
+          "The roughly 74% seat share was much larger than the vote share, reflecting the first-past-the-post system. Congress’s dominance existed within a competitive election, not a legal one-party system. Voters initially qualified from age 21; organising rolls and voting across a largely non-literate electorate was a major administrative task.",
           [
             "democracy",
             "elections"
+          ]
+        ],
+        [
+          "1953",
+          "1953-10-01",
+          "andhra-state",
+          "Andhra State precedes the wider linguistic reorganisation",
+          "Democracy",
+          "Andhra State came into being on 1 October 1953 under the Andhra State Act. It was formed from specified territories of the existing Madras State.",
+          "This was an important step in the debate over language and state boundaries. Andhra State in 1953 and the larger Andhra Pradesh formed during the 1956 reorganisation were different arrangements. Reading them as a single event hides the sequence of change.",
+          [
+            "andhra-state-act"
+          ]
+        ],
+        [
+          "1954",
+          "1954-04-29",
+          "panchsheel",
+          "Panchsheel sets out principles for coexistence",
+          "Democracy",
+          "The five principles known as Panchsheel were formally stated in the preamble to the India–China agreement on trade and intercourse with the Tibet region of China, signed on 29 April 1954.",
+          "The principles included respect for sovereignty, non-aggression, non-interference, equality and peaceful coexistence. They expressed an approach to international relations. The 1962 war later exposed the distance between a diplomatic declaration and the security relationship it was intended to guide.",
+          [
+            "panchsheel-record"
+          ]
+        ],
+        [
+          "1955–1961",
+          "1955-04-18",
+          "bandung-and-nonalignment",
+          "From Bandung to a non-aligned movement",
+          "Democracy",
+          "The 1955 Asian–African conference at Bandung brought newly independent countries and anti-colonial concerns into a wider diplomatic conversation. The first Non-Aligned Movement summit followed in Belgrade in 1961, with India among its founding participants.",
+          "Bandung and the formal establishment of the movement were separate milestones. Non-alignment sought room for independent judgment during the Cold War. It did not mean withdrawal from diplomacy or an absence of security interests.",
+          [
+            "bandung-belgrade"
           ]
         ],
         [
@@ -612,6 +795,18 @@
           "Public ownership in Indian banking did not begin with the nationalisation of 14 banks in 1969. SBI was an earlier institutional step. Ownership, branch reach and actual access to useful financial services remain different questions.",
           [
             "sbi-origin"
+          ]
+        ],
+        [
+          "1956–1961",
+          "1956-04-01",
+          "second-five-year-plan",
+          "The Second Plan puts heavy industry at the centre",
+          "Economy",
+          "The Second Five-Year Plan, covering 1956–1961, placed greater emphasis on industrialisation, capital formation and heavy industry, while also addressing agriculture, transport, power and smaller enterprises.",
+          "The strategy sought to build productive capacity over time. It was not simply the First Plan continued under a new name. The shift helps explain why steel, machinery, technical education and large public investments occupy such a prominent place in accounts of the Nehru years.",
+          [
+            "secondplan-record"
           ]
         ],
         [
@@ -652,6 +847,19 @@
           ]
         ],
         [
+          "1957–1959",
+          "1957-04-05",
+          "kerala-democracy-test",
+          "An elected Communist government, then dismissal",
+          "Democracy",
+          "E. M. S. Namboodiripad’s ministry took office in Kerala on 5 April 1957 after an election. In 1959, the Congress-led Union government dismissed it under Article 356; its tenure ended on 31 July.",
+          "The episode reveals both electoral competition beneath Congress’s national dominance and an early dispute over federal power. The election and the dismissal belong in the same account. NCERT describes the dismissal as a controversial use of constitutional emergency powers.",
+          [
+            "kerala-first-ministry",
+            "democracy"
+          ]
+        ],
+        [
           "1961",
           "1961-12-19",
           "goa-liberation",
@@ -674,7 +882,38 @@
           [
             "foreign"
           ]
+        ],
+        [
+          "1963",
+          "1963-11-21",
+          "thumba-first-rocket",
+          "A sounding rocket launches from Thumba",
+          "Science",
+          "A Nike-Apache sounding rocket, procured from the United States, launched from Thumba on 21 November 1963. The programme supported scientific investigation of the upper atmosphere.",
+          "A sounding rocket collects measurements on a suborbital flight; it does not place a satellite in orbit. The launch preceded ISRO’s formation in 1969. These distinctions help separate the beginnings of space research from later satellite and launch-vehicle milestones.",
+          [
+            "first-rocket",
+            "rocket-origins"
+          ]
+        ],
+        [
+          "1964",
+          "1964-05-27",
+          "nehru-era-transition",
+          "Nehru’s death closes the first premiership",
+          "Democracy",
+          "Jawaharlal Nehru died on 27 May 1964, ending the premiership he had held since independence in August 1947.",
+          "His death provides a useful boundary for this chapter, not a claim that every institution or policy changed at once. India entered its next leadership transition with constitutional government established, major development programmes under way and unresolved questions over security, inequality and regional demands.",
+          [
+            "nehru-tenure",
+            "nehru-death-record"
+          ]
         ]
+      ],
+      "overview": [
+        "Begin with the distinction between independence and the republic. The transfer of power did not itself settle the territorial map, end communal violence or put a new Constitution into operation. These processes overlapped, and people experienced them differently.",
+        "Then follow the choices about government and development. Elections established a source of political authority, while Parliament, the courts and state governments contested how that authority should be used. The First and Second Plans show a changing set of economic priorities rather than one unvarying programme.",
+        "Finally, read diplomacy and scientific ambition alongside their limits. Institutions created long-term capacity, but declarations and plans were not the same as results. Kerala’s dismissal and the China war belong in the same history as the Constitution, technical education and the first rocket launch."
       ]
     },
     {
@@ -1844,7 +2083,9 @@
   ],
   "related": {
     "first-plan": [
-      "food-corporation"
+      "food-corporation",
+      "planning-commission",
+      "second-five-year-plan"
     ],
     "food-corporation": [
       "first-plan",
@@ -1859,7 +2100,8 @@
     ],
     "state-bank-india": [
       "bank-nationalisation",
-      "jan-dhan"
+      "jan-dhan",
+      "rbi-nationalisation"
     ],
     "bank-nationalisation": [
       "state-bank-india",
@@ -1930,7 +2172,9 @@
       "untouchability-law"
     ],
     "republic": [
-      "privacy-judgment"
+      "privacy-judgment",
+      "supreme-court-inauguration",
+      "first-constitutional-amendment"
     ],
     "privacy-judgment": [
       "republic",
@@ -1954,7 +2198,8 @@
     ],
     "first-election": [
       "election-commission",
-      "voting-at-eighteen"
+      "voting-at-eighteen",
+      "kerala-democracy-test"
     ],
     "voting-at-eighteen": [
       "first-election"
@@ -2063,13 +2308,61 @@
       "sikkim-statehood"
     ],
     "states": [
-      "three-new-states"
+      "three-new-states",
+      "andhra-state"
     ],
     "disability-rights": [
       "right-to-education"
     ],
     "navtej-judgment": [
       "privacy-judgment"
+    ],
+    "independence": [
+      "first-kashmir-war"
+    ],
+    "first-kashmir-war": [
+      "independence"
+    ],
+    "rbi-nationalisation": [
+      "state-bank-india"
+    ],
+    "supreme-court-inauguration": [
+      "republic"
+    ],
+    "first-constitutional-amendment": [
+      "republic"
+    ],
+    "planning-commission": [
+      "first-plan"
+    ],
+    "second-five-year-plan": [
+      "first-plan"
+    ],
+    "andhra-state": [
+      "states"
+    ],
+    "panchsheel": [
+      "china-war",
+      "bandung-and-nonalignment"
+    ],
+    "china-war": [
+      "panchsheel",
+      "nehru-era-transition"
+    ],
+    "bandung-and-nonalignment": [
+      "panchsheel"
+    ],
+    "kerala-democracy-test": [
+      "first-election"
+    ],
+    "atomic-energy-foundations": [
+      "thumba-first-rocket"
+    ],
+    "thumba-first-rocket": [
+      "atomic-energy-foundations"
+    ],
+    "nehru-era-transition": [
+      "china-war"
     ]
   }
 }
