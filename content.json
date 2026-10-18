@@ -930,6 +930,34 @@
     "nagaland-state-history": [
       "Lok Bhavan Nagaland · State formation on 1 December 1963",
       "https://lokbhavan.nagaland.gov.in/2074-2/"
+    ],
+    "nddb-genesis": [
+      "NDDB · Genesis of the dairy board",
+      "https://www.nddb.org/about/genesis"
+    ],
+    "punjab-reorganisation1966": [
+      "India Code · Punjab Reorganisation Act, 1966",
+      "https://www.indiacode.nic.in/bitstream/123456789/1645/1/196631.pdf"
+    ],
+    "himachal-statehood1971": [
+      "Himachal Pradesh government · State history and facts",
+      "https://ddtg.hp.gov.in/hp-fast-facts/"
+    ],
+    "northeast-reorganisation1972": [
+      "India Code · North-Eastern Areas (Reorganisation) Act, 1971",
+      "https://www.indiacode.nic.in/indiacode/handle/123456789/1534?view_type=browse"
+    ],
+    "contract-labour1970": [
+      "Chief Labour Commissioner · Contract Labour Act, 1970",
+      "https://clc.gov.in/clc/acts-rules/contract-labour-regulation-abolition-act-1970"
+    ],
+    "coal-nationalisation-history": [
+      "Ministry of Coal · History and background",
+      "https://coal.gov.in/index.php/about-us/history-background"
+    ],
+    "official-languages-amendment-law": [
+      "India Code · Official Languages (Amendment) Act, 1967, assent 8 January 1968",
+      "https://www.indiacode.nic.in/repealedfileopen?rfilename=A1968-1.pdf"
     ]
   },
   "eras": [
@@ -1492,6 +1520,19 @@
         ],
         [
           "1965",
+          "1965-01-01",
+          "nddb-founded",
+          "A national institution takes shape around dairy cooperatives",
+          "Economy",
+          "The National Dairy Development Board was founded in 1965 at Anand. Its approach placed milk producers and the professionals employed by their cooperatives at the centre of dairy development.",
+          "The board supplied an institutional foundation before Operation Flood began in 1970. Cooperative ownership, technical support and reliable marketing were distinct parts of the dairy strategy; higher production alone does not describe it.",
+          [
+            "nddb-genesis",
+            "dairy"
+          ]
+        ],
+        [
+          "1965",
           "1965-09-01",
           "pakistan-war",
           "War and the call for food security",
@@ -1568,13 +1609,25 @@
           ]
         ],
         [
+          "1 November 1966",
+          "1966-11-01",
+          "punjab-reorganisation",
+          "Punjab is reorganised; Haryana becomes a state",
+          "Democracy",
+          "The Punjab Reorganisation Act took effect on 1 November 1966. It created Haryana, reorganised Punjab, established Chandigarh as a Union Territory and transferred specified hill areas to Himachal Pradesh.",
+          "Linguistic reorganisation continued after the major settlement of 1956. Boundaries also required arrangements for shared institutions and resources, making the practical terms of federalism as important as the new map.",
+          [
+            "punjab-reorganisation1966"
+          ]
+        ],
+        [
           "1967",
           "1967-02-01",
           "state-opposition",
           "Congress loses ground in the states",
           "Democracy",
-          "The 1967 elections weakened Congress dominance and brought non-Congress governments to several states.",
-          "Opposition coordination and regional politics grew in importance well before the coalition governments of the 1990s.",
+          "Congress retained power at the Centre in the 1967 elections but suffered major setbacks in state assemblies. The DMK won power in Madras state, while non-Congress coalitions formed in several other states.",
+          "The results brought regional parties and opposition cooperation into government well before the national coalition era of the 1990s. Single-party regional success and multi-party coalitions were different routes away from Congress dominance.",
           [
             "congress"
           ]
@@ -1590,6 +1643,19 @@
           [
             "education1968",
             "education1986"
+          ]
+        ],
+        [
+          "8 January 1968",
+          "1968-01-08",
+          "official-languages-amendment1967",
+          "Language policy adds safeguards for the continued use of English",
+          "Democracy",
+          "The Official Languages (Amendment) Act, 1967 received presidential assent on 8 January 1968. It strengthened the framework for continuing English alongside Hindi for Union official purposes. Section 3(5) required resolutions from all state legislatures that had not adopted Hindi as their official language, followed by resolutions in both Houses of Parliament, before specified uses of English could be discontinued.",
+          "The settlement concerned official administration, not the declaration of a national language. Its consent requirements show how language diversity shaped the rules of the Union. The year in the Act’s title differs from the date of presidential assent.",
+          [
+            "official-languages-law",
+            "official-languages-amendment-law"
           ]
         ],
         [
@@ -1642,6 +1708,31 @@
           ]
         ],
         [
+          "5 September 1970",
+          "1970-09-05",
+          "contract-labour-law",
+          "Contract labour receives a framework for regulation and selective abolition",
+          "Society",
+          "The Contract Labour (Regulation and Abolition) Act was enacted on 5 September 1970 and came into force on 10 February 1971. It provided for establishment registration, contractor licensing, welfare duties and government prohibition of contract labour in specified work after consultation.",
+          "The law did not abolish every form of contract labour. It linked regulation of employment conditions to a procedure for prohibition, making implementation and enforcement central to its effect on workers.",
+          [
+            "contract-labour1970"
+          ]
+        ],
+        [
+          "25 January 1971",
+          "1971-01-25",
+          "himachal-statehood",
+          "Himachal Pradesh becomes a full state",
+          "Democracy",
+          "Himachal Pradesh attained full statehood on 25 January 1971. Its territory had expanded in 1966 when hill areas were transferred from Punjab.",
+          "The sequence distinguishes a change in territorial boundaries from a change in constitutional status. The creation of a state brought a different place within the federal system, alongside the continuing challenges of governing a mountainous region.",
+          [
+            "himachal-statehood1971",
+            "punjab-reorganisation1966"
+          ]
+        ],
+        [
           "1971",
           "1971-03-01",
           "election1971",
@@ -1688,6 +1779,31 @@
           "These arrangements had formed part of the settlement around the integration of princely states. Their abolition was a later constitutional change. It should not be described as the moment when the princely states first joined India.",
           [
             "privypurses1971"
+          ]
+        ],
+        [
+          "21 January 1972",
+          "1972-01-21",
+          "northeast-reorganisation",
+          "New states and Union Territories reshape the Northeast",
+          "Democracy",
+          "The North-Eastern Areas (Reorganisation) Act, 1971 took effect on 21 January 1972. Manipur and Tripura became states, Meghalaya became a state, and Mizoram and Arunachal Pradesh became Union Territories.",
+          "These were different constitutional arrangements, not five simultaneous grants of statehood. The changes widened the range of federal institutions available to address regional aspirations; they did not by themselves resolve every conflict over identity, representation or autonomy.",
+          [
+            "northeast-reorganisation1972",
+            "regional"
+          ]
+        ],
+        [
+          "1972–1973",
+          "1972-05-01",
+          "coal-nationalisation",
+          "Coal nationalisation extends public ownership into energy supply",
+          "Economy",
+          "Coal nationalisation proceeded in stages. Most coking coal mines were nationalised on 1 May 1972, with specified steel-company exceptions; the nationalisation of non-coking coal mines followed on 1 May 1973.",
+          "Alongside bank nationalisation, the coal measures expanded state ownership in a sector essential to industry and electricity. Changes of ownership should be distinguished from later assessments of production, safety, investment and labour conditions.",
+          [
+            "coal-nationalisation-history"
           ]
         ],
         [
@@ -1830,8 +1946,8 @@
       ],
       "overview": [
         "Start with the succession after Nehru. The two leadership changes were constitutional transitions, but they occurred amid military and economic pressure. The war and the Tashkent agreement belong alongside the food crisis, not in a separate story with no domestic consequences.",
-        "Next, distinguish the development programmes. Grain production, dairy cooperation and bank ownership involved different institutions. Their political importance was considerable, but announcement dates do not tell the whole story of implementation, regional differences or household welfare.",
-        "Finally, follow the political sequence: setbacks in the states, the Congress split, a renewed national mandate, economic strain and mass protests. The court orders of June 1975 close this chapter. The Emergency begins the next one, where its declaration and consequences can be examined together."
+        "Follow the institutions behind development. Food procurement, dairy cooperatives, bank ownership and coal nationalisation involved different forms of state action. The dairy board preceded Operation Flood; labour legislation distinguished regulation from selective prohibition. Each needs to be judged beyond its announcement date.",
+        "Read the political sequence at both national and state levels. Reorganisation in Punjab, Himachal Pradesh and the Northeast, language safeguards and opposition victories changed the workings of federalism. The Congress split, its renewed national mandate, economic strain and protest then lead to the court orders of June 1975. The Emergency begins the next chapter."
       ]
     },
     {
