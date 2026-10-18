@@ -1354,6 +1354,22 @@
     "ongc-commission-origin": [
       "ONGC · Our growth story",
       "https://ongcindia.com/ar/web/eng/about-ongc/our-growth-story"
+    ],
+    "idbi-origin1964": [
+      "IDBI Bank · Institutional origins",
+      "https://www.idbibank.in/idbi-bank-about-us.aspx"
+    ],
+    "bsf-origin1965": [
+      "Sansad TV · Border Security Force historical background",
+      "https://sansadtv.nic.in/episode/national-security-border-security-force-03-december-2023"
+    ],
+    "jnu-origin1969": [
+      "JNU · Establishment and inauguration",
+      "https://www.jnu.ac.in/node/159898188"
+    ],
+    "postal-pin-origin1972": [
+      "Department of Posts · Golden jubilee of PINCODE",
+      "https://postagestamps.gov.in/Pdf/BROCHURE_GOLDEN_JUB_PINCODE.pdf"
     ]
   },
   "eras": [
@@ -2037,6 +2053,18 @@
           ]
         ],
         [
+          "1 July 1964",
+          "1964-07-01",
+          "idbi-development1964",
+          "Industrial development gains a dedicated finance institution",
+          "Economy",
+          "The Industrial Development Bank of India came into being on 1 July 1964 under the Industrial Development Bank of India Act, 1964. It was established as a development financial institution serving industry.",
+          "Development finance addressed the funding of industrial projects and capacity. The institution created in 1964 should be distinguished from its later conversion into a banking company in 2004. Its creation was also separate from the nationalisation of fourteen commercial banks in 1969.",
+          [
+            "idbi-origin1964"
+          ]
+        ],
+        [
           "1965",
           "1965-01-01",
           "food-corporation",
@@ -2084,6 +2112,18 @@
           "Military security and food supply became closely connected national priorities. The Tashkent agreement followed in January 1966.",
           [
             "foreign"
+          ]
+        ],
+        [
+          "1 December 1965",
+          "1965-12-01",
+          "bsf-raised1965",
+          "A dedicated Border Security Force is raised",
+          "Conflict",
+          "The Border Security Force was raised on 1 December 1965, following the India–Pakistan war. It created a centrally controlled force with defined roles in border security during peace and war.",
+          "The war prompted institutional changes as well as diplomatic negotiations. Raising the BSF was distinct from creating the armed forces or assigning every border to a single organisation. The formation date establishes an organisational change, rather than a measure of subsequent security outcomes.",
+          [
+            "bsf-origin1965"
           ]
         ],
         [
@@ -2199,6 +2239,18 @@
           [
             "official-languages-law",
             "official-languages-amendment-law"
+          ]
+        ],
+        [
+          "22 April / 14 November 1969",
+          "1969-04-22",
+          "jnu-established1969",
+          "JNU begins under a law enacted three years earlier",
+          "Society",
+          "Jawaharlal Nehru University came into existence on 22 April 1969 under the JNU Act, 1966. Its formal inauguration followed on 14 November 1969.",
+          "Legislation, establishment and inauguration were different stages. The university added to the expansion of higher education beyond the earlier specialist institutes. Its founding dates do not establish how access, research quality or campus politics developed in later decades.",
+          [
+            "jnu-origin1969"
           ]
         ],
         [
@@ -2371,6 +2423,18 @@
           "The agreement followed the 1971 war. It established a diplomatic framework but did not settle the Kashmir dispute or convert the Line of Control into an agreed international border.",
           [
             "simla"
+          ]
+        ],
+        [
+          "15 August 1972",
+          "1972-08-15",
+          "postal-pin1972",
+          "Six digits give mail a national routing system",
+          "Society",
+          "India introduced the six-digit Postal Index Number, or PIN, on 15 August 1972. The numbering system identifies postal regions, sorting districts and post offices to support mail routing.",
+          "Similar place names and addresses written in different languages complicated sorting. PIN supplied a common routing reference within the existing postal network. Introducing the code was different from opening the postal service, automating sorting or ensuring that every delivery arrived on time.",
+          [
+            "postal-pin-origin1972"
           ]
         ],
         [
@@ -2561,8 +2625,8 @@
         ]
       ],
       "overview": [
-        "Start with the succession after Nehru. The two leadership changes were constitutional transitions, but they occurred amid military and economic pressure. The war and the Tashkent agreement belong alongside the food crisis, not in a separate story with no domestic consequences.",
-        "Follow the institutions behind development. Agricultural price advice, grain procurement, dairy cooperatives, bank ownership and general insurance served different purposes. Coal nationalisation and patent reform addressed different parts of industrial policy. Contract-labour and gratuity laws added employment protections. The dates of decisions matter, but each also needs examination through coverage and implementation.",
+        "Start with the succession after Nehru. The two leadership changes were constitutional transitions, but they occurred amid military and economic pressure. The war and the Tashkent agreement belong alongside the food crisis, not in a separate story with no domestic consequences. The creation of the Border Security Force shows one institutional response to the 1965 conflict.",
+        "Follow the institutions behind development. Agricultural price advice, grain procurement, dairy cooperatives, bank ownership and general insurance served different purposes. Coal nationalisation and patent reform addressed different parts of industrial policy. Contract-labour and gratuity laws added employment protections. The dates of decisions matter, but each also needs examination through coverage and implementation. IDBI addressed industrial finance, JNU expanded the university landscape, and the six-digit PIN brought a common reference to postal routing.",
         "Read political competition, regional change and social action together. New states, language safeguards and opposition victories changed federal politics. Wildlife protection, Chipko and water-pollution regulation took different approaches to environmental concerns, while hockey supplied a major sporting milestone. The Congress split, its renewed mandate, economic strain and protest lead to the court orders of June 1975. The Emergency begins the next chapter."
       ]
     },
@@ -5532,6 +5596,22 @@
     ],
     "ongc-commission1956": [
       "public-steel1959"
+    ],
+    "idbi-development1964": [
+      "bank-nationalisation",
+      "second-five-year-plan"
+    ],
+    "bsf-raised1965": [
+      "pakistan-war",
+      "tashkent-declaration"
+    ],
+    "jnu-established1969": [
+      "ugc-foundations",
+      "education-policies"
+    ],
+    "postal-pin1972": [
+      "decimal-coinage",
+      "television-experiment1959"
     ]
   }
 }
