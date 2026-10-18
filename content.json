@@ -1370,6 +1370,22 @@
     "postal-pin-origin1972": [
       "Department of Posts · Golden jubilee of PINCODE",
       "https://postagestamps.gov.in/Pdf/BROCHURE_GOLDEN_JUB_PINCODE.pdf"
+    ],
+    "antarctic-first-expedition": [
+      "CSIR · First scientific expedition to Antarctica",
+      "https://www.csir.res.in/en/csir-success-stories/antarctica-expeditions-leadership-and-significant-contributions"
+    ],
+    "exim-operations-origin": [
+      "Export-Import Bank of India · Institutional history",
+      "https://www.eximbankindia.in/about-us"
+    ],
+    "kolkata-metro-opening": [
+      "Railways Ministry via PIB · Kolkata Metro’s first service",
+      "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2066105&lang=2&reg=48"
+    ],
+    "ignou-origins": [
+      "IGNOU · Establishment and first academic programmes",
+      "https://www.ignou.ac.in/pages/20"
     ]
   },
   "eras": [
@@ -2804,6 +2820,30 @@
           ]
         ],
         [
+          "December 1981–January 1982",
+          "1981-12-06",
+          "antarctic-expedition1981",
+          "India begins a national Antarctic research expedition",
+          "Science",
+          "India’s first national scientific expedition to Antarctica left Goa on 6 December 1981 aboard the chartered Norwegian ship MV Polar Circle. Led by S. Z. Qasim, the expedition landed in Antarctica on 9 January 1982.",
+          "The voyage extended organised scientific work into polar conditions, with observations at sea and on the continent. Departure, landing and establishing a permanent research station were different milestones. The expedition should not be described as a territorial acquisition or as proof that no Indian had previously visited Antarctica.",
+          [
+            "antarctic-first-expedition"
+          ]
+        ],
+        [
+          "March 1982",
+          "1982-03-01",
+          "exim-operations1982",
+          "A specialised bank begins financing international trade",
+          "Economy",
+          "The Export-Import Bank of India commenced operations in March 1982, following the passage of its governing Act in September 1981. It was created as a specialised institution for export and import finance.",
+          "The institution’s beginnings show that support for international trade preceded the reforms of 1991. Export finance, industrial development finance and rural credit served different needs. A new bank did not itself remove trade restrictions or establish that exports had become the main driver of growth. The source specifies the month of operational commencement.",
+          [
+            "exim-operations-origin"
+          ]
+        ],
+        [
           "1982",
           "1982-07-12",
           "nabard",
@@ -2888,6 +2928,18 @@
           ]
         ],
         [
+          "24 October 1984",
+          "1984-10-24",
+          "kolkata-metro1984",
+          "India’s first Metro service opens in Kolkata",
+          "Economy",
+          "India’s first Metro railway service began in Kolkata on 24 October 1984. The initial 3.4-kilometre section connected Esplanade and Bhowanipore, now Netaji Bhavan.",
+          "The opening brought a new form of urban rail service into operation on a limited stretch. It did not mark completion of the full planned network. The distinction between an operational section and a wider system matters when tracing the later expansion of Metro services in Indian cities.",
+          [
+            "kolkata-metro-opening"
+          ]
+        ],
+        [
           "October–November 1984",
           "1984-10-31",
           "anti-sikh-violence",
@@ -2909,6 +2961,18 @@
           "The disaster raises questions about industrial safety, emergency preparedness and corporate accountability. Death estimates differ by source and time period. A single number should not be presented without explaining what it counts.",
           [
             "bhopal"
+          ]
+        ],
+        [
+          "1985–1987",
+          "1985-01-01",
+          "ignou-open-learning",
+          "A national open university expands the routes into higher education",
+          "Society",
+          "Indira Gandhi National Open University was established by an Act of Parliament in 1985. It began offering two programmes in 1987, with an initial enrolment of 4,528 students: a Diploma in Management and a Diploma in Distance Education.",
+          "The university’s establishment and the start of teaching were separate steps. Open and distance learning offered another route alongside campus-based education. Enrolment, completion, affordability and the quality of learner support remain separate measures of access.",
+          [
+            "ignou-origins"
           ]
         ],
         [
@@ -3176,7 +3240,7 @@
       ],
       "overview": [
         "Begin with the Emergency and the response to it. Restrictions on political freedom coexisted with legislation on bonded labour and equal remuneration. These laws need examination on their own terms, without treating them as a measure of democratic freedom. The 1977 election, the inquiry into abuses and constitutional safeguards were followed by Janata’s collapse and Congress’s return.",
-        "The 1980s combined expanded public responsibilities with major failures of protection. Child-development services, adult literacy, air and forest regulation, and consumer remedies addressed different needs. Satellite services and Rakesh Sharma’s flight marked distinct space achievements; Delhi hosted the Asian Games before the cricket World Cup victory. Punjab, the anti-Sikh killings and Bhopal exposed different forms of violence and vulnerability. Assam and Mizoram pursued distinct settlements, and statehood changed the federal map.",
+        "The 1980s combined expanded public responsibilities with major failures of protection. Child-development services, adult literacy, air and forest regulation, and consumer remedies addressed different needs. Satellite services and Rakesh Sharma’s flight marked distinct space achievements; Delhi hosted the Asian Games before the cricket World Cup victory. Punjab, the anti-Sikh killings and Bhopal exposed different forms of violence and vulnerability. Assam and Mizoram pursued distinct settlements, and statehood changed the federal map. Antarctic fieldwork extended scientific activity beyond space missions. Exim Bank added trade finance, Kolkata opened a first Metro section, and IGNOU established a national route for open and distance learning.",
         "The closing years connect the Bofors allegations and accountability dispute with the 1989 election, followed by Mandal, the Ayodhya mobilisation and the displacement of Kashmiri Pandits. These were distinct developments with overlapping political consequences. SAARC and intervention in Sri Lanka also show contrasting regional commitments. The chapter ends with Rajiv Gandhi’s assassination during the 1991 election campaign. The next chapter takes up the economic crisis and reforms."
       ]
     },
@@ -5612,6 +5676,22 @@
     "postal-pin1972": [
       "decimal-coinage",
       "television-experiment1959"
+    ],
+    "antarctic-expedition1981": [
+      "rohini-slv3",
+      "rakesh-sharma-spaceflight"
+    ],
+    "exim-operations1982": [
+      "idbi-development1964",
+      "nabard"
+    ],
+    "kolkata-metro1984": [
+      "railway-strike1974"
+    ],
+    "ignou-open-learning": [
+      "jnu-established1969",
+      "education1986-programmes",
+      "national-literacy-mission"
     ]
   }
 }

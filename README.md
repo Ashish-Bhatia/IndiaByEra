@@ -19,7 +19,7 @@ GitHub Pages serves the repository root from `main`. No custom GitHub Actions wo
 
 ## Editorial scope
 
-The current edition contains 283 selected milestones, with 342 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
+The current edition contains 287 selected milestones, with 346 source references, from August 1947 through April 2026. The review date is not a claim of complete coverage through October 2026. Era boundaries are editorial choices. The third chapter includes the 1989–1991 transition to avoid a gap before economic reform.
 
 Programme announcements, legal enactment, commencement and measured results are different milestones. Context paragraphs contain editorial interpretation and should be reviewed alongside the linked records. Institutional records establish many dates and decisions but do not independently settle every assessment of outcomes.
 
@@ -29,4 +29,4 @@ Single dark editorial theme. Responsive chapter index, keyboard-operable disclos
 
 ## Focused editorial passes
 
-All six chapters have received focused editorial passes. Eras 1–6 contain 52, 47, 43, 40, 44 and 57 milestones respectively. The latest pass deepens Era 2, 1964–1975, with four milestones covering IDBI, the Border Security Force, JNU and the postal PIN system. It distinguishes institutional founding, legal authorisation, inauguration and later organisational forms. Other era content and the April 2026 coverage cutoff were preserved. Continue the next focused pass with Era 3, 1975–1991.
+All six chapters have received focused editorial passes. Eras 1–6 contain 52, 47, 47, 40, 44 and 57 milestones respectively. The latest pass deepens Era 3, 1975–1991, with four milestones covering the first national Antarctic expedition, Exim Bank operations, Kolkata Metro and IGNOU. It distinguishes departure and landing, legislation and operations, partial service and network completion, and university founding and teaching. Other era content and the April 2026 coverage cutoff were preserved. Continue the next focused pass with Era 4, 1991–2004.
