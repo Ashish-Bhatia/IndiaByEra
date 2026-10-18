@@ -1122,6 +1122,46 @@
     "quantum-mission2023": [
       "Department of Science and Technology · National Quantum Mission",
       "https://dst.gov.in/national-quantum-mission-nqm"
+    ],
+    "factories-law1948": [
+      "India Code · Factories Act, 1948",
+      "https://www.indiacode.nic.in/bitstream/123456789/1530/1/A194863.pdf"
+    ],
+    "factory-work-protection": [
+      "Labour Bureau · Purposes of the Factories Act",
+      "https://labourbureau.gov.in/ls-acts"
+    ],
+    "bhoodan-origin1951": [
+      "Ministry of Culture · The Bhoodan Movement",
+      "https://amritmahotsav.nic.in/district-reopsitory-detail.htm?6825="
+    ],
+    "family-planning-origin1952": [
+      "National Health Mission · Background of family planning",
+      "https://www.nhm.gov.in/index1.php?lang=1&level=1&lid=398&sublinkid=365"
+    ],
+    "community-development1952": [
+      "Nehru Archive · Inauguration of Community Development Programme",
+      "https://nehruarchive.in/visuals/inaugurating-the-community-development-programme-alipur-02-oct-1952-lvv5g5"
+    ],
+    "community-development-study": [
+      "Nagaland Evaluation Department · Community development study, 1975",
+      "https://evaluation.nagaland.gov.in/storage/published_studies/81692605209.pdf"
+    ],
+    "ambedkar-conversion1956": [
+      "Museums of India · Ambedkar embraces Buddhism, 14 October 1956",
+      "https://museumsofindia.gov.in/repository/record/avm_pun-diorama-06-679"
+    ],
+    "ambedkar-life": [
+      "Ministry of External Affairs · Life of B. R. Ambedkar",
+      "https://www.mea.gov.in/about-amb.htm"
+    ],
+    "decimal-coinage1957": [
+      "RBI Monetary Museum · Republic India coinage",
+      "https://systemhealth.rbi.org.in/Scripts/restrospectcoins.aspx.html"
+    ],
+    "doordarshan-origin1959": [
+      "Prasar Bharati · Doordarshan’s experimental beginnings",
+      "https://prasarbharati.gov.in/en/dd-national-homepage/"
     ]
   },
   "eras": [
@@ -1209,6 +1249,19 @@
           ]
         ],
         [
+          "1 April 1949",
+          "1949-04-01",
+          "factories-law-commencement",
+          "Factory work receives a revised framework of protection",
+          "Society",
+          "The Factories Act, 1948 came into force on 1 April 1949. It regulated covered factories through provisions on workers’ health, safety, welfare and working hours.",
+          "Industrial development concerned working conditions as well as output and investment. The Act’s scope did not encompass every worker in the economy. Statutory requirements, inspection and conditions inside workplaces need separate examination when assessing its effect.",
+          [
+            "factories-law1948",
+            "factory-work-protection"
+          ]
+        ],
+        [
           "1949–1950",
           "1949-11-26",
           "republic",
@@ -1272,6 +1325,18 @@
           ]
         ],
         [
+          "18 April 1951",
+          "1951-04-18",
+          "bhoodan-movement",
+          "Bhoodan seeks land redistribution through voluntary gifts",
+          "Society",
+          "Vinoba Bhave’s visit to Pochampally on 18 April 1951 marked the beginning of the Bhoodan movement. It sought voluntary gifts of land for redistribution to landless people.",
+          "Bhoodan offered a route to land reform outside compulsory state acquisition. Promises of land, legally valid transfers and possession by recipients were different stages. Its place in rural politics should therefore be distinguished from a claim that landlessness was resolved.",
+          [
+            "bhoodan-origin1951"
+          ]
+        ],
+        [
           "1951",
           "1951-06-18",
           "first-constitutional-amendment",
@@ -1306,6 +1371,31 @@
           [
             "democracy",
             "elections"
+          ]
+        ],
+        [
+          "1952",
+          "1952-01-01",
+          "family-planning-programme1952",
+          "Family planning enters national public-health policy",
+          "Society",
+          "India launched a national family-planning programme in 1952, according to the National Health Mission’s historical account. It placed population and reproductive-health concerns within national health planning.",
+          "The programme’s existence in 1952 should be distinguished from the methods, targets and coercive practices associated with later periods. Access to services, informed choice and demographic change require different evidence. The date shown is a year-level milestone.",
+          [
+            "family-planning-origin1952"
+          ]
+        ],
+        [
+          "2 October 1952",
+          "1952-10-02",
+          "community-development-programme",
+          "Community development creates an early rural programme",
+          "Economy",
+          "The Community Development Programme began on 2 October 1952, initially through selected development projects. Nehru inaugurated the programme at Alipur.",
+          "The programme placed rural development within an organised administrative effort before the Panchayati Raj experiments of the late 1950s. Government-led development projects and elected local self-government were different institutional arrangements. Their relationship helps explain the subsequent debate over participation in village development.",
+          [
+            "community-development1952",
+            "community-development-study"
           ]
         ],
         [
@@ -1467,6 +1557,19 @@
           ]
         ],
         [
+          "14 October 1956",
+          "1956-10-14",
+          "ambedkar-buddhist-conversion",
+          "Ambedkar embraces Buddhism at Nagpur",
+          "Society",
+          "B. R. Ambedkar embraced Buddhism at Nagpur on 14 October 1956. The event became a major milestone in his life and in the history of the Buddhist conversion movement in India.",
+          "The chapter’s social history extends beyond legislation passed by the state. Religious choice and collective identity were also part of struggles over dignity and caste. Ambedkar’s conversion belongs alongside his constitutional work, without reducing either to the other.",
+          [
+            "ambedkar-conversion1956",
+            "ambedkar-life"
+          ]
+        ],
+        [
           "1956",
           "1956-11-01",
           "states",
@@ -1476,6 +1579,18 @@
           "Reorganisation accommodated regional identities within the Union. It did not settle every boundary dispute, and further states were created in later decades.",
           [
             "nation"
+          ]
+        ],
+        [
+          "1 April 1957",
+          "1957-04-01",
+          "decimal-coinage",
+          "The rupee moves to a decimal system",
+          "Economy",
+          "Decimal coinage took effect on 1 April 1957. The rupee was divided into 100 paise in place of the earlier system of 16 annas or 64 pice. The new unit was called naya paisa to distinguish it during the transition.",
+          "The change reached everyday pricing, accounting and cash transactions. It altered the rupee’s subdivisions rather than creating a new national currency. The transition required people and institutions to work between familiar denominations and the new decimal units.",
+          [
+            "decimal-coinage1957"
           ]
         ],
         [
@@ -1501,6 +1616,18 @@
           "Hot-metal production was a stage in commissioning integrated plants, rather than evidence that every steelmaking and rolling unit was complete. India already had a private steel industry. The new plants expanded the public sector’s role in building industrial capacity.",
           [
             "steel-first-production"
+          ]
+        ],
+        [
+          "15 September 1959",
+          "1959-09-15",
+          "television-experiment1959",
+          "Television begins as a limited public-service experiment",
+          "Culture",
+          "Public-service television broadcasting began experimentally on 15 September 1959. Prasar Bharati traces Doordarshan’s beginnings to this small-scale experiment within All India Radio.",
+          "The experimental start was distinct from later regular service and nationwide expansion. Television’s eventual reach should not be projected back onto 1959. The milestone adds broadcasting and communication to the era’s account of new public institutions.",
+          [
+            "doordarshan-origin1959"
           ]
         ],
         [
@@ -1642,8 +1769,8 @@
       ],
       "overview": [
         "Begin with independence and the republic as separate milestones. Partition left urgent questions about territory, citizenship and rebuilding lives. Accession, the Constitution and the 1955 Citizenship Act addressed different parts of the new state. The resulting legal framework also faced early tests over speech, social reform and federal power.",
-        "Follow development through both institutions and concrete projects. The First and Second Plans placed different weights on agriculture and heavy industry. SBI, LIC, the UGC and the IITs served distinct purposes. Rourkela, Bhilai and Bhakra show how years of construction and investment produced milestones that were more specific than an entire project suddenly becoming complete.",
-        "Read social reform and regional accommodation alongside national institutions. Civil marriage, Hindu-law reform, the prohibition of untouchability and the dowry law addressed different rights and inequalities. Panchayati Raj, Maharashtra and Gujarat, official languages and Nagaland show several ways power and identity were negotiated. The Indus treaty and the China war show the contrasting paths taken by relations with India’s neighbours."
+        "Follow development through institutions, projects and daily life. The First and Second Plans placed different weights on agriculture and heavy industry. Factory protections addressed working conditions; community development and Bhoodan took different approaches to rural change. SBI, LIC, the UGC and the IITs served distinct purposes. Steel plants and Bhakra show construction becoming operational, while decimal coinage and experimental television changed other parts of everyday infrastructure.",
+        "Read social reform and regional accommodation alongside national institutions. Civil marriage, Hindu-law reform and laws against untouchability and dowry addressed different inequalities. Family planning entered public-health policy, while Ambedkar’s Buddhist conversion placed dignity and religious choice within the wider social story. Panchayati Raj, state reorganisation, official languages and Nagaland show several ways power and identity were negotiated. Relations with Pakistan and China followed contrasting paths through treaty and war."
       ]
     },
     {
