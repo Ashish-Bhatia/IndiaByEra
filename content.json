@@ -1302,6 +1302,42 @@
     "national-grid2013": [
       "Power Ministry via PIB · Southern grid synchronous connection",
       "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=102244"
+    ],
+    "niti-creation2015": [
+      "NITI Aayog · Annual report 2014–2015, founding resolution",
+      "https://www.niti.gov.in/sites/default/files/2018-12/Niti_annual_report-2014-15.pdf"
+    ],
+    "mpc-constitution2016": [
+      "RBI · Evolution of monetary-policy institutions",
+      "https://rbi.org.in/scripts/PublicationsView.aspx?Id=18086"
+    ],
+    "clean-air-launch2019": [
+      "Environment Ministry via PIB · NCAP launch, 10 January 2019",
+      "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=187400"
+    ],
+    "chandrayaan2-launch": [
+      "ISRO · Chandrayaan-2 mission and launch",
+      "https://www.isro.gov.in/Chandrayaan2_science.html"
+    ],
+    "chandrayaan2-outcomes": [
+      "ISRO · Scientific missions brochure, orbiter and landing outcomes",
+      "https://www.isro.gov.in/NSPD2025/assets/pdf/Scientific_Mission-Brochure.pdf"
+    ],
+    "chopra-tokyo-result": [
+      "World Athletics · Tokyo men’s javelin final, 7 August 2021",
+      "https://worldathletics.org/en/competitions/olympic-games/the-xxxii-olympic-games-7132391/results/men/javelin-throw/final/result"
+    ],
+    "chopra-olympic-report": [
+      "World Athletics · India’s first Olympic gold in athletics",
+      "https://worldathletics.org/news/report/tokyo-olympic-games-men-javelin-report?type=report&urlSlug=tokyo-olympic-games-men-javelin-report"
+    ],
+    "gati-shakti-launch2021": [
+      "PMO via PIB · Gati Shakti launch, 13 October 2021",
+      "https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1763576&lang=2&reg=48"
+    ],
+    "agnipath-original2022": [
+      "Defence Ministry via PIB · Original Agnipath recruitment design",
+      "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1833747&lang=2&reg=48"
     ]
   },
   "eras": [
@@ -4160,6 +4196,18 @@
           ]
         ],
         [
+          "1 January 2015",
+          "2015-01-01",
+          "niti-aayog-created",
+          "NITI Aayog replaces the Planning Commission",
+          "Economy",
+          "A government resolution dated 1 January 2015 replaced the Planning Commission with NITI Aayog, the National Institution for Transforming India. The new institution’s remit included policy strategy and advice to the Union and states.",
+          "The change revisited an institution founded in 1950. Replacing the commission changed the machinery of national policy coordination; it did not mean that public investment or development planning ended. Its role needs examination alongside the separate institutions governing budgets and finance.",
+          [
+            "niti-creation2015"
+          ]
+        ],
+        [
           "July 2015",
           "2015-07-01",
           "digital-india-launch",
@@ -4231,6 +4279,18 @@
           "Enactment did not make every part of the framework operational on the same day. Assessing its results requires distinguishing resolutions from liquidations and examining recovery, delay and the value of the assets involved. This entry describes the 2016 milestone, rather than every later amendment.",
           [
             "ibc-origin"
+          ]
+        ],
+        [
+          "29 September 2016",
+          "2016-09-29",
+          "monetary-policy-committee",
+          "Interest-rate decisions move to a statutory committee",
+          "Economy",
+          "A six-member Monetary Policy Committee was constituted on 29 September 2016 under the amended RBI Act. It comprised three internal and three external members and was tasked with determining the policy rate to achieve the inflation target.",
+          "The reform changed how monetary-policy decisions were made and accounted for. A committee decision and the subsequent path of inflation are different things: food supply, fuel prices and other economic conditions also affect prices. The institutional change belongs alongside the era’s financial reforms.",
+          [
+            "mpc-constitution2016"
           ]
         ],
         [
@@ -4320,6 +4380,18 @@
           ]
         ],
         [
+          "10 January 2019",
+          "2019-01-10",
+          "national-clean-air-programme",
+          "A national programme coordinates action on air pollution",
+          "Environment",
+          "The National Clean Air Programme launched on 10 January 2019 as a national strategy to tackle air pollution through coordinated action, including city-level plans.",
+          "The programme built on the earlier legal framework of pollution-control boards. Plans and spending need to be assessed against monitored pollution, local sources and implementation. A launch or a target is not a measured improvement in the air people breathe.",
+          [
+            "clean-air-launch2019"
+          ]
+        ],
+        [
           "February 2019",
           "2019-02-14",
           "pulwama-balakot",
@@ -4329,6 +4401,19 @@
           "The attack and military response intensified India–Pakistan tensions. Official statements establish the positions taken by the governments. Claims about strike casualties and the wider military outcome require independent evidence beyond those statements.",
           [
             "balakot-statement"
+          ]
+        ],
+        [
+          "22 July / September 2019",
+          "2019-07-22",
+          "chandrayaan2-mixed-outcome",
+          "Chandrayaan-2 reaches lunar orbit but misses its soft landing",
+          "Science",
+          "Chandrayaan-2 launched on 22 July 2019 with an orbiter, lander and rover. The September soft-landing attempt was unsuccessful, while the orbiter continued scientific observations with its instruments.",
+          "The mission had different outcomes for its components. Orbital science continued despite the loss of the landing objective. This sequence helps explain the later Chandrayaan-3 landing without treating exploration as an uninterrupted series of successes.",
+          [
+            "chandrayaan2-launch",
+            "chandrayaan2-outcomes"
           ]
         ],
         [
@@ -4459,6 +4544,31 @@
           ]
         ],
         [
+          "7 August 2021",
+          "2021-08-07",
+          "chopra-olympic-gold",
+          "Neeraj Chopra wins Olympic javelin gold",
+          "Culture",
+          "Neeraj Chopra won the men’s javelin final at the Tokyo Olympics on 7 August 2021 with a best throw of 87.58 metres. He became the first Indian to win an Olympic gold medal in athletics.",
+          "The result followed Abhinav Bindra’s individual Olympic gold in shooting in 2008 and India’s earlier team successes. It gives athletics its own place in the sporting timeline rather than folding every achievement into cricket’s history.",
+          [
+            "chopra-tokyo-result",
+            "chopra-olympic-report"
+          ]
+        ],
+        [
+          "13 October 2021",
+          "2021-10-13",
+          "gati-shakti-master-plan",
+          "Gati Shakti seeks coordinated infrastructure planning",
+          "Economy",
+          "PM Gati Shakti, a national master plan for multimodal connectivity, launched on 13 October 2021. It sought to improve coordination of infrastructure planning across ministries and networks.",
+          "Roads, railways, ports and other connections serve the same journeys and supply chains. Coordinating plans addresses their interfaces, while construction, service quality and logistics costs remain tests of delivery. The launch of a planning framework was not completion of its proposed infrastructure.",
+          [
+            "gati-shakti-launch2021"
+          ]
+        ],
+        [
           "November 2021",
           "2021-11-01",
           "climate-commitments2021",
@@ -4468,6 +4578,18 @@
           "A target is a commitment about the future. Installed electricity capacity, electricity generated, total energy use and economy-wide emissions measure different things. Progress in one does not establish that every climate objective has been achieved.",
           [
             "cop26-statement"
+          ]
+        ],
+        [
+          "14 June 2022",
+          "2022-06-14",
+          "agnipath-recruitment",
+          "Agnipath introduces a new route into military service",
+          "Democracy",
+          "The government approved the Agnipath recruitment scheme on 14 June 2022. Its original design provided four years of service for recruits known as Agniveers, with provision to select up to 25% of each specific batch for the regular cadre under the scheme’s criteria.",
+          "The announcement changed the recruitment and service model for the covered intake. The four-year engagement, selection for longer service and employment after exit were different stages. Retention ceilings should not be read as a guarantee that every batch would retain the maximum share.",
+          [
+            "agnipath-original2022"
           ]
         ],
         [
@@ -4729,9 +4851,9 @@
         ]
       ],
       "overview": [
-        "Begin with the 2014 political change and the programmes that followed. Banking, sanitation, LPG access and rural tap water addressed different household needs. Digital India, UPI, e-NAM and ration portability used technology in different services and markets. GST, housing regulation and insolvency reform changed legal and administrative frameworks. Connections, enrolment and working services need separate assessment.",
-        "The middle years brought disputes over privacy, citizenship and Jammu and Kashmir’s status, alongside legal changes concerning disability and transgender rights. Paris ratification preceded later climate commitments. Pulwama, Balakot and Galwan exposed security pressures on different borders. The pandemic disrupted work, migration and health care; vaccination and support programmes unfolded alongside severe losses and uneven access.",
-        "The later milestones connect climate and quantum-research missions, data protection and women’s representation with criminal-law changes and electoral accountability. The 2024 elections changed the political picture, while Pahalgam and the May 2025 India–Pakistan conflict brought another security crisis. Space and public-health work continued. The selected early-2026 milestones cover trade negotiations, AI diplomacy, statistical rebasing, census houselisting, tax-law commencement and an unsuccessful constitutional proposal. These entries distinguish announcements, implementation and parliamentary outcomes."
+        "Begin with the 2014 political change and the programmes and institutions that followed. NITI Aayog replaced the Planning Commission, while a statutory committee changed monetary-policy decisions. Banking, sanitation, LPG and rural tap water addressed household needs. Digital services, market platforms and ration portability used technology in different ways. GST, housing regulation and insolvency law changed other parts of the economic framework.",
+        "The middle years brought disputes over privacy, citizenship and Jammu and Kashmir’s status, alongside legal changes concerning disability and transgender rights. Paris ratification and the clean-air programme addressed different environmental questions. Chandrayaan-2 combined a working orbiter with an unsuccessful landing. Border crises and the pandemic exposed security and public-health pressures; vaccination and support programmes unfolded alongside severe losses and uneven access.",
+        "Later milestones span infrastructure coordination, Agnipath recruitment, climate and quantum research, data protection and women’s representation. Neeraj Chopra’s Olympic gold adds athletics to the sporting history. The 2024 elections changed the political picture; Pahalgam and the May 2025 India–Pakistan conflict brought another security crisis. Selected early-2026 entries cover trade negotiations, AI diplomacy, statistical rebasing, census houselisting, tax-law commencement and an unsuccessful constitutional proposal. Announcements, implementation and outcomes remain separate milestones."
       ]
     }
   ],
